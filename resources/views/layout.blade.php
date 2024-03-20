@@ -49,12 +49,12 @@
                         <div class="widget fs-15 fw-500 me-35px lg-me-25px md-me-0 text-dark-gray"><a class= "mx-1"
                                 href="tel:+91 92 7262 7262"><i class="feather icon-feather-phone-call"></i>92 7262
                                 7262</a>
-                            <a class= "mx-1" href="tel:+91 90 2800 0085"><i
+{{--                             <a class= "mx-1" href="tel:+91 90 2800 0085"><i
                                     class="feather icon-feather-phone-call"></i>90 2800
                                 0085</a>
                             <a class= "mx-1" href="tel:+91 92 7271 7271"><i
                                     class="feather icon-feather-phone-call"></i>92 7271
-                                7271</a>
+                                7271</a> --}}
                         </div>
                         <div class="widget fs-15 fw-500 text-dark-gray d-none d-lg-inline-block"><i
                                 class="feather icon-feather-map-pin"></i>Basement Supreme Commerce Classes, Khokadpura,
@@ -68,8 +68,8 @@
         <nav class="navbar navbar-expand-lg header-light bg-white responsive-sticky">
             <div class="container-fluid">
                 <div class="col-auto col-lg-2 me-lg-0 me-auto">
-                    <div class="default-logo" style="padding:10% 0">
-                        <a href=""> <img src="public/images/logo.png " style="width: 90%" /></a>
+                    <div class="default-logo" style="padding:10% 0; width: 100%">
+                        <a href=""> <img src="public/images/logo.png " style="width: 100%" /></a>
                     </div>
                 </div>
                 <div class="col-auto menu-order position-static">
@@ -103,7 +103,7 @@
                     <div class="header-icon">
                         <div class="header-button">
                             <a href="{{ url('/contactus') }}"
-                                class="btn btn-small btn-rounded btn-base-color btn-box-shadow">Let's discuss</a>
+                                class="btn btn-small btn-rounded btn-base-color btn-box-shadow">Get a Qoute</a>
                         </div>
                     </div>
                 </div>

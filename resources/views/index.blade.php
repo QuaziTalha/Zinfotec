@@ -40,7 +40,7 @@
                     <div class="row mt-10 align-items-center">
                         <div class="col-xl-5 col-lg-6 col-sm-5 xs-mb-25px text-center">
                             <div class="position-relative">
-                                <span class="w-200px h-200px bg-yellow rounded-circle d-inline-block"
+                                <span class="w-200px h-200px bg-main2 rounded-circle d-inline-block"
                                     data-anime="{ &quot;opacity&quot;: [0, 1], &quot;staggervalue&quot;: 0, &quot;easing&quot;: &quot;easeOutQuad&quot; }"></span>
                                 <span
                                     class="fs-160 lg-fs-150 text-dark-gray fw-700 position-absolute left-0px w-100 top-50 ls-minus-5px md-top-40px"
@@ -948,7 +948,8 @@
             <div class="row justify-content-center mb-2">
                 <div class="col-xxl-5 col-lg-7 col-md-8 text-center"
                     data-anime="{ &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                    <h4 class="text-dark-gray fw-700 ls-minus-1px">Attractive accounting articles updated daily basis</h4>
+                    <span>HOT COLLECTION</span>
+                    <h4 class="text-dark-gray fw-700 ls-minus-1px">Browse Our Top Products</h4>
                 </div>
             </div>
             <div class="row g-0">
@@ -965,8 +966,7 @@
                                 </div>
                                 <div class="card-body px-0 pt-30px pb-30px xs-pb-15px last-paragraph-no-margin">
                                     <a href="demo-accounting-blog-single-creative.html"
-                                        class="card-title mb-5px fw-600 text-dark-gray d-block">High returns on
-                                        investment</a>
+                                        class="card-title mb-5px fw-600 text-dark-gray d-block">Outdoor Fixed LED Video Wall Solutions</a>
                                     <p>Lorem ipsum simply dummy printing setting industry...</p>
                                 </div>
                             </div>
@@ -981,8 +981,7 @@
                                 </div>
                                 <div class="card-body px-0 pt-30px pb-30px xs-pb-15px last-paragraph-no-margin">
                                     <a href="demo-accounting-blog-single-creative.html"
-                                        class="card-title mb-5px fw-600 text-dark-gray d-block">Made businesses
-                                        efficient</a>
+                                        class="card-title mb-5px fw-600 text-dark-gray d-block">Indoor LED Video Walls</a>
                                     <p>Lorem ipsum simply dummy printing setting industry...</p>
                                 </div>
                             </div>
@@ -997,7 +996,7 @@
                                 </div>
                                 <div class="card-body px-0 pt-30px pb-30px xs-pb-15px last-paragraph-no-margin">
                                     <a href="demo-accounting-blog-single-creative.html"
-                                        class="card-title mb-5px fw-600 text-dark-gray d-block">Business meeting 2021</a>
+                                        class="card-title mb-5px fw-600 text-dark-gray d-block">LED Mobile Van Display</a>
                                     <p>Lorem ipsum simply dummy printing setting industry...</p>
                                 </div>
                             </div>
@@ -1012,16 +1011,44 @@
                                 </div>
                                 <div class="card-body px-0 pt-30px pb-30px xs-pb-15px last-paragraph-no-margin">
                                     <a href="demo-accounting-blog-single-creative.html"
-                                        class="card-title mb-5px fw-600 text-dark-gray d-block">Corporate workplace
-                                        ethics</a>
+                                        class="card-title mb-5px fw-600 text-dark-gray d-block">Customized Single Color LED Boards</a>
                                     <p>Lorem ipsum simply dummy printing setting industry...</p>
                                 </div>
                             </div>
                         </li>
-
+                        
+                        <li class="grid-item">
+                            <div class="card bg-transparent border-0 h-100">
+                                <div class="blog-image position-relative overflow-hidden border-radius-4px">
+                                    <a href="demo-accounting-blog-single-creative.html"><img
+                                            src="public/images/demo-accounting-blog-04.jpg" alt /></a>
+                                </div>
+                                <div class="card-body px-0 pt-30px pb-30px xs-pb-15px last-paragraph-no-margin">
+                                    <a href="demo-accounting-blog-single-creative.html"
+                                        class="card-title mb-5px fw-600 text-dark-gray d-block">PVC Panels & Decorative Walls</a>
+                                    <p>Lorem ipsum simply dummy printing setting industry...</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="grid-item">
+                            <div class="card bg-transparent border-0 h-100">
+                                <div class="blog-image position-relative overflow-hidden border-radius-4px">
+                                    <a href="demo-accounting-blog-single-creative.html"><img
+                                            src="public/images/demo-accounting-blog-04.jpg" alt /></a>
+                                </div>
+                                <div class="card-body px-0 pt-30px pb-30px xs-pb-15px last-paragraph-no-margin">
+                                    <a href="demo-accounting-blog-single-creative.html"
+                                        class="card-title mb-5px fw-600 text-dark-gray d-block">LED Glow Letter Cut Sign Board</a>
+                                    <p>Lorem ipsum simply dummy printing setting industry...</p>
+                                </div>
+                            </div>
+                        </li>
+                        
                     </ul>
                 </div>
             </div>
         </div>
     </section>
+
+    
 @endsection

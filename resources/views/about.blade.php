@@ -393,7 +393,8 @@
             <div class="row justify-content-center mb-3">
                 <div class="col-lg-6 col-md-7 col-sm-8 text-center"
                     data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                    <h3 class="fw-700 text-dark-gray ls-minus-2px">Meet the professional accounting people</h3>
+                    <span>HOT COLLECTION</span>
+                    <h3 class="fw-700 text-dark-gray ls-minus-2px">Browse Our Top Products</h3>
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2"
@@ -401,12 +402,12 @@
 
                 <div class="col text-center team-style-01 md-mb-30px">
                     <figure class="mb-0 hover-box box-hover position-relative">
-                        <img src="public/images/team-08.jpg" alt class="border-radius-6px" />
+                        <img src="" alt="Image" class="border-radius-6px" />
                         <figcaption class="w-100 p-30px lg-p-25px bg-white">
                             <div class="position-relative z-index-1 overflow-hidden lg-pb-5px">
-                                <span class="fs-19 d-block fw-600 text-dark-gray lh-26 ls-minus-05px">Jeremy dupont</span>
-                                <p class="m-0">Executive officer</p>
-                                <div class="social-icon hover-text mt-20px lg-mt-10px social-icon-style-05">
+                                <p class="fs-19 d-block fw-600 text-dark-gray lh-26 ls-minus-05px">Outdoor Fixed LED Video Wall Solutions</p>
+                                
+                                {{-- <div class="social-icon hover-text mt-20px lg-mt-10px social-icon-style-05">
                                     <a href="https://www.facebook.com/" target="_blank"
                                         class="fw-600 text-dark-gray">Fb.</a>
                                     <a href="https://www.instagram.com/" target="_blank"
@@ -414,7 +415,7 @@
                                     <a href="https://www.twitter.com/" target="_blank"
                                         class="fw-600 text-dark-gray">Tw.</a>
                                     <a href="https://dribbble.com/" target="_blank" class="fw-600 text-dark-gray">Dr.</a>
-                                </div>
+                                </div> --}}
                             </div>
                             <div class="box-overlay bg-white box-shadow-quadruple-large border-radius-6px"></div>
                         </figcaption>
@@ -424,20 +425,12 @@
 
                 <div class="col text-center team-style-01 md-mb-30px">
                     <figure class="mb-0 hover-box box-hover position-relative">
-                        <img src="public/images/team-09.jpg" alt class="border-radius-6px" />
+                        <img src="" alt="Image" class="border-radius-6px" />
                         <figcaption class="w-100 p-30px lg-p-25px bg-white">
                             <div class="position-relative z-index-1 overflow-hidden lg-pb-5px">
-                                <span class="fs-19 d-block fw-600 text-dark-gray lh-26 ls-minus-05px">Jessica dover</span>
-                                <p class="m-0">Vice president</p>
-                                <div class="social-icon hover-text mt-20px lg-mt-10px">
-                                    <a href="https://www.facebook.com/" target="_blank"
-                                        class="fw-600 text-dark-gray">Fb.</a>
-                                    <a href="https://www.instagram.com/" target="_blank"
-                                        class="fw-600 text-dark-gray">In.</a>
-                                    <a href="https://www.twitter.com/" target="_blank"
-                                        class="fw-600 text-dark-gray">Tw.</a>
-                                    <a href="https://dribbble.com/" target="_blank" class="fw-600 text-dark-gray">Dr.</a>
-                                </div>
+                                <p class="fs-19 d-block fw-600 text-dark-gray lh-26 ls-minus-05px">Indoor LED Video Walls</p>
+                                
+                                
                             </div>
                             <div class="box-overlay bg-white box-shadow-quadruple-large border-radius-6px"></div>
                         </figcaption>
@@ -447,20 +440,11 @@
 
                 <div class="col text-center team-style-01 xs-mb-30px">
                     <figure class="mb-0 hover-box box-hover position-relative">
-                        <img src="public/images/team-10.jpg" alt class="border-radius-6px" />
+                        <img src="" alt="Image" class="border-radius-6px" />
                         <figcaption class="w-100 p-30px lg-p-25px bg-white">
                             <div class="position-relative z-index-1 overflow-hidden lg-pb-5px">
-                                <span class="fs-19 d-block fw-600 text-dark-gray lh-26 ls-minus-05px">Matthew taylor</span>
-                                <p class="m-0">Financial officer</p>
-                                <div class="social-icon hover-text mt-20px lg-mt-10px">
-                                    <a href="https://www.facebook.com/" target="_blank"
-                                        class="fw-600 text-dark-gray">Fb.</a>
-                                    <a href="https://www.instagram.com/" target="_blank"
-                                        class="fw-600 text-dark-gray">In.</a>
-                                    <a href="https://www.twitter.com/" target="_blank"
-                                        class="fw-600 text-dark-gray">Tw.</a>
-                                    <a href="https://dribbble.com/" target="_blank" class="fw-600 text-dark-gray">Dr.</a>
-                                </div>
+                                <P class="fs-19 d-block fw-600 text-dark-gray lh-26 ls-minus-05px">LED Mobile Van Display</P>
+                                
                             </div>
                             <div class="box-overlay bg-white box-shadow-quadruple-large border-radius-6px"></div>
                         </figcaption>
@@ -470,11 +454,11 @@
 
                 <div class="col text-center team-style-01">
                     <figure class="mb-0 hover-box box-hover position-relative">
-                        <img src="public/images/team-11.jpg" alt class="border-radius-6px" />
+                        <img src="" alt="Image" class="border-radius-6px" />
                         <figcaption class="w-100 p-30px lg-p-25px bg-white">
                             <div class="position-relative z-index-1 overflow-hidden lg-pb-5px">
-                                <span class="fs-19 d-block fw-600 text-dark-gray lh-26 ls-minus-05px">Daniel james</span>
-                                <p class="m-0">People officer</p>
+                                <P class="fs-19 d-block fw-600 text-dark-gray lh-26 ls-minus-05px">Customized Single Color LED Boards</P>
+                                {{-- <p class="m-0">People officer</p>
                                 <div class="social-icon hover-text mt-20px lg-mt-10px">
                                     <a href="https://www.facebook.com/" target="_blank"
                                         class="fw-600 text-dark-gray">Fb.</a>
@@ -483,7 +467,48 @@
                                     <a href="https://www.twitter.com/" target="_blank"
                                         class="fw-600 text-dark-gray">Tw.</a>
                                     <a href="https://dribbble.com/" target="_blank" class="fw-600 text-dark-gray">Dr.</a>
-                                </div>
+                                </div> --}}
+                            </div>
+                            <div class="box-overlay bg-white box-shadow-quadruple-large border-radius-6px"></div>
+                        </figcaption>
+                    </figure>
+                </div>
+
+
+                <div class="col text-center team-style-01">
+                    <figure class="mb-0 hover-box box-hover position-relative">
+                        <img src="" alt="Image" class="border-radius-6px" />
+                        <figcaption class="w-100 p-30px lg-p-25px bg-white">
+                            <div class="position-relative z-index-1 overflow-hidden lg-pb-5px">
+                                <P class="fs-19 d-block fw-600 text-dark-gray lh-26 ls-minus-05px">Customized Single Color LED Boards</P>
+                                
+                            </div>
+                            <div class="box-overlay bg-white box-shadow-quadruple-large border-radius-6px"></div>
+                        </figcaption>
+                    </figure>
+                </div>
+
+
+                <div class="col text-center team-style-01">
+                    <figure class="mb-0 hover-box box-hover position-relative">
+                        <img src="" alt="Image" class="border-radius-6px" />
+                        <figcaption class="w-100 p-30px lg-p-25px bg-white">
+                            <div class="position-relative z-index-1 overflow-hidden lg-pb-5px">
+                                <P class="fs-19 d-block fw-600 text-dark-gray lh-26 ls-minus-05px">PVC Panels & Decorative Walls</P>
+                                
+                            </div>
+                            <div class="box-overlay bg-white box-shadow-quadruple-large border-radius-6px"></div>
+                        </figcaption>
+                    </figure>
+                </div>
+
+                <div class="col text-center team-style-01">
+                    <figure class="mb-0 hover-box box-hover position-relative">
+                        <img src="" alt="Image" class="border-radius-6px" />
+                        <figcaption class="w-100 p-30px lg-p-25px bg-white">
+                            <div class="position-relative z-index-1 overflow-hidden lg-pb-5px">
+                                <P class="fs-19 d-block fw-600 text-dark-gray lh-26 ls-minus-05px">LED Glow Letter Cut Sign Board</P>
+                                
                             </div>
                             <div class="box-overlay bg-white box-shadow-quadruple-large border-radius-6px"></div>
                         </figcaption>
