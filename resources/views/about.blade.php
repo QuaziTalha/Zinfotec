@@ -113,9 +113,10 @@
                     </div>
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-lg-start">
-                    <h3 class="fw-700 text-dark-gray ls-minus-2px">We are leader in tax advisor and financial.</h3>
-                    <p class="mb-40px xs-mb-30px w-90 lg-w-95 md-w-100">There are many variations of passages of available
-                        but the majority have suffered alteration some form by humou words which don't look believable.</p>
+                    <h3 class="fw-700 text-dark-gray ls-minus-1px">ZinfoTec Technologies PVT. LTD.</h3>
+                    <p class="mb-40px xs-mb-30px w-90 lg-w-95 md-w-100">
+                        Welcome to <b>ZinfoTec Technologies PVT. LTD.</b>., a leading professional LED display screen development and supply company. With years of experience in this field, we have established ourselves as a trusted name in Maharashtra since our inception in 2014. Our comprehensive infrastructure includes an assembling unit, workshop, dedicated marketing team, and a commitment to providing excellent after-sales support to our valued customers.
+                    </p>
                     <div class="row align-items-center mb-30px xs-mb-25px justify-content-center justify-content-lg-start">
 
                         <div class="col-lg-5 col-md-4 col-sm-5 last-paragraph-no-margin counter-style-04 xs-mb-25px">
@@ -167,10 +168,9 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 md-mb-50px"
                     data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                    <h3 class="fw-700 text-dark-gray ls-minus-2px">Global financial leader to financial markets quality.
+                    <h3 class="fw-700 text-dark-gray ls-minus-2px">Lighting the Way: Where Brilliance Meets Display Innovation
                     </h3>
-                    <p class="w-90 lg-w-100">Financial services provides excellence in client service and compliance
-                        through our unwavering commitment.</p>
+                    <p class="w-90 lg-w-100">ZinfoTec Technologies PVT. LTD. shines as the beacon of excellence in LED display solutions, illuminating possibilities with innovation and commitment. We transform visions into captivating realities, setting new standards in the realm of visual communication.</p>
                     <div class="accordion accordion-style-02 w-90 lg-w-100" id="accordion-style-02"
                         data-active-icon="fa-chevron-up" data-inactive-icon="fa-chevron-down">
 
@@ -179,17 +179,18 @@
                                 <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-01"
                                     aria-expanded="true" data-bs-parent="#accordion-style-02">
                                     <div class="accordion-title mb-0 position-relative text-dark-gray">
-                                        <i class="fa-solid fa-chevron-up fs-15"></i><span
-                                            class="fs-19 fw-600 ls-minus-05px">What is tax and legal advisory?</span>
+                                        <i class="fa-solid fa-chevron-down fs-15"></i><span
+                                            class="fs-19 fw-600 ls-minus-05px">Our Vision</span>
                                     </div>
                                 </a>
                             </div>
-                            <div id="accordion-style-02-01" class="accordion-collapse collapse show"
+                            <div id="accordion-style-02-01" class="accordion-collapse collapse collapse"
                                 data-bs-parent="#accordion-style-02">
                                 <div
                                     class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                    <p>The focus of the tax and legal department is on advisory services in the tax,
-                                        company, civil and commercial law.</p>
+                                    <p>
+                                        At <b>ZinfoTec Technologies PVT. LTD.</b>, our vision is to be a premier provider of the latest LED display screen products and applications. We take pride in embracing the challenge of delivering customized LED display solutions and upholding the highest standards of quality in the industry. By staying at the forefront of technological advancements, we strive to offer innovative and cutting-edge LED display solutions tailored to meet the unique needs of our customers. Through our commitment to excellence, we aim to establish ourselves as a trusted leader in the LED display industry, consistently delivering superior products&nbsp;and&nbsp;services
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -201,7 +202,7 @@
                                     aria-expanded="false" data-bs-parent="#accordion-style-02">
                                     <div class="accordion-title mb-0 position-relative text-dark-gray">
                                         <i class="fa-solid fa-chevron-down fs-15"></i><span
-                                            class="fs-19 fw-600 ls-minus-05px">What is company accounting?</span>
+                                            class="fs-19 fw-600 ls-minus-05px">Our Mission </span>
                                     </div>
                                 </a>
                             </div>
@@ -209,13 +210,14 @@
                                 data-bs-parent="#accordion-style-02">
                                 <div
                                     class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                    <p>The focus of the tax and legal department is on advisory services in the tax,
-                                        company, civil and commercial law.</p>
+                                    <p>
+                                        <b>ZinfoTec Technologies PVT. LTD.</b> is committed to providing professional and cost-effective LED display solutions for advertising. With our expertise and experience in collaborating with top-class media companies, we offer comprehensive and impactful LED display solutions that deliver stunning visual experiences. Our mission is to maximize the media value of city resources and highlight the commercial value of LED displays. We strive to be the preferred partner for businesses looking for innovative and effective advertising&nbsp;solutions.
+                                    </p>
                                 </div>
                             </div>
                         </div>
 
-
+{{-- 
                         <div class="accordion-item">
                             <div class="accordion-header border-bottom border-color-transparent">
                                 <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-03"
@@ -234,7 +236,7 @@
                                         company, civil and commercial law.</p>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
 
                     </div>
                 </div>
@@ -381,7 +383,7 @@
                             <i class="fa-solid fa-arrow-right icon-small text-dark-gray"></i>
                         </div>
 
-                    </div>
+                    </div>  
                 </div>
             </div>
         </div>

@@ -506,7 +506,7 @@
                     <div
                         class="bg-white h-100 border border-color-extra-medium-gray border-radius-6px text-center box-shadow-quadruple-large">
                         <div class="pt-10 pb-10">
-                            <img src="public/images/logo-monday-dark-green.svg" class="h-40px md-h-35px sm-h-40px" alt />
+                            <img src="public/images/tanishq.png" alt />
                         </div>
                         <div class="border-top border-1 border-color-extra-medium-gray p-15px last-paragraph-no-margin">
                             <p>Project management - <span class="fw-600 text-dark-gray ls-minus-05px">275% Growth</span>
@@ -518,7 +518,7 @@
                     <div
                         class="bg-white h-100 border border-color-extra-medium-gray border-radius-6px text-center box-shadow-quadruple-large">
                         <div class="pt-10 pb-10">
-                            <img src="public/images/logo-dropbox-dark-green.svg" class="h-40px md-h-35px sm-h-40px" alt />
+                            <img src="public/images/swiss-paradise.png"      alt />
                         </div>
                         <div class="border-top border-1 border-color-extra-medium-gray p-15px last-paragraph-no-margin">
                             <p>Secure storage - <span class="fw-600 text-dark-gray ls-minus-05px">235% Growth</span></p>
@@ -529,7 +529,7 @@
                     <div
                         class="bg-white h-100 border border-color-extra-medium-gray border-radius-6px text-center box-shadow-quadruple-large">
                         <div class="pt-10 pb-10">
-                            <img src="public/images/logo-slack-dark-green.svg" class="h-40px md-h-35px sm-h-40px" alt />
+                            <img src="public/images/LMS.png"alt />
                         </div>
                         <div class="border-top border-1 border-color-extra-medium-gray p-15px last-paragraph-no-margin">
                             <p>Team management - <span class="fw-600 text-dark-gray ls-minus-05px">195% Growth</span></p>
@@ -544,7 +544,7 @@
                     <div class="swiper-wrapper marquee-slide">
 
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-netflix-oxford-blue.svg"
+                            <a href="#"><img src="public/images/tanishq-dark.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
 
@@ -556,25 +556,25 @@
 
 
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-yahoo-oxford-blue.svg"
+                            <a href="https://www.caratlane.com/"><img src="public/images/caratlane_dark.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
 
 
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-walmart-oxford-blue.svg"
+                            <a href="#"><img src="public/images/LMS2.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
 
 
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-monday-oxford-blue.svg"
+                            <a href="#"><img src="public/images/TimesAvenue.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
 
 
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-logitech-oxford-blue.svg"
+                            <a href="#"><img src="public/images/swiss-dark.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
 
@@ -962,12 +962,12 @@
                             <div class="card bg-transparent border-0 h-100">
                                 <div class="blog-image position-relative overflow-hidden border-radius-4px">
                                     <a href="demo-accounting-blog-single-creative.html"><img
-                                            src="public/images/demo-accounting-blog-01.jpg" alt /></a>
+                                            src="public/images/P-6 Outdoor.jpg" alt /></a>
                                 </div>
                                 <div class="card-body px-0 pt-30px pb-30px xs-pb-15px last-paragraph-no-margin">
                                     <a href="demo-accounting-blog-single-creative.html"
                                         class="card-title mb-5px fw-600 text-dark-gray d-block">Outdoor Fixed LED Video Wall Solutions</a>
-                                    <p>Lorem ipsum simply dummy printing setting industry...</p>
+                                    
                                 </div>
                             </div>
                         </li>
@@ -977,12 +977,12 @@
                             <div class="card bg-transparent border-0 h-100">
                                 <div class="blog-image position-relative overflow-hidden border-radius-4px">
                                     <a href="demo-accounting-blog-single-creative.html"><img
-                                            src="public/images/demo-accounting-blog-02.jpg" alt /></a>
+                                            src="public/images/P-8 Indoor.jpg" alt /></a>
                                 </div>
                                 <div class="card-body px-0 pt-30px pb-30px xs-pb-15px last-paragraph-no-margin">
                                     <a href="demo-accounting-blog-single-creative.html"
                                         class="card-title mb-5px fw-600 text-dark-gray d-block">Indoor LED Video Walls</a>
-                                    <p>Lorem ipsum simply dummy printing setting industry...</p>
+                                    
                                 </div>
                             </div>
                         </li>
@@ -992,12 +992,12 @@
                             <div class="card bg-transparent border-0 h-100">
                                 <div class="blog-image position-relative overflow-hidden border-radius-4px">
                                     <a href="demo-accounting-blog-single-creative.html"><img
-                                            src="public/images/demo-accounting-blog-03.jpg" alt /></a>
+                                            src="public/images/LED Van.png" alt /></a>
                                 </div>
                                 <div class="card-body px-0 pt-30px pb-30px xs-pb-15px last-paragraph-no-margin">
                                     <a href="demo-accounting-blog-single-creative.html"
                                         class="card-title mb-5px fw-600 text-dark-gray d-block">LED Mobile Van Display</a>
-                                    <p>Lorem ipsum simply dummy printing setting industry...</p>
+                                    
                                 </div>
                             </div>
                         </li>
@@ -1007,12 +1007,12 @@
                             <div class="card bg-transparent border-0 h-100">
                                 <div class="blog-image position-relative overflow-hidden border-radius-4px">
                                     <a href="demo-accounting-blog-single-creative.html"><img
-                                            src="public/images/demo-accounting-blog-04.jpg" alt /></a>
+                                            src="public/images/Single Color.png" alt /></a>
                                 </div>
                                 <div class="card-body px-0 pt-30px pb-30px xs-pb-15px last-paragraph-no-margin">
                                     <a href="demo-accounting-blog-single-creative.html"
                                         class="card-title mb-5px fw-600 text-dark-gray d-block">Customized Single Color LED Boards</a>
-                                    <p>Lorem ipsum simply dummy printing setting industry...</p>
+                                    
                                 </div>
                             </div>
                         </li>
@@ -1021,25 +1021,25 @@
                             <div class="card bg-transparent border-0 h-100">
                                 <div class="blog-image position-relative overflow-hidden border-radius-4px">
                                     <a href="demo-accounting-blog-single-creative.html"><img
-                                            src="public/images/demo-accounting-blog-04.jpg" alt /></a>
+                                            src="public/images/PVC_Panel.png" alt /></a>
                                 </div>
                                 <div class="card-body px-0 pt-30px pb-30px xs-pb-15px last-paragraph-no-margin">
                                     <a href="demo-accounting-blog-single-creative.html"
                                         class="card-title mb-5px fw-600 text-dark-gray d-block">PVC Panels & Decorative Walls</a>
-                                    <p>Lorem ipsum simply dummy printing setting industry...</p>
+                                    
                                 </div>
-                            </div>
+                            </div>1
                         </li>
                         <li class="grid-item">
                             <div class="card bg-transparent border-0 h-100">
                                 <div class="blog-image position-relative overflow-hidden border-radius-4px">
                                     <a href="demo-accounting-blog-single-creative.html"><img
-                                            src="public/images/demo-accounting-blog-04.jpg" alt /></a>
+                                            src="public/images/Glow Sign.png" alt /></a>
                                 </div>
                                 <div class="card-body px-0 pt-30px pb-30px xs-pb-15px last-paragraph-no-margin">
                                     <a href="demo-accounting-blog-single-creative.html"
                                         class="card-title mb-5px fw-600 text-dark-gray d-block">LED Glow Letter Cut Sign Board</a>
-                                    <p>Lorem ipsum simply dummy printing setting industry...</p>
+                                    
                                 </div>
                             </div>
                         </li>

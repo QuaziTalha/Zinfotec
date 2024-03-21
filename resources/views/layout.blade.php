@@ -93,16 +93,16 @@
                             </li>
                             <li class="nav-item"><a href="{{ url('/clients') }}" class="nav-link">Clients</a>
                             </li>
-                            <li class="nav-item"><a href="{{ url('/contactus') }}" class="nav-link"> Contact
+                            <li class="nav-item"><a href="{{ url('/contact') }}" class="nav-link"> Contact
                                     Us</a>
                             </li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-auto col-lg-2 text-end d-none d-sm-flex">
-                    <div class="header-icon">
+                    <div class="header-icon">   
                         <div class="header-button">
-                            <a href="{{ url('/contactus') }}"
+                            <a href="{{ url('/contact') }}"
                                 class="btn btn-small btn-rounded btn-base-color btn-box-shadow">Get a Qoute</a>
                         </div>
                     </div>
