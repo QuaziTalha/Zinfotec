@@ -70,7 +70,7 @@
                     <div class="ps-14 pe-14 pt-12 pb-12 lg-p-12 bg-white box-shadow-quadruple-large border-radius-6px">
                         <h6 class="d-inline-block fw-600 text-dark-gray ls-minus-1px mb-35px sm-mb-25px"
                             data-anime="{ &quot;translateY&quot;: [15, 0], &quot;translateX&quot;: [-15, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                            Request a free advice?</h6>
+                            Get a Quote ?</h6>
 
                         <form action="https://craftohtml.themezaa.com/email-templates/contact-form.php" method="post"
                             data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [15, 0], &quot;translateX&quot;: [-15, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
@@ -508,10 +508,10 @@
                         <div class="pt-10 pb-10">
                             <img src="public/images/tanishq.png" alt />
                         </div>
-                        <div class="border-top border-1 border-color-extra-medium-gray p-15px last-paragraph-no-margin">
+                        {{-- <div class="border-top border-1 border-color-extra-medium-gray p-15px last-paragraph-no-margin">
                             <p>Project management - <span class="fw-600 text-dark-gray ls-minus-05px">275% Growth</span>
                             </p>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
                 <div class="col sm-mb-30px">
@@ -520,9 +520,7 @@
                         <div class="pt-10 pb-10">
                             <img src="public/images/swiss-paradise.png"      alt />
                         </div>
-                        <div class="border-top border-1 border-color-extra-medium-gray p-15px last-paragraph-no-margin">
-                            <p>Secure storage - <span class="fw-600 text-dark-gray ls-minus-05px">235% Growth</span></p>
-                        </div>
+                       
                     </div>
                 </div>
                 <div class="col">
@@ -531,16 +529,16 @@
                         <div class="pt-10 pb-10">
                             <img src="public/images/LMS.png"alt />
                         </div>
-                        <div class="border-top border-1 border-color-extra-medium-gray p-15px last-paragraph-no-margin">
-                            <p>Team management - <span class="fw-600 text-dark-gray ls-minus-05px">195% Growth</span></p>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
             <div class="row position-relative clients-style-08 mb-6 sm-mb-40px"
                 data-anime="{ &quot;translateX&quot;: [0, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+               
                 <div class="col swiper text-center feather-shadow"
                     data-slider-options="{ &quot;slidesPerView&quot;: 2, &quot;spaceBetween&quot;:0, &quot;speed&quot;: 6000, &quot;loop&quot;: true, &quot;pagination&quot;: { &quot;el&quot;: &quot;.slider-four-slide-pagination-2&quot;, &quot;clickable&quot;: false }, &quot;allowTouchMove&quot;: false, &quot;autoplay&quot;: { &quot;delay&quot;:0, &quot;disableOnInteraction&quot;: false }, &quot;navigation&quot;: { &quot;nextEl&quot;: &quot;.slider-four-slide-next-2&quot;, &quot;prevEl&quot;: &quot;.slider-four-slide-prev-2&quot; }, &quot;keyboard&quot;: { &quot;enabled&quot;: true, &quot;onlyInViewport&quot;: true }, &quot;breakpoints&quot;: { &quot;1200&quot;: { &quot;slidesPerView&quot;: 4 }, &quot;992&quot;: { &quot;slidesPerView&quot;: 4 }, &quot;768&quot;: { &quot;slidesPerView&quot;: 3 } }, &quot;effect&quot;: &quot;slide&quot; }">
+                    
                     <div class="swiper-wrapper marquee-slide">
 
                         <div class="swiper-slide">
@@ -550,13 +548,24 @@
 
 
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-invision-oxford-blue.svg"
+                            <a href="#"><img src="public/images/raymond.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
+
+                        <div class="swiper-slide">
+                            <a href="#"><img src="public/images/hollwood.png"
+                                    class="h-40px xs-h-30px" alt /></a>
+                        </div>
+                        
 
 
                         <div class="swiper-slide">
                             <a href="https://www.caratlane.com/"><img src="public/images/caratlane_dark.png"
+                                    class="h-40px xs-h-30px" alt /></a>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <a href="https://www.caratlane.com/"><img src="public/images/red-chif.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
 
@@ -580,38 +589,38 @@
 
 
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-netflix-oxford-blue.svg"
+                            <a href="#"><img src="public/images/smart-black.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
 
 
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-invision-oxford-blue.svg"
+                            <a href="#"><img src="public/images/faluda.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
 
 
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-yahoo-oxford-blue.svg"
+                            <a href="#"><img src="public/images/Smita.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
 
 
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-walmart-oxford-blue.svg"
+                            <a href="#"><img src="public/images/NAWAB_Tailors.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
 
 
+                        
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-monday-oxford-blue.svg"
+                            <a href="#"><img src="public/images/GetWelcancer-clinic.png"
                                     class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
+                            </div>
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-center align-items-center"
+           {{--  <div class="row justify-content-center align-items-center"
                 data-anime="{ &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
                 <div class="col-12 text-center">
                     <div
@@ -621,7 +630,7 @@
                             class="text-decoration-line-bottom text-dark-gray">10000+ companies</span> trusting crafto
                         accounting.</div>
                 </div>
-            </div>
+            </div> --}}
         </div>
     </section>
 
@@ -656,11 +665,28 @@
                                             class="d-inline-block text-dark-gray align-middle fw-500 fs-20 ls-minus-05px">Strategic
                                             planning</span>
                                     </div>
-                                    <h4 class="fw-700 text-dark-gray ls-minus-1px md-mb-20px">Organization's process of
-                                        defining strategy.</h4>
-                                    <p class="mb-35px md-mb-25px">We provide simplified accounting solutions and
-                                        qualitative business process services to the customers which helps streamline your
-                                        business and give your company a competitive. </p>
+                                    {{-- <h4 class="fw-700 text-dark-gray ls-minus-1px md-mb-20px">Why Choose Us?</h4>
+                                    <ul style="list-style-type:                  none; padding-left: 0;">
+                                        <li style="margin-bottom: 10px;">
+                                            At Zinfotech, we're not just about providing LED display solutions; we're committed to illuminating your path to success. Here's why you should choose us:
+                                        </li>
+                                        <li style="margin-bottom: 10px;">
+                                            Expertise: With years of industry experience, we bring unparalleled expertise to every project, ensuring superior results.
+                                        </li>
+                                        <li style="margin-bottom: 10px;">
+                                            Innovation: We stay ahead of the curve, constantly innovating to offer cutting-edge LED solutions that captivate audiences and drive impact.
+                                        </li>
+                                        <li style="margin-bottom: 10px;">
+                                            Customization: Your vision is our priority. We tailor our solutions to meet your unique needs, delivering bespoke displays that exceed expectations.
+                                        </li>
+                                        <li style="margin-bottom: 10px;">
+                                            Quality: From manufacturing to installation, we uphold the highest standards of quality, guaranteeing reliability and durability in every product.
+                                        </li>
+                                        <li>
+                                            Customer Satisfaction: Your satisfaction is our ultimate goal. We go above and beyond to ensure a seamless experience, from initial consultation to post-installation support.
+                                        </li>
+                                    </ul> --}}
+                                     
                                     <a href="demo-accounting-services.html"
                                         class="btn btn-large btn-rounded with-rounded btn-white btn-box-shadow fw-600">Learn
                                         more<span class="bg-base-color text-white"><i
@@ -840,105 +866,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row m-0 align-items-center justify-content-center border border-color-extra-medium-gray border-radius-100px md-border-radius-6px ps-10px pe-10px box-shadow-quadruple-large"
-                data-anime="{ &quot;scale&quot;: [1.1, 1], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 800, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                <div class="col-lg-10">
-                    <div class="swiper slider-one-slide testimonials-style-09"
-                        data-slider-options="{ &quot;slidesPerView&quot;: 1, &quot;loop&quot;: true, &quot;autoplay&quot;: { &quot;delay&quot;: 4000, &quot;disableOnInteraction&quot;: false }, &quot;navigation&quot;: { &quot;nextEl&quot;: &quot;.slider-one-slide-next-1&quot;, &quot;prevEl&quot;: &quot;.slider-one-slide-prev-1&quot; }, &quot;keyboard&quot;: { &quot;enabled&quot;: true, &quot;onlyInViewport&quot;: true }, &quot;effect&quot;: &quot;slide&quot; }">
-                        <div class="swiper-wrapper">
-
-                            <div class="swiper-slide">
-                                <div class="row align-items-center pt-25px pb-25px">
-                                    <div class="col-lg-8 d-lg-flex align-items-center text-center text-lg-start">
-                                        <img src="public/images/avtar-28.jpg"
-                                            class="rounded-circle w-100px h-100px md-mb-35px" alt>
-                                        <span class="d-block ps-40px md-ps-0 md-mx-auto position-relative"><img
-                                                src="public/images/demo-accounting-home-quote-img.png"
-                                                class="position-absolute left-minus-25px top-minus-15px lg-top-minus-5px md-top-minus-50px w-40px md-left-0px md-right-0px md-mx-auto"
-                                                alt>This is one of the best templates I've came across. Very organized,
-                                            great design style and easy around.</span>
-                                    </div>
-                                    <div class="col-lg-1 d-none d-lg-inline-block">
-                                        <div
-                                            class="separator-line w-1px md-w-100 h-60px md-h-1px bg-extra-medium-gray mx-auto">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 text-center text-lg-start md-mt-15px">
-                                        <span class="fs-19 ls-minus-05px fw-600 text-dark-gray d-block lh-28">Shoko
-                                            mugikura</span>
-                                        <div>Financial manager</div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                            <div class="swiper-slide">
-                                <div class="row align-items-center pt-25px pb-25px">
-                                    <div class="col-lg-8 d-lg-flex align-items-center text-center text-lg-start">
-                                        <img src="public/images/avtar-29.jpg"
-                                            class="rounded-circle w-100px h-100px md-mb-35px" alt>
-                                        <span class="d-block ps-40px md-ps-0 md-mx-auto position-relative"><img
-                                                src="public/images/demo-accounting-home-quote-img.png"
-                                                class="position-absolute left-minus-25px top-minus-15px lg-top-minus-5px md-top-minus-50px w-40px md-left-0px md-right-0px md-mx-auto"
-                                                alt>This is one of the best templates I've came across. Very organized,
-                                            great design style and easy around.</span>
-                                    </div>
-                                    <div class="col-lg-1 d-none d-lg-inline-block">
-                                        <div
-                                            class="separator-line w-1px md-w-100 h-60px md-h-1px bg-extra-medium-gray mx-auto">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 text-center text-lg-start md-mt-15px">
-                                        <span class="fs-19 ls-minus-05px fw-600 text-dark-gray d-block lh-28">Matthew
-                                            taylor</span>
-                                        <div>Financial manager</div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                            <div class="swiper-slide">
-                                <div class="row align-items-center pt-25px pb-25px">
-                                    <div class="col-lg-8 d-lg-flex align-items-center text-center text-lg-start">
-                                        <img src="public/images/avtar-27.jpg"
-                                            class="rounded-circle w-100px h-100px md-mb-35px" alt>
-                                        <span class="d-block ps-40px md-ps-0 md-mx-auto position-relative"><img
-                                                src="public/images/demo-accounting-home-quote-img.png"
-                                                class="position-absolute left-minus-25px top-minus-15px lg-top-minus-5px md-top-minus-50px w-40px md-left-0px md-right-0px md-mx-auto"
-                                                alt>This is one of the best templates I've came across. Very organized,
-                                            great design style and easy around.</span>
-                                    </div>
-                                    <div class="col-lg-1 d-none d-lg-inline-block">
-                                        <div
-                                            class="separator-line w-1px md-w-100 h-60px md-h-1px bg-extra-medium-gray mx-auto">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 text-center text-lg-start md-mt-15px">
-                                        <span class="fs-19 ls-minus-05px fw-600 text-dark-gray d-block lh-28">Herman
-                                            miller</span>
-                                        <div>Chief financial</div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-2 md-mb-25px">
-                    <div class="d-flex justify-content-center">
-
-                        <div
-                            class="slider-one-slide-prev-1 swiper-button-prev slider-navigation-style-04 bg-very-light-gray">
-                            <i class="fa-solid fa-arrow-left icon-small text-dark-gray"></i>
-                        </div>
-                        <div
-                            class="slider-one-slide-next-1 swiper-button-next slider-navigation-style-04 bg-very-light-gray">
-                            <i class="fa-solid fa-arrow-right icon-small text-dark-gray"></i>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
+            
         </div>
     </section>
 

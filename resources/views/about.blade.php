@@ -16,12 +16,13 @@
     </section>
 
 
-    <section>
+{{--     <section>
         <div class="container">
             <div class="row justify-content-center mb-3">
                 <div class="col-lg-7 col-md-8 col-sm-9 text-center"
                     data-anime="{ &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                    <h3 class="text-dark-gray fw-700 ls-minus-2px">Why choose us as your accountant consultant?</h3>
+                    <span>SPECIFICATION</span>
+                    <h3 class="text-dark-gray fw-700 ls-minus-2px">Product Specification</h3>
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center mb-5"
@@ -32,13 +33,12 @@
                         class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 md-p-13 border-radius-8px">
                         <div class="feature-box-icon">
                             <a href="demo-accounting-services-details.html"><img
-                                    src="public/images/demo-accounting-company-icon01.svg" class="h-95px" alt></a>
+                                    src="public/images/wifi.png" class="h-95px" alt></a>
                         </div>
                         <div class="feature-box-content">
-                            <a href="demo-accounting-services-details.html"
-                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Business process</a>
-                            <p class="mb-30px">An activity or set of activities that can accomplish a specific
-                                organizational goal.</p>
+                                <a href="demo-accounting-services-details.html"
+                                    class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Wireless</a>
+                            <p class="mb-30px">Nisl suscipit adipiscing bibendum est tempus imperdiet nulla malesuada.</p>
                         </div>
                     </div>
                 </div>
@@ -49,12 +49,11 @@
                         class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 md-p-13 border-radius-8px">
                         <div class="feature-box-icon">
                             <a href="demo-accounting-services-details.html"><img
-                                    src="public/images/demo-accounting-company-icon02.svg" class="h-95px" alt></a>
+                                    src="public/images/headphone.png" class="h-95px" alt></a>
                         </div>
                         <div class="feature-box-content">
                             <a href="demo-accounting-services-details.html"
-                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Corporate
-                                finance</a>
+                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Perfect Sound Quality</a>
                             <p class="mb-30px">We combine deep financial expertise with exclusive tools to help the maximize
                                 value.</p>
                         </div>
@@ -69,12 +68,68 @@
                         class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 md-p-13 border-radius-8px">
                         <div class="feature-box-icon">
                             <a href="demo-accounting-services-details.html"><img
-                                    src="public/images/demo-accounting-company-icon03.svg" class="h-95px" alt></a>
+                                    src="public/images/mic.png" class="h-95px" alt></a>
                         </div>
                         <div class="feature-box-content">
                             <a href="demo-accounting-services-details.html"
-                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Financial
-                                services</a>
+                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Awsome Microphone</a>
+                            <p class="mb-30px">Financial services are the economic services provided by the finance
+                                industry.</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center mb-5"
+                data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateX&quot;: [-30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+
+                <div class="col icon-with-text-style-07 transition-inner-all md-mb-30px">
+                    <div
+                        class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 md-p-13 border-radius-8px">
+                        <div class="feature-box-icon">
+                            <a href="demo-accounting-services-details.html"><img
+                                    src="public/images/mute.png" class="h-95px" alt></a>
+                        </div>
+                        <div class="feature-box-content">
+                            <a href="demo-accounting-services-details.html"
+                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Noise Cancelling</a>
+                            <p class="mb-30px">An activity or set of activities that can accomplish a specific
+                                organizational goal.</p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col icon-with-text-style-07 transition-inner-all md-mb-30px">
+                    <div
+                        class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 md-p-13 border-radius-8px">
+                        <div class="feature-box-icon">
+                            <a href="demo-accounting-services-details.html"><img
+                                    src="public/images/control.png" class="h-95px" alt></a>
+                        </div>
+                        <div class="feature-box-content">
+                            <a href="demo-accounting-services-details.html"
+                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Bluetooth</a>
+                            <p class="mb-30px">We combine deep financial expertise with exclusive tools to help the maximize
+                                value.</p>
+                        </div>
+                        <span
+                            class="position-absolute box-shadow-large top-25px lg-top-15px right-25px lg-right-15px bg-white border-radius-18px text-dark-gray fs-11 fw-700 text-uppercase ps-15px pe-15px lh-26 ls-minus-05px">New</span>
+                    </div>
+                </div>
+
+
+                <div class="col icon-with-text-style-07 transition-inner-all">
+                    <div
+                        class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 md-p-13 border-radius-8px">
+                        <div class="feature-box-icon">
+                            <a href="demo-accounting-services-details.html"><img
+                                    src="public/images/mic.png" class="h-95px" alt></a>
+                        </div>
+                        <div class="feature-box-content">
+                            <a href="demo-accounting-services-details.html"
+                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Easy To Control</a>
                             <p class="mb-30px">Financial services are the economic services provided by the finance
                                 industry.</p>
                         </div>
@@ -93,6 +148,128 @@
                         accounting.</div>
                 </div>
             </div>
+        </div>
+    </section> --}}
+    <section>
+        <div class="container">
+            <div class="row justify-content-center mb-3">
+                <div class="col-lg-7 col-md-8 col-sm-9 text-center"
+                    data-anime="{ &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+                    <span>SPECIFICATION</span>
+                    <h3 class="text-dark-gray fw-700 ls-minus-2px">Product Specification</h3>
+                </div>
+            </div>
+            <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center mb-5"
+                data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateX&quot;: [-30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+
+                <div class="col icon-with-text-style-07 transition-inner-all md-mb-30px">
+                    <div
+                        class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 md-p-13 border-radius-8px">
+                        <div class="feature-box-icon">
+                            <a href="demo-accounting-services-details.html"><img
+                                src="public/images/Zinfotech.png"     class="h-95px" alt></a>
+                        </div>
+                        <div class="feature-box-content">
+                                <a href="demo-accounting-services-details.html"
+                                    class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Zinfotech</a>
+                            <p class="mb-30px"> we're not just about providing LED display solutions; we're committed to illuminating your path to success. Here's why you should choose us:
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col icon-with-text-style-07 transition-inner-all md-mb-30px">
+                    <div
+                        class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 md-p-13 border-radius-8px">
+                        <div class="feature-box-icon">
+                            <a href="demo-accounting-services-details.html"><img
+                                src="public/images/expertise.png"   class="h-95px" alt></a>
+                        </div>
+                        <div class="feature-box-content">
+                            <a href="demo-accounting-services-details.html"
+                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Expertise</a>
+                            <p class="mb-30px"> With years of industry experience, we bring unparalleled expertise to every project, ensuring superior results.
+
+                            </p>
+                        </div>
+                        </div>
+                </div>
+
+
+                <div class="col icon-with-text-style-07 transition-inner-all">
+                    <div
+                        class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 md-p-13 border-radius-8px">
+                        <div class="feature-box-icon">
+                            <a href="demo-accounting-services-details.html"><img
+                                src="public/images/Innovation.png"class="h-95px" alt></a>
+                        </div>
+                        <div class="feature-box-content">
+                            <a href="demo-accounting-services-details.html"
+                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Innovation</a>
+                            <p class="mb-30px">We stay ahead of the curve, constantly innovating to offer cutting-edge LED solutions that captivate audiences and drive impact.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center mb-5"
+                data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateX&quot;: [-30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+
+                <div class="col icon-with-text-style-07 transition-inner-all md-mb-30px">
+                    <div
+                        class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 md-p-13 border-radius-8px">
+                        <div class="feature-box-icon">
+                            <a href="demo-accounting-services-details.html"><img
+                                src="public/images/Customization.png"  class="h-95px" alt></a>
+                        </div>
+                        <div class="feature-box-content">
+                            <a href="demo-accounting-services-details.html"
+                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Customization</a>
+                            <p class="mb-30px">
+                                 Your vision is our priority. We tailor our solutions to meet your unique needs, delivering bespoke displays that exceed expectations.
+                                </p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col icon-with-text-style-07 transition-inner-all md-mb-30px">
+                    <div
+                        class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 md-p-13 border-radius-8px">
+                        <div class="feature-box-icon">
+                            <a href="demo-accounting-services-details.html"><img
+                                src="public/images/Quality.png"    class="h-95px" alt></a>
+                        </div>
+                        <div class="feature-box-content">
+                            <a href="demo-accounting-services-details.html"
+                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Quality:</a>
+                            <p class="mb-30px"> From manufacturing to installation, we uphold the highest standards of quality, guaranteeing reliability and durability in every product.
+                            </p>
+                        </div>
+                        </div>
+                </div>
+
+
+                <div class="col icon-with-text-style-07 transition-inner-all">
+                    <div
+                        class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 md-p-13 border-radius-8px">
+                        <div class="feature-box-icon">
+                            <a href="demo-accounting-services-details.html"><img
+                                src="public/images/Customer Satisfaction.png" class="h-95px" alt></a>
+                        </div>
+                        <div class="feature-box-content">
+                            <a href="demo-accounting-services-details.html"
+                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Customer Satisfaction:</a>
+                            <p class="mb-30px"> Your satisfaction is our ultimate goal. We go above and beyond to ensure a seamless experience, from initial consultation to post-installation support..</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            
         </div>
     </section>
 
@@ -168,32 +345,31 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 md-mb-50px"
                     data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                    <h3 class="fw-700 text-dark-gray ls-minus-2px">Lighting the Way: Where Brilliance Meets Display Innovation
+                    <h3 class="fw-700 text-dark-gray ls-minus-2px">Leading the Way in Cutting-Edge Solutions, Lighting Up Your Future.
                     </h3>
-                    <p class="w-90 lg-w-100">ZinfoTec Technologies PVT. LTD. shines as the beacon of excellence in LED display solutions, illuminating possibilities with innovation and commitment. We transform visions into captivating realities, setting new standards in the realm of visual communication.</p>
-                    <div class="accordion accordion-style-02 w-90 lg-w-100" id="accordion-style-02"
+                    <p class="w-90 lg-w-100">ZinfoTec Technologies PVT. LTD. is a leading force in the LED display industry, specializing in cutting-edge solutions for outdoor and indoor advertising. Established in 2014, we pride ourselves on delivering vibrant, high-quality displays that captivate audiences. Committed to innovation and customer satisfaction, we offer customized LED solutions, ranging from fixed outdoor displays to mobile van advertising, enhancing the visual impact of brands and messages.
+                    </p>                        <div class="accordion accordion-style-02 w-90 lg-w-100" id="accordion-style-02"
                         data-active-icon="fa-chevron-up" data-inactive-icon="fa-chevron-down">
 
-                        <div class="accordion-item active-accordion">
-                            <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
-                                <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-01"
-                                    aria-expanded="true" data-bs-parent="#accordion-style-02">
-                                    <div class="accordion-title mb-0 position-relative text-dark-gray">
-                                        <i class="fa-solid fa-chevron-down fs-15"></i><span
-                                            class="fs-19 fw-600 ls-minus-05px">Our Vision</span>
+                            <div class="accordion-item active-accordion">
+                                <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
+                                    <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-01"
+                                        aria-expanded="true" data-bs-parent="#accordion-style-02">
+                                        <div class="accordion-title mb-0 position-relative text-dark-gray">
+                                            <i class="fa-solid fa-chevron-down fs-15"></i><span
+                                                class="fs-19 fw-600 ls-minus-05px">Our Vision</span>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div id="accordion-style-02-01" class="accordion-collapse collapse collapse"
+                                    data-bs-parent="#accordion-style-02">
+                                    <div
+                                        class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
+                                        <p>
+                                            At ZinfoTec Technologies, we aspire to lead the LED display industry by delivering customized solutions with the highest quality standards. Through innovation and staying ahead in technology, we aim to provide cutting-edge LED display products tailored to our customers' unique needs. Our commitment to excellence drives us to consistently deliver superior products and services, establishing trust and leadership in the industry.                                    </p>
                                     </div>
-                                </a>
-                            </div>
-                            <div id="accordion-style-02-01" class="accordion-collapse collapse collapse"
-                                data-bs-parent="#accordion-style-02">
-                                <div
-                                    class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                    <p>
-                                        At <b>ZinfoTec Technologies PVT. LTD.</b>, our vision is to be a premier provider of the latest LED display screen products and applications. We take pride in embracing the challenge of delivering customized LED display solutions and upholding the highest standards of quality in the industry. By staying at the forefront of technological advancements, we strive to offer innovative and cutting-edge LED display solutions tailored to meet the unique needs of our customers. Through our commitment to excellence, we aim to establish ourselves as a trusted leader in the LED display industry, consistently delivering superior products&nbsp;and&nbsp;services
-                                    </p>
                                 </div>
                             </div>
-                        </div>
 
 
                         <div class="accordion-item">
@@ -211,7 +387,8 @@
                                 <div
                                     class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
                                     <p>
-                                        <b>ZinfoTec Technologies PVT. LTD.</b> is committed to providing professional and cost-effective LED display solutions for advertising. With our expertise and experience in collaborating with top-class media companies, we offer comprehensive and impactful LED display solutions that deliver stunning visual experiences. Our mission is to maximize the media value of city resources and highlight the commercial value of LED displays. We strive to be the preferred partner for businesses looking for innovative and effective advertising&nbsp;solutions.
+
+                                        At ZinfoTec Technologies, we're dedicated to delivering professional and cost-effective LED display solutions for advertising. Leveraging our expertise and collaborations with top media companies, we provide impactful displays that maximize media and commercial value. Our mission is to be the preferred partner for businesses seeking innovative advertising solutions that captivate audiences and drive success.
                                     </p>
                                 </div>
                             </div>
@@ -285,109 +462,7 @@
     </section>
 
 
-    <section class="pt-md-0">
-        <div class="container overlap-section">
-            <div class="row m-0 align-items-center justify-content-center bg-white border-radius-100px md-border-radius-6px ps-10px pe-10px box-shadow-quadruple-large appear anime-complete"
-                data-anime="{ &quot;scale&quot;: [1.1, 1], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 800, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                <div class="col-lg-10">
-                    <div class="swiper slider-one-slide testimonials-style-09"
-                        data-slider-options="{ &quot;slidesPerView&quot;: 1, &quot;loop&quot;: true, &quot;autoplay&quot;: { &quot;delay&quot;: 4000, &quot;disableOnInteraction&quot;: false }, &quot;navigation&quot;: { &quot;nextEl&quot;: &quot;.slider-one-slide-next-1&quot;, &quot;prevEl&quot;: &quot;.slider-one-slide-prev-1&quot; }, &quot;keyboard&quot;: { &quot;enabled&quot;: true, &quot;onlyInViewport&quot;: true }, &quot;effect&quot;: &quot;slide&quot; }">
-                        <div class="swiper-wrapper">
-
-                            <div class="swiper-slide">
-                                <div class="row align-items-center pt-25px pb-25px">
-                                    <div class="col-lg-8 d-lg-flex align-items-center text-center text-lg-start">
-                                        <img src="public/images/avtar-30.jpg"
-                                            class="rounded-circle w-100px h-100px md-mb-35px" alt>
-                                        <span class="d-block ps-40px md-ps-0 md-mx-auto position-relative"><img
-                                                src="public/images/demo-accounting-home-quote-img.png"
-                                                class="position-absolute left-minus-25px top-minus-15px lg-top-minus-5px md-top-minus-50px w-40px md-left-0px md-right-0px md-mx-auto"
-                                                alt>This is one of the best templates I've came across. Very organized,
-                                            great design style and easy around.</span>
-                                    </div>
-                                    <div class="col-lg-1 d-none d-lg-inline-block">
-                                        <div
-                                            class="separator-line w-1px md-w-100 h-60px md-h-1px bg-extra-medium-gray mx-auto">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 text-center text-lg-start md-mt-15px">
-                                        <span class="fs-19 ls-minus-05px fw-600 text-dark-gray d-block lh-28">Shoko
-                                            mugikura</span>
-                                        <div>Financial manager</div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                            <div class="swiper-slide">
-                                <div class="row align-items-center pt-25px pb-25px">
-                                    <div class="col-lg-8 d-lg-flex align-items-center text-center text-lg-start">
-                                        <img src="public/images/avtar-29.jpg"
-                                            class="rounded-circle w-100px h-100px md-mb-35px" alt>
-                                        <span class="d-block ps-40px md-ps-0 md-mx-auto position-relative"><img
-                                                src="public/images/demo-accounting-home-quote-img.png"
-                                                class="position-absolute left-minus-25px top-minus-15px lg-top-minus-5px md-top-minus-50px w-40px md-left-0px md-right-0px md-mx-auto"
-                                                alt>This is one of the best templates I've came across. Very organized,
-                                            great design style and easy around.</span>
-                                    </div>
-                                    <div class="col-lg-1 d-none d-lg-inline-block">
-                                        <div
-                                            class="separator-line w-1px md-w-100 h-60px md-h-1px bg-extra-medium-gray mx-auto">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 text-center text-lg-start md-mt-15px">
-                                        <span class="fs-19 ls-minus-05px fw-600 text-dark-gray d-block lh-28">Matthew
-                                            taylor</span>
-                                        <div>Financial manager</div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                            <div class="swiper-slide">
-                                <div class="row align-items-center pt-25px pb-25px">
-                                    <div class="col-lg-8 d-lg-flex align-items-center text-center text-lg-start">
-                                        <img src="public/images/avtar-27.jpg"
-                                            class="rounded-circle w-100px h-100px md-mb-35px" alt>
-                                        <span class="d-block ps-40px md-ps-0 md-mx-auto position-relative"><img
-                                                src="public/images/demo-accounting-home-quote-img.png"
-                                                class="position-absolute left-minus-25px top-minus-15px lg-top-minus-5px md-top-minus-50px w-40px md-left-0px md-right-0px md-mx-auto"
-                                                alt>This is one of the best templates I've came across. Very organized,
-                                            great design style and easy around.</span>
-                                    </div>
-                                    <div class="col-lg-1 d-none d-lg-inline-block">
-                                        <div
-                                            class="separator-line w-1px md-w-100 h-60px md-h-1px bg-extra-medium-gray mx-auto">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 text-center text-lg-start md-mt-15px">
-                                        <span class="fs-19 ls-minus-05px fw-600 text-dark-gray d-block lh-28">Herman
-                                            miller</span>
-                                        <div>Chief financial</div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-2 md-mb-25px">
-                    <div class="d-flex justify-content-center">
-
-                        <div
-                            class="slider-one-slide-prev-1 swiper-button-prev slider-navigation-style-04 bg-very-light-gray">
-                            <i class="fa-solid fa-arrow-left icon-small text-dark-gray"></i>
-                        </div>
-                        <div
-                            class="slider-one-slide-next-1 swiper-button-next slider-navigation-style-04 bg-very-light-gray">
-                            <i class="fa-solid fa-arrow-right icon-small text-dark-gray"></i>
-                        </div>
-
-                    </div>  
-                </div>
-            </div>
-        </div>
-    </section>
+   
 
 
     <section class="py-0">
@@ -539,7 +614,7 @@
                     <div class="swiper-wrapper marquee-slide">
 
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-netflix-oxford-blue.svg"
+                            <a href="#"><img src="public/images/tanishq-dark.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
 
@@ -551,51 +626,61 @@
 
 
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-yahoo-oxford-blue.svg"
+                            <a href="https://www.caratlane.com/"><img src="public/images/caratlane_dark.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
 
 
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-walmart-oxford-blue.svg"
+                            <a href="#">
+                                <img src="public/images/LMS2.png" class="img-fluid h-80px xs-h-20px" alt />
+                            </a>
+                        </div>
+                        
+
+
+                        <div class="swiper-slide">
+                            <a href="#"><img src="public/images/TimesAvenue.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
 
 
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-logitech-oxford-blue.svg"
+                            <a href="#"><img src="public/images/swiss-dark.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
 
 
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-netflix-oxford-blue.svg"
+                            <a href="#"><img src="public/images/smart-black.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
 
 
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-invision-oxford-blue.svg"
+                            <a href="#"><img src="public/images/faluda.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
 
 
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-yahoo-oxford-blue.svg"
+                            <a href="#"><img src="public/images/Smita.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
 
 
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-walmart-oxford-blue.svg"
+                            <a href="#"><img src="public/images/NAWAB_Tailors.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
-
 
                         <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-logitech-oxford-blue.svg"
+                            <a href="#"><img src="public/images/GetWelcancer-clinic.png"
                                     class="h-40px xs-h-30px" alt /></a>
                         </div>
+
+
+                      
 
                     </div>
                 </div>
