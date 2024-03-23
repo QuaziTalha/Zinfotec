@@ -345,7 +345,7 @@
                                             </figcaption>
                                         </figure>
                                     </div>
-                                </div>
+                                </div>  
 
                             </div>
                         </div>
@@ -355,31 +355,11 @@
 
                 </div>
             </div>
-        </div>
+        </div>  
     </section> --}}
-    <div class="row align-items-center">
-        <div class="col-lg-7 ps-50px lg-ps-15px">
-                        <div class="row row-cols-1 row-cols-sm-2 justify-content-center">
-                            <div class="col xs-mb-30px"
-                                data-anime="{ &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                                <div class="bg-very-light-gray h-100 fs-17 lh-30 p-35px lg-p-25px border-radius-5px">
-                                    <img src="public/images/demo-accounting-contact-office.jpg" alt
-                                        class="border-radius-4px mb-30px lg-mb-20px">
-                                    <span class="alt-font text-dark-gray fs-19 fw-600 d-inline-block">Product 1</span>
-                                    
-                                </div>
-                            </div>
-                            <div class="col"
-                                data-anime="{ &quot;translateY&quot;: [-50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                                <div class="bg-very-light-gray h-100 fs-17 lh-30 p-35px lg-p-25px border-radius-5px">
-                                    <img src="public/images/demo-accounting-contact-office-img2.jpg" alt
-                                        class="border-radius-4px mb-30px lg-mb-20px">
-                                    <span class="alt-font text-dark-gray fs-19 fw-600 d-inline-block">Product 2</span>
-                                   
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-    </div>
-     </div>
+    
+    <
+
+    
+    
 @endsection

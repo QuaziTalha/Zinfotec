@@ -109,17 +109,16 @@
     </section>
 
 
-    <section class="bg-very-light-gray overflow-hidden">
+    <section class=" overflow-hidden" style="background-color: #023047 ;">
         <div class="container">
             <div class="row align-items-center justify-content-center mb-6 text-center text-lg-start">
                 <div class="col-xl-5 col-lg-5 md-mb-20px"
                     data-anime="{ &quot;translateX&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                    <h4 class="text-dark-gray fw-700 mb-0 ls-minus-1px">Why choose us as your accountant consultant?</h4>
+                    <h4 class="text-warning fw-700 mb-0 ls-minus-1px">Whata we DO :</h4>
                 </div>
                 <div class="col-xl-5 col-lg-5 last-paragraph-no-margin md-mb-30px"
                     data-anime="{ &quot;translateX&quot;: [-50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                    <p class="w-90 xl-w-100 md-w-80 sm-w-100 md-mx-auto">We put a strong focus on the needs of your business
-                        to figure out solutions that best fits your demand.</p>
+                    <p class="w-90 xl-w-100 md-w-80 sm-w-100 md-mx-auto">" Illuminate Your Brand, Captivate Your Audience with ZinfoTec's LED Solutions.. "</p>
                 </div>
                 <div class="col-xl-2 col-lg-2 d-flex justify-content-center justify-content-lg-end"
                     data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateX&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 800, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
@@ -539,85 +538,54 @@
                 <div class="col swiper text-center feather-shadow"
                     data-slider-options="{ &quot;slidesPerView&quot;: 2, &quot;spaceBetween&quot;:0, &quot;speed&quot;: 6000, &quot;loop&quot;: true, &quot;pagination&quot;: { &quot;el&quot;: &quot;.slider-four-slide-pagination-2&quot;, &quot;clickable&quot;: false }, &quot;allowTouchMove&quot;: false, &quot;autoplay&quot;: { &quot;delay&quot;:0, &quot;disableOnInteraction&quot;: false }, &quot;navigation&quot;: { &quot;nextEl&quot;: &quot;.slider-four-slide-next-2&quot;, &quot;prevEl&quot;: &quot;.slider-four-slide-prev-2&quot; }, &quot;keyboard&quot;: { &quot;enabled&quot;: true, &quot;onlyInViewport&quot;: true }, &quot;breakpoints&quot;: { &quot;1200&quot;: { &quot;slidesPerView&quot;: 4 }, &quot;992&quot;: { &quot;slidesPerView&quot;: 4 }, &quot;768&quot;: { &quot;slidesPerView&quot;: 3 } }, &quot;effect&quot;: &quot;slide&quot; }">
                     
+                  
                     <div class="swiper-wrapper marquee-slide">
-
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/tanishq-dark.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/raymond.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/hollwood.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-                        
-
-
-                        <div class="swiper-slide">
-                            <a href="https://www.caratlane.com/"><img src="public/images/caratlane_dark.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <a href="https://www.caratlane.com/"><img src="public/images/red-chif.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/LMS2.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/TimesAvenue.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/swiss-dark.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/smart-black.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/faluda.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/Smita.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/NAWAB_Tailors.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-
-                        
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/GetWelcancer-clinic.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                            </div>
+                        <script>
+                            var images = [
+                                {src: "tanishq-dark.png", link: ""},
+                                {src: "raymond.png", link: ""},
+                                {src: "hollwood.png", link: ""},
+                                {src: "caratlane_dark.png", link: ""},  
+                                {src: "red-chif.png", link: ""},
+                                {src: "LMS2.png", link: ""},
+                                {src: "TimesAvenue.png", link: ""},
+                                {src: "swiss-dark.png", link: ""},
+                                {src: "smart-black.png", link: ""},
+                                {src: "faluda.png", link: ""},
+                                {src: "Smita.png", link: ""},
+                                {src: "NAWAB_Tailors.png", link: ""},
+                                {src: "GetWelcancer-clinic.png", link: ""},
+                                {src: "Kumam-1.png", link: ""},
+                                {src: "kumar-nx-1.png", link: ""},
+                                {src: "sajan-sajani.png", link: ""},
+                                {src: "saffron.png", link: ""},
+                                {src: "Quadri-mental-hospital1.png", link: ""},
+                                {src: "maham-collection.png", link: ""},
+                                {src: "q-mall.png", link: ""},
+                                {src: "humsafar-travels.jpg.png", link: ""},
+                                {src: "Varroc-Logo.png", link: ""},
+                                {src: "ENDURANCE.png", link: ""},
+                                {src: "sanjeev.png", link: ""},
+                                {src: "marelli.png", link: ""},
+                                {src: "corning.jpg.png", link: ""},
+                                {src: "aurangabad-electrical.png", link: ""},
+                                {src: "Bajaj_Electricals.jpg.png", link: ""},
+                                {src: "bagla.png", link: ""},
+                                {src: "Alicon.jpg.png", link: ""},
+                                {src: "Glenmark_Pharmaceuticals.png", link: ""},
+                                {src: "flash-electronics.png", link: ""},
+                                {src: "bkt-growig-together.png", link: ""},
+                                {src: "Pitti.jpg.png", link: ""},
+                                {src: "elllora.png", link: ""}              
+                            ];
+                    
+                            for (var i = 0; i < images.length; i++) {
+                                document.write('<div class="swiper-slide"><a href="' + images[i].link + '"><img src="public/images/' + images[i].src + '" class="h-40px xs-h-30px" alt /></a></div>');
+                            }
+                        </script>
                     </div>
+                    
+                    
                 </div>
             </div>
            {{--  <div class="row justify-content-center align-items-center"
@@ -635,7 +603,7 @@
     </section>
 
 
-    <section class="bg-very-light-gray pb-0" id="services">
+    <section class=" pb-0" style="background-color: #023047 ;"   id="services">
         <div class="container">
             <div class="row mb-8 sm-mb-10">
                 <div class="col-12 tab-style-08">
@@ -659,34 +627,29 @@
                                     data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateX&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
                                     <div class="mb-20px">
                                         <div
-                                            class="separator-line-1px w-50px bg-base-color d-inline-block align-middle me-10px opacity-2">
+                                            class="separator-line-1px w-50px  d-inline-block align-middle me-10px opacity-2">
                                         </div>
                                         <span
-                                            class="d-inline-block text-dark-gray align-middle fw-500 fs-20 ls-minus-05px">Strategic
-                                            planning</span>
+                                            class="d-inline-block text-warning align-middle fw-500 fs-20 ls-minus-05px">Product Specification</span>
                                     </div>
-                                    {{-- <h4 class="fw-700 text-dark-gray ls-minus-1px md-mb-20px">Why Choose Us?</h4>
-                                    <ul style="list-style-type:                  none; padding-left: 0;">
-                                        <li style="margin-bottom: 10px;">
-                                            At Zinfotech, we're not just about providing LED display solutions; we're committed to illuminating your path to success. Here's why you should choose us:
-                                        </li>
-                                        <li style="margin-bottom: 10px;">
-                                            Expertise: With years of industry experience, we bring unparalleled expertise to every project, ensuring superior results.
-                                        </li>
-                                        <li style="margin-bottom: 10px;">
-                                            Innovation: We stay ahead of the curve, constantly innovating to offer cutting-edge LED solutions that captivate audiences and drive impact.
-                                        </li>
-                                        <li style="margin-bottom: 10px;">
-                                            Customization: Your vision is our priority. We tailor our solutions to meet your unique needs, delivering bespoke displays that exceed expectations.
-                                        </li>
-                                        <li style="margin-bottom: 10px;">
-                                            Quality: From manufacturing to installation, we uphold the highest standards of quality, guaranteeing reliability and durability in every product.
-                                        </li>
-                                        <li>
-                                            Customer Satisfaction: Your satisfaction is our ultimate goal. We go above and beyond to ensure a seamless experience, from initial consultation to post-installation support.
-                                        </li>
-                                    </ul> --}}
-                                     
+                                    
+                                            <div class="column">
+                                            <div class="row" >We combine deep financial expertise with exclusive tools to help the maximize
+                                                value.</div>
+                                                <hr>
+                                            <div class="row">Financial services are the economic services provided by the finance
+                                                industry.</div>
+                                                <hr>
+                                            <div class="row">An activity or set of activities that can accomplish a specific
+                                                    organizational goal.    </div>
+                                                <hr>
+                                            <div class="row">We combine deep financial expertise with exclusive tools to help the maximize
+                                                        value.</div>
+                                                       
+                                            
+                                </div>
+
+                                     <br>   
                                     <a href="demo-accounting-services.html"
                                         class="btn btn-large btn-rounded with-rounded btn-white btn-box-shadow fw-600">Learn
                                         more<span class="bg-base-color text-white"><i
@@ -956,7 +919,7 @@
                                         class="card-title mb-5px fw-600 text-dark-gray d-block">PVC Panels & Decorative Walls</a>
                                     
                                 </div>
-                            </div>1
+                            </div>
                         </li>
                         <li class="grid-item">
                             <div class="card bg-transparent border-0 h-100">

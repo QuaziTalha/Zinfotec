@@ -130,8 +130,8 @@
                         <div class="feature-box-content">
                             <a href="demo-accounting-services-details.html"
                                 class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Easy To Control</a>
-                            <p class="mb-30px">Financial services are the economic services provided by the finance
-                                industry.</p>
+                                <p class="mb-30px">Financial services are the economic services provided by the finance
+                                    industry.</p>
                         </div>
                     </div>
                 </div>
@@ -155,8 +155,7 @@
             <div class="row justify-content-center mb-3">
                 <div class="col-lg-7 col-md-8 col-sm-9 text-center"
                     data-anime="{ &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                    <span>SPECIFICATION</span>
-                    <h3 class="text-dark-gray fw-700 ls-minus-2px">Product Specification</h3>
+                    <h3 class="text-dark-gray fw-700 ls-minus-2px">Why Choose Us?</h3>
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center mb-5"
@@ -274,7 +273,7 @@
     </section>
 
 
-    <section class="pt-0 big-section">
+    <section class="pt-0 big-section" style="background-color: #023047 ;"> 
         <div class="container">
             <div class="row align-items-center"
                 data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
@@ -290,31 +289,30 @@
                     </div>
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-lg-start">
-                    <h3 class="fw-700 text-dark-gray ls-minus-1px">ZinfoTec Technologies PVT. LTD.</h3>
+                    <h3 class="fw-700 text-warning ls-minus-1px">ZinfoTec Technologies PVT. LTD.</h3>
                     <p class="mb-40px xs-mb-30px w-90 lg-w-95 md-w-100">
                         Welcome to <b>ZinfoTec Technologies PVT. LTD.</b>., a leading professional LED display screen development and supply company. With years of experience in this field, we have established ourselves as a trusted name in Maharashtra since our inception in 2014. Our comprehensive infrastructure includes an assembling unit, workshop, dedicated marketing team, and a commitment to providing excellent after-sales support to our valued customers.
                     </p>
                     <div class="row align-items-center mb-30px xs-mb-25px justify-content-center justify-content-lg-start">
 
-                        <div class="col-lg-5 col-md-4 col-sm-5 last-paragraph-no-margin counter-style-04 xs-mb-25px">
-                            <h3 class="vertical-counter d-inline-flex fw-700 text-dark-gray mb-0 ls-minus-2px xl-ls-minus-1px"
-                                data-text="+" data-to="280"><sup class="text-yellow top-0px me-5px"><i
-                                        class="feather icon-feather-users icon-very-medium"></i></sup></h3>
-                            <span class="fw-500 text-dark-gray mb-10px d-block ls-minus-05px">Accountant team</span>
-                        </div>
+                        {{--  <div class="col-lg-5 col-md-4 col-sm-5 last-paragraph-no-margin counter-style-04 xs-mb-25px">
+                                <h3 class="vertical-counter d-inline-flex fw-700 text-dark-gray mb-0 ls-minus-2px xl-ls-minus-1px"
+                                    data-text="+" data-to="280"><sup class="text-yellow top-0px me-5px"><i
+                                            class="feather icon-feather-users icon-very-medium"></i></sup></h3>
+                                <span class="fw-500 text-dark-gray mb-10px d-block ls-minus-05px">Accountant team</span>
+                            </div>
 
 
-                        <div class="col-lg-6 col-md-4 col-sm-5 last-paragraph-no-margin counter-style-04">
-                            <h3 class="vertical-counter d-inline-flex fw-700 text-dark-gray mb-0 ls-minus-2px xl-ls-minus-1px"
-                                data-text="+" data-to="465"><sup class="text-yellow top-0px me-5px"><i
-                                        class="feather icon-feather-briefcase icon-very-medium"></i></sup></h3>
-                            <span class="fw-500 text-dark-gray mb-10px d-block ls-minus-05px">Projects completed</span>
-                        </div>
+                            <div class="col-lg-6 col-md-4 col-sm-5 last-paragraph-no-margin counter-style-04">
+                                <h3 class="vertical-counter d-inline-flex fw-700 text-dark-gray mb-0 ls-minus-2px xl-ls-minus-1px"
+                                    data-text="+" data-to="465"><sup class="text-yellow top-0px me-5px"><i
+                                            class="feather icon-feather-briefcase icon-very-medium"></i></sup></h3>
+                                <span class="fw-500 text-dark-gray mb-10px d-block ls-minus-05px">Projects completed</span>
+                            </div> --}}
 
                     </div>
                     <a href="demo-accounting-services.html"
-                        class="btn btn-large btn-rounded with-rounded btn-base-color btn-round-edge btn-box-shadow">Let's
-                        discuss<span class="bg-orient-blue text-white"><i
+                        class="btn btn-large btn-rounded with-rounded btn-base-color btn-round-edge btn-box-shadow">Explore<span class="bg-orient-blue text-white"><i
                                 class="feather icon-feather-arrow-right icon-small"></i></span></a>
                 </div>
             </div>
@@ -327,10 +325,10 @@
             <div class="row align-items-center justify-content-center g-0">
                 <div class="col-auto d-flex align-items-center"
                     data-anime="{ &quot;translateY&quot;: [0, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                    <img src="public/images/demo-accounting-img-05.jpg" alt />
+                    <img src="public/images/ledlight.png" alt />
                     <div class="fs-19 lh-28 last-paragraph-no-margin text-white pt-15px pb-15px">
-                        <p>Save your precious time and effort spent for finding a solution. <a
-                                href="demo-accounting-contact.html"
+                        <p>Empower Your Progress, Illuminate Your Path with ZinfoTec's LED Excellence. <a
+                            href="{{ url('/contact') }}"
                                 class="text-decoration-line-bottom fw-500 text-white">Contact us now</a></p>
                     </div>
                 </div>
@@ -418,7 +416,7 @@
                     </div>
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6"
-                    data-anime="{ &quot;translateY&quot;: [0, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+                    data-anime="{ &quot;translateY&quot;: [0, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1800, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
 
                     <div class="outside-box-right-30 position-relative">
                         <img src="public/images/demo-accounting-company-03.png" alt />
@@ -462,227 +460,67 @@
     </section>
 
 
-   
 
-
-    <section class="py-0">
-        <div class="container">
-            <div class="row justify-content-center mb-3">
-                <div class="col-lg-6 col-md-7 col-sm-8 text-center"
-                    data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                    <span>HOT COLLECTION</span>
-                    <h3 class="fw-700 text-dark-gray ls-minus-2px">Browse Our Top Products</h3>
-                </div>
-            </div>
-            <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2"
-                data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateX&quot;: [-50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-
-                <div class="col text-center team-style-01 md-mb-30px">
-                    <figure class="mb-0 hover-box box-hover position-relative">
-                        <img src="" alt="Image" class="border-radius-6px" />
-                        <figcaption class="w-100 p-30px lg-p-25px bg-white">
-                            <div class="position-relative z-index-1 overflow-hidden lg-pb-5px">
-                                <p class="fs-19 d-block fw-600 text-dark-gray lh-26 ls-minus-05px">Outdoor Fixed LED Video Wall Solutions</p>
-                                
-                                {{-- <div class="social-icon hover-text mt-20px lg-mt-10px social-icon-style-05">
-                                    <a href="https://www.facebook.com/" target="_blank"
-                                        class="fw-600 text-dark-gray">Fb.</a>
-                                    <a href="https://www.instagram.com/" target="_blank"
-                                        class="fw-600 text-dark-gray">In.</a>
-                                    <a href="https://www.twitter.com/" target="_blank"
-                                        class="fw-600 text-dark-gray">Tw.</a>
-                                    <a href="https://dribbble.com/" target="_blank" class="fw-600 text-dark-gray">Dr.</a>
-                                </div> --}}
-                            </div>
-                            <div class="box-overlay bg-white box-shadow-quadruple-large border-radius-6px"></div>
-                        </figcaption>
-                    </figure>
-                </div>
-
-
-                <div class="col text-center team-style-01 md-mb-30px">
-                    <figure class="mb-0 hover-box box-hover position-relative">
-                        <img src="" alt="Image" class="border-radius-6px" />
-                        <figcaption class="w-100 p-30px lg-p-25px bg-white">
-                            <div class="position-relative z-index-1 overflow-hidden lg-pb-5px">
-                                <p class="fs-19 d-block fw-600 text-dark-gray lh-26 ls-minus-05px">Indoor LED Video Walls</p>
-                                
-                                
-                            </div>
-                            <div class="box-overlay bg-white box-shadow-quadruple-large border-radius-6px"></div>
-                        </figcaption>
-                    </figure>
-                </div>
-
-
-                <div class="col text-center team-style-01 xs-mb-30px">
-                    <figure class="mb-0 hover-box box-hover position-relative">
-                        <img src="" alt="Image" class="border-radius-6px" />
-                        <figcaption class="w-100 p-30px lg-p-25px bg-white">
-                            <div class="position-relative z-index-1 overflow-hidden lg-pb-5px">
-                                <P class="fs-19 d-block fw-600 text-dark-gray lh-26 ls-minus-05px">LED Mobile Van Display</P>
-                                
-                            </div>
-                            <div class="box-overlay bg-white box-shadow-quadruple-large border-radius-6px"></div>
-                        </figcaption>
-                    </figure>
-                </div>
-
-
-                <div class="col text-center team-style-01">
-                    <figure class="mb-0 hover-box box-hover position-relative">
-                        <img src="" alt="Image" class="border-radius-6px" />
-                        <figcaption class="w-100 p-30px lg-p-25px bg-white">
-                            <div class="position-relative z-index-1 overflow-hidden lg-pb-5px">
-                                <P class="fs-19 d-block fw-600 text-dark-gray lh-26 ls-minus-05px">Customized Single Color LED Boards</P>
-                                {{-- <p class="m-0">People officer</p>
-                                <div class="social-icon hover-text mt-20px lg-mt-10px">
-                                    <a href="https://www.facebook.com/" target="_blank"
-                                        class="fw-600 text-dark-gray">Fb.</a>
-                                    <a href="https://www.instagram.com/" target="_blank"
-                                        class="fw-600 text-dark-gray">In.</a>
-                                    <a href="https://www.twitter.com/" target="_blank"
-                                        class="fw-600 text-dark-gray">Tw.</a>
-                                    <a href="https://dribbble.com/" target="_blank" class="fw-600 text-dark-gray">Dr.</a>
-                                </div> --}}
-                            </div>
-                            <div class="box-overlay bg-white box-shadow-quadruple-large border-radius-6px"></div>
-                        </figcaption>
-                    </figure>
-                </div>
-
-
-                <div class="col text-center team-style-01">
-                    <figure class="mb-0 hover-box box-hover position-relative">
-                        <img src="" alt="Image" class="border-radius-6px" />
-                        <figcaption class="w-100 p-30px lg-p-25px bg-white">
-                            <div class="position-relative z-index-1 overflow-hidden lg-pb-5px">
-                                <P class="fs-19 d-block fw-600 text-dark-gray lh-26 ls-minus-05px">Customized Single Color LED Boards</P>
-                                
-                            </div>
-                            <div class="box-overlay bg-white box-shadow-quadruple-large border-radius-6px"></div>
-                        </figcaption>
-                    </figure>
-                </div>
-
-
-                <div class="col text-center team-style-01">
-                    <figure class="mb-0 hover-box box-hover position-relative">
-                        <img src="" alt="Image" class="border-radius-6px" />
-                        <figcaption class="w-100 p-30px lg-p-25px bg-white">
-                            <div class="position-relative z-index-1 overflow-hidden lg-pb-5px">
-                                <P class="fs-19 d-block fw-600 text-dark-gray lh-26 ls-minus-05px">PVC Panels & Decorative Walls</P>
-                                
-                            </div>
-                            <div class="box-overlay bg-white box-shadow-quadruple-large border-radius-6px"></div>
-                        </figcaption>
-                    </figure>
-                </div>
-
-                <div class="col text-center team-style-01">
-                    <figure class="mb-0 hover-box box-hover position-relative">
-                        <img src="" alt="Image" class="border-radius-6px" />
-                        <figcaption class="w-100 p-30px lg-p-25px bg-white">
-                            <div class="position-relative z-index-1 overflow-hidden lg-pb-5px">
-                                <P class="fs-19 d-block fw-600 text-dark-gray lh-26 ls-minus-05px">LED Glow Letter Cut Sign Board</P>
-                                
-                            </div>
-                            <div class="box-overlay bg-white box-shadow-quadruple-large border-radius-6px"></div>
-                        </figcaption>
-                    </figure>
-                </div>
-
-            </div>
-        </div>
-    </section>
-
-
-    <section class="half-section">
-        <div class="container">
-            <div class="row justify-content-center mb-30px"
+    <section class="half-section bg-very-light-gray " >
+        <div class="container ">
+          {{--   <div class="row justify-content-center mb-30px"
                 data-anime="{ &quot;translateX&quot;: [-50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 800, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
                 <div class="col-lg-5 text-center mb-15px">
                     <span
                         class="text-dark-gray fw-600 fs-16 ls-minus-05px text-uppercase border-1 pb-5px border-bottom border-color-extra-medium-gray text-dark-gray">Join
                         the 10,000+ companies using crafto</span>
                 </div>
-            </div>
-            <div class="row position-relative clients-style-08 mb-35px"
+            </div> --}}
+            <div class="row position-relative clients-style-08 mb-35px "
                 data-anime="{&quot;translateY&quot;: [0, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 800, &quot;delay&quot;: 50, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
                 <div class="col swiper text-center feather-shadow"
                     data-slider-options="{ &quot;slidesPerView&quot;: 2, &quot;spaceBetween&quot;:0, &quot;speed&quot;: 6000, &quot;loop&quot;: true, &quot;pagination&quot;: { &quot;el&quot;: &quot;.slider-four-slide-pagination-2&quot;, &quot;clickable&quot;: false }, &quot;allowTouchMove&quot;: false, &quot;autoplay&quot;: { &quot;delay&quot;:0, &quot;disableOnInteraction&quot;: false }, &quot;navigation&quot;: { &quot;nextEl&quot;: &quot;.slider-four-slide-next-2&quot;, &quot;prevEl&quot;: &quot;.slider-four-slide-prev-2&quot; }, &quot;keyboard&quot;: { &quot;enabled&quot;: true, &quot;onlyInViewport&quot;: true }, &quot;breakpoints&quot;: { &quot;1200&quot;: { &quot;slidesPerView&quot;: 5 }, &quot;992&quot;: { &quot;slidesPerView&quot;: 4 }, &quot;768&quot;: { &quot;slidesPerView&quot;: 3 } }, &quot;effect&quot;: &quot;slide&quot; }">
                     <div class="swiper-wrapper marquee-slide">
-
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/tanishq-dark.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/logo-invision-oxford-blue.svg"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <a href="https://www.caratlane.com/"><img src="public/images/caratlane_dark.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <a href="#">
-                                <img src="public/images/LMS2.png" class="img-fluid h-80px xs-h-20px" alt />
-                            </a>
-                        </div>
-                        
-
-
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/TimesAvenue.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/swiss-dark.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/smart-black.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/faluda.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/Smita.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/NAWAB_Tailors.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <a href="#"><img src="public/images/GetWelcancer-clinic.png"
-                                    class="h-40px xs-h-30px" alt /></a>
-                        </div>
-
-
-                      
-
+                        <script>
+                            var images = [
+                                {src: "tanishq-dark.png", link: ""},
+                                {src: "raymond.png", link: ""},
+                                {src: "hollwood.png", link: ""},
+                                {src: "caratlane_dark.png", link: ""},  
+                                {src: "red-chif.png", link: ""},
+                                {src: "LMS2.png", link: ""},
+                                {src: "TimesAvenue.png", link: ""},
+                                {src: "swiss-dark.png", link: ""},
+                                {src: "smart-black.png", link: ""},
+                                {src: "faluda.png", link: ""},
+                                {src: "Smita.png", link: ""},
+                                {src: "NAWAB_Tailors.png", link: ""},
+                                {src: "GetWelcancer-clinic.png", link: ""},
+                                {src: "Kumam-1.png", link: ""},
+                                {src: "kumar-nx-1.png", link: ""},
+                                {src: "sajan-sajani.png", link: ""},
+                                {src: "saffron.png", link: ""},
+                                {src: "Quadri-mental-hospital1.png", link: ""},
+                                {src: "maham-collection.png", link: ""},
+                                {src: "q-mall.png", link: ""},
+                                {src: "humsafar-travels.jpg.png", link: ""},
+                                {src: "Varroc-Logo.png", link: ""},
+                                {src: "ENDURANCE.png", link: ""},
+                                {src: "sanjeev.png", link: ""},
+                                {src: "marelli.png", link: ""},
+                                {src: "corning.jpg.png", link: ""},
+                                {src: "aurangabad-electrical.png", link: ""},
+                                {src: "Bajaj_Electricals.jpg.png", link: ""},
+                                {src: "bagla.png", link: ""},
+                                {src: "Alicon.jpg.png", link: ""},
+                                {src: "Glenmark_Pharmaceuticals.png", link: ""},
+                                {src: "flash-electronics.png", link: ""},
+                                {src: "bkt-growig-together.png", link: ""},
+                                {src: "Pitti.jpg.png", link: ""},
+                                {src: "elllora.png", link: ""}              
+                            ];
+                    
+                            for (var i = 0; i < images.length; i++) {
+                                document.write('<div class="swiper-slide"><a href="' + images[i].link + '"><img src="public/images/' + images[i].src + '" class="h-40px xs-h-30px" alt /></a></div>');
+                            }
+                        </script>
                     </div>
+                    
                 </div>
             </div>
         </div>

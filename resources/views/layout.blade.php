@@ -123,7 +123,7 @@
                 <div class="row align-items-center justify-content-center">
 
                     <div class="col-xl-6 text-center text-xl-start lg-mb-30px sm-mb-20px">
-                        <h3 class="text-white mb-5px fw-500 ls-minus-1px">Get a consultation services.</h3>
+                        <h3 class="text-white mb-5px fw-500 ls-minus-1px">Get in Touch.</h3>
                         <span class="fs-20 widget-text fw-300">We will take care of your business accounting
                             services.</span>
                     </div>
@@ -132,10 +132,11 @@
                     <div class="col-xl-6 text-center text-xl-end">
                         <a href="{{ url('contact') }}"
                             class="btn btn-extra-large btn-yellow left-icon btn-box-shadow btn-rounded text-transform-none d-inline-block align-middle me-15px xs-m-10px"><i
-                                class="feather icon-feather-mail"></i>Free consultation</a>
+                                class="feather icon-feather-mail"></i>Contact Us</a>
                         <a href="tel:12345678910"
                             class="btn btn-extra-large btn-base-color left-icon btn-box-shadow btn-rounded d-inline-block align-middle xs-m-10px"><i
-                                class="feather icon-feather-phone-call"></i>+1 234 567 8910</a>
+                                class="feather icon-feather-phone-call"></i>+91 92 7262
+                                7262    </a>
                     </div>
 
                 </div>
@@ -165,11 +166,12 @@
 
 
                 <div class="col-6 col-lg-2 col-sm-4 xs-mb-30px order-sm-3 order-lg-2">
-                    <span class="fs-18 fw-400 d-block text-white mb-5px">About Us</span>
+                    
                     <ul>
-                        <li><a href="demo-accounting-company">Products</a></li>
-                        <li><a href="demo-accounting-services">Clients</a></li>
-                        <li><a href="demo-accounting-process">Contact Us</a></li>
+                        <li><a href=" {{ url('/about') }}">About</a></li>
+                        <li><a href="{{ url('/products') }}">Products</a></li>
+                        <li><a href="{{ url('/clients') }}">Clients</a></li>
+                        <li><a href="{{ url('/contact') }}">Contact Us</a></li>
                     </ul>
                 </div>
 
@@ -185,14 +187,14 @@
                 </div> --}}
 
 
-                <div class="col-6 col-lg-2 col-sm-4 xs-mb-30px order-sm-5 order-lg-4">
-                    <span class="fs-18 fw-400 d-block text-white mb-5px">Get in touch</span>
+                <div class="col-6 col-lg-2 col-sm-4 xs-mb-30px order-sm-5 order-lg-4">                    
                     <p class="mb-5px">Need support?</p>
                     <a href="cdn-cgi/l/email-protection#096160496d6664686067276a6664"
                         class="text-white lh-16 d-block mb-15px"><span class="__cf_email__"
                             data-cfemail="4e26270e2a21232f2720602d2123">[email&#160;protected]</span></a>
                     <p class="mb-5px">Customer care?</p>
-                    <a href="tel:12345678910" class="text-white lh-16 d-block">+1 234 567 8910</a>
+                    <a href="tel:12345678910" class="text-white lh-16 d-block">+91 92 7262
+                        7262</a>
                 </div>
 
 
