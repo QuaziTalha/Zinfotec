@@ -114,25 +114,10 @@
             <div class="row align-items-center justify-content-center mb-6 text-center text-lg-start">
                 <div class="col-xl-5 col-lg-5 md-mb-20px"
                     data-anime="{ &quot;translateX&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                    <h4 class="text-warning fw-700 mb-0 ls-minus-1px">Whata we DO :</h4>
+                    <h4 class=" fw-700 mb-0 ls-minus-1px" style="color: #0090d2">Whata we DO :</h4>
                 </div>
-                <div class="col-xl-5 col-lg-5 last-paragraph-no-margin md-mb-30px"
-                    data-anime="{ &quot;translateX&quot;: [-50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                    <p class="w-90 xl-w-100 md-w-80 sm-w-100 md-mx-auto">" Illuminate Your Brand, Captivate Your Audience with ZinfoTec's LED Solutions.. "</p>
-                </div>
-                <div class="col-xl-2 col-lg-2 d-flex justify-content-center justify-content-lg-end"
-                    data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateX&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 800, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-
-                    <div
-                        class="slider-one-slide-prev-1 icon-small text-dark-gray swiper-button-prev slider-navigation-style-04 bg-white text-dark-gray box-shadow-large">
-                        <i class="fa-solid fa-arrow-left"></i>
-                    </div>
-                    <div
-                        class="slider-one-slide-next-1 icon-small text-dark-gray swiper-button-next slider-navigation-style-04 bg-white text-dark-gray box-shadow-large">
-                        <i class="fa-solid fa-arrow-right"></i>
-                    </div>
-
-                </div>
+                
+               
             </div>
             <div class="row align-items-center">
                 <div class="col-12 position-relative">
@@ -771,67 +756,12 @@
             </div>
         </div>
         <div class="tab-style-08 border-bottom border-color-extra-medium-gray bg-white box-shadow-quadruple-large">
-            <div class="container">
-
-                <ul class="nav nav-tabs border-0 fw-500 fs-19 text-center">
-                    <li class="nav-item"><a data-bs-toggle="tab" href="#tab_eight1" class="nav-link active">Strategic
-                            planning<span class="tab-border bg-base-color"></span></a></li>
-                    <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#tab_eight2"
-                            data-tab="counter">Audit assurance<span class="tab-border bg-base-color"></span></a></li>
-                    <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#tab_eight3"
-                            data-tab="counter">Financial projections<span class="tab-border bg-base-color"></span></a>
-                    </li>
-                    <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#tab_eight4"
-                            data-tab="counter">Business planning<span class="tab-border bg-base-color"></span></a></li>
-                </ul>
-
-            </div>
+           
         </div>
     </section>
 
 
-    <section>
-        <div class="container">
-            <div class="row justify-content-center mb-7 md-mb-4">
-                <div class="col-xl-5 col-lg-6 col-md-12 md-mb-50px sm-mb-40px text-center text-lg-start">
-                    <h4 class="fw-700 mb-0 text-dark-gray ls-minus-1px"
-                        data-anime="{ &quot;el&quot;: &quot;lines&quot;, &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;delay&quot;: 0, &quot;staggervalue&quot;: 250, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                        Amazing accounting statistics showing the power of numbers.</h4>
-                </div>
-                <div class="col-lg-6 offset-xl-1 text-center text-lg-start">
-                    <div class="row align-items-center justify-content-center justify-content-lg-start">
-
-                        <div class="col-sm-6 last-paragraph-no-margin counter-style-04 md-mb-35px">
-                            <h2 class="vertical-counter d-inline-flex alt-font text-dark-gray fw-700 ls-minus-2px mb-5px"
-                                data-text="%" data-to="96"><sup class="text-emerald-green top-minus-5px"><i
-                                        class="bi bi-arrow-up icon-medium"></i></sup></h2>
-                            <span class="fs-19 fw-600 ls-minus-05px mb-5px d-block text-dark-gray"
-                                data-anime="{ &quot;el&quot;: &quot;lines&quot;, &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;delay&quot;: 0, &quot;staggervalue&quot;: 250, &quot;easing&quot;: &quot;easeOutQuad&quot; }">Prefer
-                                cloud accounting</span>
-                            <p class="w-90 sm-w-100 md-mx-auto"
-                                data-anime="{ &quot;el&quot;: &quot;lines&quot;, &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;delay&quot;: 0, &quot;staggervalue&quot;: 250, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                                Lorem ipsum simply dummy text printing typesetting.</p>
-                        </div>
-
-
-                        <div class="col-sm-6 last-paragraph-no-margin counter-style-04 md-mb-35px">
-                            <h2 class="vertical-counter d-inline-flex alt-font text-dark-gray fw-700 ls-minus-2px mb-5px"
-                                data-text="%" data-to="98"><sup class="text-emerald-green top-minus-5px"><i
-                                        class="bi bi-arrow-up icon-medium"></i></sup></h2>
-                            <span class="fs-19 fw-600 ls-minus-05px mb-5px d-block text-dark-gray"
-                                data-anime="{ &quot;el&quot;: &quot;lines&quot;, &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;delay&quot;: 0, &quot;staggervalue&quot;: 250, &quot;easing&quot;: &quot;easeOutQuad&quot; }">Most
-                                outsourced tasks</span>
-                            <p class="w-90 sm-w-100 md-mx-auto"
-                                data-anime="{ &quot;el&quot;: &quot;lines&quot;, &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;delay&quot;: 0, &quot;staggervalue&quot;: 250, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                                Lorem ipsum simply dummy text printing typesetting.</p>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-            
-        </div>
-    </section>
+   
 
 
     <section class="pt-0">

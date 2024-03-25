@@ -16,140 +16,7 @@
     </section>
 
 
-{{--     <section>
-        <div class="container">
-            <div class="row justify-content-center mb-3">
-                <div class="col-lg-7 col-md-8 col-sm-9 text-center"
-                    data-anime="{ &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                    <span>SPECIFICATION</span>
-                    <h3 class="text-dark-gray fw-700 ls-minus-2px">Product Specification</h3>
-                </div>
-            </div>
-            <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center mb-5"
-                data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateX&quot;: [-30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
 
-                <div class="col icon-with-text-style-07 transition-inner-all md-mb-30px">
-                    <div
-                        class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 md-p-13 border-radius-8px">
-                        <div class="feature-box-icon">
-                            <a href="demo-accounting-services-details.html"><img
-                                    src="public/images/wifi.png" class="h-95px" alt></a>
-                        </div>
-                        <div class="feature-box-content">
-                                <a href="demo-accounting-services-details.html"
-                                    class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Wireless</a>
-                            <p class="mb-30px">Nisl suscipit adipiscing bibendum est tempus imperdiet nulla malesuada.</p>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="col icon-with-text-style-07 transition-inner-all md-mb-30px">
-                    <div
-                        class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 md-p-13 border-radius-8px">
-                        <div class="feature-box-icon">
-                            <a href="demo-accounting-services-details.html"><img
-                                    src="public/images/headphone.png" class="h-95px" alt></a>
-                        </div>
-                        <div class="feature-box-content">
-                            <a href="demo-accounting-services-details.html"
-                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Perfect Sound Quality</a>
-                            <p class="mb-30px">We combine deep financial expertise with exclusive tools to help the maximize
-                                value.</p>
-                        </div>
-                        <span
-                            class="position-absolute box-shadow-large top-25px lg-top-15px right-25px lg-right-15px bg-white border-radius-18px text-dark-gray fs-11 fw-700 text-uppercase ps-15px pe-15px lh-26 ls-minus-05px">New</span>
-                    </div>
-                </div>
-
-
-                <div class="col icon-with-text-style-07 transition-inner-all">
-                    <div
-                        class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 md-p-13 border-radius-8px">
-                        <div class="feature-box-icon">
-                            <a href="demo-accounting-services-details.html"><img
-                                    src="public/images/mic.png" class="h-95px" alt></a>
-                        </div>
-                        <div class="feature-box-content">
-                            <a href="demo-accounting-services-details.html"
-                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Awsome Microphone</a>
-                            <p class="mb-30px">Financial services are the economic services provided by the finance
-                                industry.</p>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center mb-5"
-                data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateX&quot;: [-30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-
-                <div class="col icon-with-text-style-07 transition-inner-all md-mb-30px">
-                    <div
-                        class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 md-p-13 border-radius-8px">
-                        <div class="feature-box-icon">
-                            <a href="demo-accounting-services-details.html"><img
-                                    src="public/images/mute.png" class="h-95px" alt></a>
-                        </div>
-                        <div class="feature-box-content">
-                            <a href="demo-accounting-services-details.html"
-                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Noise Cancelling</a>
-                            <p class="mb-30px">An activity or set of activities that can accomplish a specific
-                                organizational goal.</p>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="col icon-with-text-style-07 transition-inner-all md-mb-30px">
-                    <div
-                        class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 md-p-13 border-radius-8px">
-                        <div class="feature-box-icon">
-                            <a href="demo-accounting-services-details.html"><img
-                                    src="public/images/control.png" class="h-95px" alt></a>
-                        </div>
-                        <div class="feature-box-content">
-                            <a href="demo-accounting-services-details.html"
-                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Bluetooth</a>
-                            <p class="mb-30px">We combine deep financial expertise with exclusive tools to help the maximize
-                                value.</p>
-                        </div>
-                        <span
-                            class="position-absolute box-shadow-large top-25px lg-top-15px right-25px lg-right-15px bg-white border-radius-18px text-dark-gray fs-11 fw-700 text-uppercase ps-15px pe-15px lh-26 ls-minus-05px">New</span>
-                    </div>
-                </div>
-
-
-                <div class="col icon-with-text-style-07 transition-inner-all">
-                    <div
-                        class="bg-very-light-gray h-100 justify-content-end feature-box flex-column-reverse p-15 md-p-13 border-radius-8px">
-                        <div class="feature-box-icon">
-                            <a href="demo-accounting-services-details.html"><img
-                                    src="public/images/mic.png" class="h-95px" alt></a>
-                        </div>
-                        <div class="feature-box-content">
-                            <a href="demo-accounting-services-details.html"
-                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Easy To Control</a>
-                                <p class="mb-30px">Financial services are the economic services provided by the finance
-                                    industry.</p>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-            <div class="row"
-                data-anime="{ &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                <div class="col-12 text-center">
-                    <div
-                        class="d-inline-block align-middle bg-yellow fw-600 text-white text-uppercase border-radius-30px ps-20px pe-20px fs-12 me-10px lh-30 sm-m-5px">
-                        Trust</div>
-                    <div class="d-inline-block align-middle text-dark-gray fs-19 fw-600 ls-minus-05px">Join the <span
-                            class="text-decoration-line-bottom text-dark-gray">10000+ companies</span> trusting crafto
-                        accounting.</div>
-                </div>
-            </div>
-        </div>
-    </section> --}}
     <section>
         <div class="container">
             <div class="row justify-content-center mb-3">
@@ -289,7 +156,7 @@
                     </div>
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-lg-start">
-                    <h3 class="fw-700 text-warning ls-minus-1px">ZinfoTec Technologies PVT. LTD.</h3>
+                    <h3 class="fw-700  ls-minus-1px" style="color: #0090d2">ZinfoTec Technologies PVT. LTD.</h3>
                     <p class="mb-40px xs-mb-30px w-90 lg-w-95 md-w-100">
                         Welcome to <b>ZinfoTec Technologies PVT. LTD.</b>., a leading professional LED display screen development and supply company. With years of experience in this field, we have established ourselves as a trusted name in Maharashtra since our inception in 2014. Our comprehensive infrastructure includes an assembling unit, workshop, dedicated marketing team, and a commitment to providing excellent after-sales support to our valued customers.
                     </p>
