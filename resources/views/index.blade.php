@@ -114,7 +114,7 @@
             <div class="row align-items-center justify-content-center mb-6 text-center text-lg-start">
                 <div class="col-xl-5 col-lg-5 md-mb-20px"
                     data-anime="{ &quot;translateX&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                    <h4 class=" fw-700 mb-0 ls-minus-1px" style="color: #0090d2">Whata we DO :</h4>
+                    <h4 class=" fw-700 mb-0 ls-minus-1px" style="color: #0090d2">What we do:</h4>
                 </div>
                 
                

@@ -131,8 +131,8 @@
 
                     <div class="col-xl-6 text-center text-xl-end">
                         <a href="{{ url('contact') }}"
-                            class="btn btn-extra-large btn-yellow left-icon btn-box-shadow btn-rounded text-transform-none d-inline-block align-middle me-15px xs-m-10px"><i
-                                class="feather icon-feather-mail"></i>Contact Us</a>
+                            style="background-color:#0090d2; color:white;"  class="btn btn-extra-large left-icon btn-box-shadow btn-rounded text-transform-none d-inline-block align-middle me-15px xs-m-10px"><i
+                                >Contact Us</a>
                         <a href="tel:12345678910"
                             class="btn btn-extra-large btn-base-color left-icon btn-box-shadow btn-rounded d-inline-block align-middle xs-m-10px"><i
                                 class="feather icon-feather-phone-call"></i>+91 92 7262

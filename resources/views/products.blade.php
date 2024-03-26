@@ -2,7 +2,7 @@
 @section('content')
 
 <style>
-    /* Your external CSS styles go here */
+   
     .gallery {
         margin: 1%;
         
@@ -24,16 +24,16 @@
         box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
         transition: .4s;
         background: #f2f2f2;
-        overflow: hidden; /* Hide overflow to prevent content from appearing initially */
-        position: relative; /* Required for absolute positioning of additional content */
-        width: 380px; /* Set width to match image width */
-        height: 450px; /* Set height to match image height */
-        margin: 25px; /* Adjust margin to create space around the content */
+        overflow: hidden; 
+        position: relative; 
+        width: 380px;
+        height: 450px; 
+        margin: 25px; 
     }
     
     .content img {
-        width: 100%; /* Set image width to fill the container */
-        height: auto; /* Maintain aspect ratio */
+        width: 100%; 
+        height: auto; 
         text-align: center;
         display: block;
     }
@@ -49,17 +49,17 @@
         left: 0;
         width: 100%;
         height: 100%;
-        background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+        background: rgba(0, 0, 0, 0.5); 
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        opacity: 0; /* Initially hidden */
+        opacity: 0; 
         transition: opacity 0.4s;
     }
     
     .content:hover .additional-content {
-        opacity: 1; /* Show on hover */
+        opacity: 1; 
         
     }
     
@@ -88,11 +88,14 @@
     }
     
     .additional-content .buy {
-        background-color: #2183a2;
+        background-color: #0090d2;
         padding: 10px 20px;
         border-radius: 5px;
         cursor: pointer;
         font-size: 18px;
+    }
+    .btn{
+        border-radius: 25px;
     }
 </style>
 
@@ -111,8 +114,8 @@
     </div>
 </section>
 
-<section style="margin:0%; font-family:sans-serif;background: #023047;">
-    <div class="gallery" style="border:2px solid wheat">
+<section style="margin:0%; font-family:sans-serif;background: rgba(255, 255, 255, 0.822);">
+    <div class="gallery" style="border:2px solid  #023047;">
         <div class="content">
             <img src="public/images/demo-accounting-img-01.jpg"  alt="">
             <div class="additional-content">
