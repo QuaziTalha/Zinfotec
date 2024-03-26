@@ -565,7 +565,7 @@
                             ];
                     
                             for (var i = 0; i < images.length; i++) {
-                                document.write('<div class="swiper-slide"><a href="' + images[i].link + '"><img src="public/images/' + images[i].src + '" class="h-40px xs-h-30px" alt /></a></div>');
+                                document.write('<div class="swiper-slide"><a href="' + images[i].link + '"><img src="public/images/Clients/' + images[i].src + '" class="h-40px xs-h-30px" alt /></a></div>');
                             }
                         </script>
                     </div>

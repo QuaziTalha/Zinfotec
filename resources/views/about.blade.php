@@ -354,7 +354,7 @@
                                 {src: "TimesAvenue.png", link: ""},
                                 {src: "swiss-dark.png", link: ""},
                                 {src: "smart-black.png", link: ""},
-                                {src: "faluda.png", link: ""},
+                                {src: "fal00da.webp", link: ""},
                                 {src: "Smita.png", link: ""},
                                 {src: "NAWAB_Tailors.png", link: ""},
                                 {src: "GetWelcancer-clinic.png", link: ""},
@@ -383,7 +383,7 @@
                             ];
                     
                             for (var i = 0; i < images.length; i++) {
-                                document.write('<div class="swiper-slide"><a href="' + images[i].link + '"><img src="public/images/' + images[i].src + '" class="h-40px xs-h-30px" alt /></a></div>');
+                                document.write('<div class="swiper-slide"><a href="' + images[i].link + '"><img src="public/images/Clients/' + images[i].src + '" class="h-50px xs-h-50px" alt /></a></div>');
                             }
                         </script>
                     </div>
