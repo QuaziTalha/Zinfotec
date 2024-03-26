@@ -24,7 +24,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-5 md-mb-50px"
                         data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                        <h3 class="text-dark-gray fw-700 ls-minus-2px w-90 md-w-100">Have a project in mind? Get in touch!
+                        <h3 class="text-dark-gray fw-700 ls-minus-2px w-90 md-w-100">Ready to illuminate your vision? Let's bring your LED display project to life – reach out to us today!
                         </h3>
                         <p class="w-95 md-w-100">Give us a call or drop by anytime, we try to answer all enquiries within
                             24 hours on business days.</p>
@@ -56,33 +56,18 @@
                                 <div class="bg-very-light-gray h-100 fs-17 lh-30 p-35px lg-p-25px border-radius-5px">
                                     <img src="public/images/demo-accounting-contact-office.jpg" alt
                                         class="border-radius-4px mb-30px lg-mb-20px">
-                                    <span class="alt-font text-dark-gray fs-19 fw-600 d-inline-block">Crafto -
-                                        London</span>
-                                    <p class="mb-15px">401 Broadway, 24th Floor, Orchard View, London</p>
+                                    <span class="alt-font text-dark-gray fs-19 fw-600 d-inline-block">Zinfotec - Aurangabad</span>
+                                    <p class="mb-15px">Basement Supreme Commerce Classes, Khokadpura, Near Paithan Gate, Aurangabad(MS)</p>
                                     <span class="d-block"><span class="text-dark-gray fw-600">T:</span> <a
-                                            href="tel:12345678910">123 456 7890</a></span>
+                                            href="tel:12345678910">92 7262 7262
+                                        </a></span>
                                     <span class="d-block"><span class="text-dark-gray fw-600">E:</span> <a
                                             href="cdn-cgi/l/email-protection.html#660f0800092602090b070f084805090b"
                                             class="text-decoration-line-bottom"><span class="__cf_email__"
                                                 data-cfemail="bcd5d2dad3fcd8d3d1ddd5d292dfd3d1">[email&#160;protected]</span></a></span>
                                 </div>
                             </div>
-                            <div class="col"
-                                data-anime="{ &quot;translateY&quot;: [-50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                                <div class="bg-very-light-gray h-100 fs-17 lh-30 p-35px lg-p-25px border-radius-5px">
-                                    <img src="public/images/demo-accounting-contact-office-img2.jpg" alt
-                                        class="border-radius-4px mb-30px lg-mb-20px">
-                                    <span class="alt-font text-dark-gray fs-19 fw-600 d-inline-block">Crafto -
-                                        Canada</span>
-                                    <p class="mb-15px">2839 lalemant view road, Niagara falls, Canada</p>
-                                    <span class="d-block"><span class="text-dark-gray fw-600">T:</span> <a
-                                            href="tel:12345678910">123 456 7890</a></span>
-                                    <span class="d-block"><span class="text-dark-gray fw-600">E:</span> <a
-                                            href="cdn-cgi/l/email-protection.html#8be2e5ede4cbefe4e6eae2e5a5e8e4e6"
-                                            class="text-decoration-line-bottom"><span class="__cf_email__"
-                                                data-cfemail="82ebece4edc2e6edefe3ebecace1edef">[email&#160;protected]</span></a></span>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -90,7 +75,7 @@
         </section>
 
 
-        <section class="p-0 h-500px sm-h-350px overlap-height" id="location">
+        <section class="p-0 h-300px sm-h-350px overlap-height" id="location">
             <div class="container-fluid h-100 overlap-gap-section">
                 <div class="row justify-content-center h-100">
                     <div class="col-12 p-0">

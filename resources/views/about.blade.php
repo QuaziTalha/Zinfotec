@@ -140,9 +140,10 @@
     </section>
 
 
-    <section class="pt-0 big-section" style="background-color: #023047 ;"> 
+    <section class="pt-0 big-section" style="background-color: #023047 ; "> 
         <div class="container">
             <div class="row align-items-center"
+            style="padding-top:50px;"
                 data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
                 <div class="col-lg-6 position-relative md-mb-14 sm-mb-17 xs-mb-23">
                     <div class="w-70 md-w-75 xs-w-90" data-animation-delay="50" data-shadow-animation="true">
@@ -325,8 +326,6 @@
             </div>
         </div>
     </section>
-
-
 
     <section class="half-section bg-very-light-gray " >
         <div class="container ">

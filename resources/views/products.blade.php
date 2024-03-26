@@ -115,10 +115,10 @@
 </section>
 
 
-<section class="pt-0 ps-6 pe-6 lg-ps-2 lg-pe-2 sm-ps-0 sm-pe-0">
-    <div class="container-fluid">
+<section class="pt-0 ps-6 pe-6 lg-ps-2 lg-pe-2 sm-ps-0 sm-pe-0 padding-xl">
+    <div class="container-fluid ">
     <div class="row flex-row-reverse">
-    <div class="col-xxl-12 col-lg-9 ps-5 md-ps-15px md-mb-60px">
+    <div class="col-xxl-12 col-lg-9 ps-5 md-ps-15px md-mb-60px ">
     <ul class="shop-modern shop-wrapper grid grid-4col xl-grid-3col sm-grid-2col xs-grid-1col gutter-extra-large text-center appear anime-child anime-complete" data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [-15, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 300, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }" style="position: relative; height: 1800.05px;">
     <li class="grid-sizer"></li>
     

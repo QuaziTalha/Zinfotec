@@ -403,8 +403,7 @@
             <div class="row justify-content-center mb-6">
                 <div class="col-xl-6 col-md-8 col-sm-10 text-center"
                     data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                    <h4 class="mb-0 text-dark-gray fw-700 ls-minus-1px w-85 xl-w-100 mx-auto">Trusted by the world's
-                        fastest growing companies</h4>
+                    <h4 class="mb-0 text-dark-gray fw-700 ls-minus-1px w-85 xl-w-100 mx-auto">Top choice for global leaders in LED display technology</h4>
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-md-3 justify-content-center mb-7 sm-mb-45px"
@@ -524,11 +523,7 @@
                                 {
                                     src: "maham-collection.png",
                                     link: ""
-                                },
-                                {
-                                    src: "q-mall.png",
-                                    link: ""
-                                },
+                                },                                
                                 {
                                     src: "humsafar-travels.jpg.png",
                                     link: ""
@@ -797,7 +792,7 @@
 
 
     <section class="pt-0">
-        <div class="container">
+        <div class="container" style="padding-top:50px;">
             <div class="row justify-content-center mb-2">
                 <div class="col-xxl-5 col-lg-7 col-md-8 text-center"
                     data-anime="{ &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
