@@ -4,13 +4,13 @@
 <!-- Mirrored from craftohtml.themezaa.com/demo-accounting by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 18 Mar 2024 10:41:29 GMT -->
 
 <head>
-    <title>Crafto - The Multipurpose HTML5 Template</title>
+    <title>ZinfoTec Technologies PVT. LTD</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="author" content="ThemeZaa">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta name="description"
-        content="Elevate your online presence with Crafto - a modern, versatile, multipurpose Bootstrap 5 responsive HTML5, SCSS template using highly creative 48+ ready demos.">
+        content="ZinfoTec Technologies PVT. LTD">
 
     <link rel="shortcut icon" href="public/images/favicon.png">
     <link rel="apple-touch-icon" href="public/images/apple-touch-icon-57x57.png">
@@ -69,7 +69,7 @@
             <div class="container-fluid">
                 <div class="col-auto col-lg-2 me-lg-0 me-auto">
                     <div class="default-logo" style="padding:10% 0; width: 100%">
-                        <a href=""> <img src="public/images/logo.png " style="width: 100%" /></a>
+                        <a href="{{ url('/') }}"> <img src="public/images/logo.png " style="width: 100%" /></a>
                     </div>
                 </div>
                 <div class="col-auto menu-order position-static">
@@ -82,7 +82,7 @@
                     </button>
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav fw-600">
-                            <li class="nav-item"><a href="{{ url() }}" class="nav-link">Home</a></li>
+                            <li class="nav-item"><a href="{{ url('/') }}" class="nav-link">Home</a></li>
                             <li class="nav-item"><a href="{{ url('/about') }}" class="nav-link">About Us</a>
                             </li>
                             <li class="nav-item dropdown dropdown-with-icon-style02">
@@ -222,7 +222,7 @@
 
                 <div class="col-md-4 last-paragraph-no-margin order-2 order-md-1 text-center text-md-start">
                     <p>&COPY; Copyright 2024 <a href="index" target="_blank"
-                            class="text-decoration-line-bottom text-white">Crafto</a></p>
+                            class="text-decoration-line-bottom text-white">Zinfotec</a></p>
                 </div>
 
 
@@ -238,12 +238,12 @@
         </div>
     </footer>
 
-    {{--
+    
     <div class="sticky-wrap d-none d-lg-inline-block" data-animation-delay="100" data-shadow-animation="true">
         <span class="fs-16"><i class="bi bi-envelope icon-small me-10px"></i>Get our service — <a
-                href="cdn-cgi/l/email-protection#5d34333b321d3932303c3433733e3230"
+                href="{{ url('/contact') }}"
                 class="text-decoration-line-bottom fw-500">Send a message</a></span>
-    </div> --}}
+    </div>
 
 
     <div class="scroll-progress d-none d-xxl-block">

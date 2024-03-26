@@ -108,350 +108,273 @@
         </div>
     </section>
 
-
-    <section class=" overflow-hidden" style="background-color: #023047 ;">
+    <section class="overflow-hidden bg-very-light-gray position-relative">
         <div class="container">
-            <div class="row align-items-center justify-content-center mb-6 text-center text-lg-start">
-                <div class="col-xl-5 col-lg-5 md-mb-20px"
-                    data-anime="{ &quot;translateX&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                    <h4 class=" fw-700 mb-0 ls-minus-1px" style="color: #0090d2">What we do:</h4>
+            <div class="row align-items-center mb-5 sm-mb-30px text-center text-lg-start appear anime-child anime-complete"
+                data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;:0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+                <div class="col-lg-5 md-mb-30px" style="">
+                    <h3 class="text-dark-gray fw-700 ls-minus-2px mb-0">Our LED Display Services.</h3>
                 </div>
-                
-               
+                <div class="col-lg-4 offset-xl-1 last-paragraph-no-margin md-mb-30px" style="">
+                    <p>Elevate Your Visual Presence with Cutting-Edge Solutions, Comprehensive Support, and Customized Strategies Tailored Specifically to Maximize Your Advertising Impact </p>
+                </div>
+                <div class="col-xl-2 col-lg-3 d-flex justify-content-center" style="">
+
+                    <div class="slider-one-slide-prev-1 icon-small text-dark-gray swiper-button-prev slider-navigation-style-04 bg-white box-shadow-large"
+                        tabindex="0" role="button" aria-label="Previous slide"
+                        aria-controls="swiper-wrapper-75a10fb2fc4819744"><i class="fa-solid fa-arrow-left"></i></div>
+                    <div class="slider-one-slide-next-1 icon-small text-dark-gray swiper-button-next slider-navigation-style-04 bg-white box-shadow-large"
+                        tabindex="0" role="button" aria-label="Next slide"
+                        aria-controls="swiper-wrapper-75a10fb2fc4819744"><i class="fa-solid fa-arrow-right"></i></div>
+
+                </div>
             </div>
-            <div class="row align-items-center">
-                <div class="col-12 position-relative">
-                    <div class="outside-box-right-40 xs-outside-box-right-0"
-                        data-anime="{ &quot;translateX&quot;: [100, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                        <div class="swiper magic-cursor"
-                            data-slider-options="{ &quot;slidesPerView&quot;: 1, &quot;spaceBetween&quot;: 28, &quot;loop&quot;: true, &quot;autoplay&quot;: { &quot;delay&quot;: 2000, &quot;disableOnInteraction&quot;: false }, &quot;pagination&quot;: { &quot;el&quot;: &quot;.slider-four-slide-pagination-1&quot;, &quot;clickable&quot;: true }, &quot;navigation&quot;: { &quot;nextEl&quot;: &quot;.slider-one-slide-next-1&quot;, &quot;prevEl&quot;: &quot;.slider-one-slide-prev-1&quot; }, &quot;keyboard&quot;: { &quot;enabled&quot;: true, &quot;onlyInViewport&quot;: true }, &quot;breakpoints&quot;: { &quot;1200&quot;: { &quot;slidesPerView&quot;: 5 }, &quot;992&quot;: { &quot;slidesPerView&quot;: 4 }, &quot;768&quot;: { &quot;slidesPerView&quot;: 3 }, &quot;576&quot;: { &quot;slidesPerView&quot;: 2 } }, &quot;effect&quot;: &quot;slide&quot; }">
-                            <div class="swiper-wrapper">
+            <div class="row align-items-center appear anime-complete"
+                data-anime="{ &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;:0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }"
+                style="">
+                <div class="col-12">
+                    <div class="outside-box-right-20 sm-outside-box-right-0">
+                        <div class="swiper magic-cursor slider-one-slide swiper-initialized swiper-horizontal swiper-backface-hidden"
+                            data-slider-options="{ &quot;slidesPerView&quot;: 1, &quot;spaceBetween&quot;: 30, &quot;loop&quot;: true, &quot;navigation&quot;: { &quot;nextEl&quot;: &quot;.slider-one-slide-next-1&quot;, &quot;prevEl&quot;: &quot;.slider-one-slide-prev-1&quot; }, &quot;autoplay&quot;: { &quot;delay&quot;: 4000, &quot;disableOnInteraction&quot;: false }, &quot;keyboard&quot;: { &quot;enabled&quot;: true, &quot;onlyInViewport&quot;: true }, &quot;breakpoints&quot;: { &quot;1200&quot;: { &quot;slidesPerView&quot;: 4 }, &quot;992&quot;: { &quot;slidesPerView&quot;: 3 }, &quot;768&quot;: { &quot;slidesPerView&quot;: 2 }, &quot;320&quot;: { &quot;slidesPerView&quot;: 1 } }, &quot;effect&quot;: &quot;slide&quot; }">
+                            <div class="swiper-wrapper" id="swiper-wrapper-75a10fb2fc4819744" aria-live="off"
+                                style="transition-duration: 0ms; transform: translate3d(-1604px, 0px, 0px); transition-delay: 0ms;">
 
-                                <div class="swiper-slide">
-                                    <div class="interactive-banner-style-08">
-                                        <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
-                                            <a href="demo-accounting-services.html">
-                                                <img src="public/images/demo-accounting-img-01.jpg" alt />
-                                            </a>
-                                            <figcaption
-                                                class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-14 lg-p-12">
-                                                <a href="demo-accounting-services.html">
-                                                    <i class="line-icon-Medal-2 text-white icon-extra-large"></i>
+
+
+
+                                <div class="swiper-slide" style="width: 371px; margin-right: 30px;" role="group"
+                                    aria-label="2 / 8" data-swiper-slide-index="1">
+
+                                    <div
+                                        class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
+                                        <div class="position-relative">
+                                            <a href="demo-it-business-services-details.html"><img
+                                                    src="public/images/Gallery/Hollywood.png" alt=""
+                                                    data-no-retina=""></a>
+                                            <a href="#"
+                                                class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Finance</a>
+                                        </div>
+                                        <div class="bg-white">
+                                            <div class="ps-65px pe-65px pt-30px pb-30px text-center">
+                                                <a href="demo-it-business-services-details.html"
+                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Finance
+                                                    consulting</a>
+                                                <p>Lorem ipsum simply dummy text of amet consectetur.</p>
+                                            </div>
+                                            <div
+                                                class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
+                                                <a href="demo-it-business-services-details.html"
+                                                    class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                                    <span>
+                                                        <span class="btn-text">Explore services</span>
+                                                        <span class="btn-icon"><i
+                                                                class="fa-solid fa-arrow-right"></i></span>
+                                                        <span class="btn-icon"><i
+                                                                class="fa-solid fa-arrow-right"></i></span>
+                                                    </span>
                                                 </a>
-                                                <div class="mt-auto d-flex w-100 align-items-center">
-                                                    <div class="col last-paragraph-no-margin">
-                                                        <a href="demo-accounting-services.html"
-                                                            class="text-white fs-24 lh-28 w-65 xl-w-75 d-block">Targeted
-                                                            growth</a>
-                                                    </div>
-                                                    <a href="demo-accounting-services.html"
-                                                        class="circle-box bg-yellow w-50px h-50px rounded-circle ms-auto position-relative rounded-box">
-                                                        <i
-                                                            class="bi bi-arrow-right-short absolute-middle-center icon-very-medium lh-0px text-dark-gray"></i>
-                                                    </a>
-                                                </div>
-                                                <div
-                                                    class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9">
-                                                </div>
-                                            </figcaption>
-                                        </figure>
+                                            </div>
+                                        </div>
                                     </div>
+
                                 </div>
 
 
-                                <div class="swiper-slide">
-                                    <div class="interactive-banner-style-08">
-                                        <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
-                                            <a href="demo-accounting-services.html">
-                                                <img src="public/images/demo-accounting-img-02.jpg" alt />
-                                            </a>
-                                            <figcaption
-                                                class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-14 lg-p-10">
-                                                <a href="demo-accounting-services.html">
-                                                    <i class="line-icon-Financial text-white icon-extra-large"></i>
+                                <div class="swiper-slide" style="width: 371px; margin-right: 30px;" role="group"
+                                    aria-label="3 / 8" data-swiper-slide-index="2">
+
+                                    <div
+                                        class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
+                                        <div class="position-relative">
+                                            <a href="demo-it-business-services-details.html"><img
+                                                    src="public/images/Gallery/HE-and-She.png" alt=""
+                                                    data-no-retina=""></a>
+                                            <a href="#"
+                                                class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">analytics</a>
+                                        </div>
+                                        <div class="bg-white">
+                                            <div class="ps-65px pe-65px pt-30px pb-30px text-center">
+                                                <a href="demo-it-business-services-details.html"
+                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Tech
+                                                    innovation</a>
+                                                <p>Lorem ipsum simply dummy text of amet consectetur.</p>
+                                            </div>
+                                            <div
+                                                class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
+                                                <a href="demo-it-business-services-details.html"
+                                                    class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                                    <span>
+                                                        <span class="btn-text">Explore services</span>
+                                                        <span class="btn-icon"><i
+                                                                class="fa-solid fa-arrow-right"></i></span>
+                                                        <span class="btn-icon"><i
+                                                                class="fa-solid fa-arrow-right"></i></span>
+                                                    </span>
                                                 </a>
-                                                <div class="mt-auto d-flex w-100 align-items-center">
-                                                    <div class="col last-paragraph-no-margin">
-                                                        <a href="demo-accounting-services.html"
-                                                            class="text-white fs-24 lh-28 w-65 xl-w-75 d-block">Conversion
-                                                            strategy</a>
-                                                    </div>
-                                                    <a href="demo-accounting-services.html"
-                                                        class="circle-box bg-yellow w-50px h-50px rounded-circle ms-auto position-relative rounded-box">
-                                                        <i
-                                                            class="bi bi-arrow-right-short absolute-middle-center icon-very-medium lh-0px text-dark-gray"></i>
-                                                    </a>
-                                                </div>
-                                                <div
-                                                    class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9">
-                                                </div>
-                                            </figcaption>
-                                        </figure>
+                                            </div>
+                                        </div>
                                     </div>
+
                                 </div>
 
 
-                                <div class="swiper-slide">
-                                    <div class="interactive-banner-style-08">
-                                        <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
-                                            <a href="demo-accounting-services.html">
-                                                <img src="public/images/demo-accounting-img-03.jpg" alt />
-                                            </a>
-                                            <figcaption
-                                                class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-14 lg-p-10">
-                                                <a href="demo-accounting-services.html">
-                                                    <i class="line-icon-Archery-2 text-white icon-extra-large"></i>
+                                <div class="swiper-slide" style="width: 371px; margin-right: 30px;" role="group"
+                                    aria-label="4 / 8" data-swiper-slide-index="3">
+
+                                    <div
+                                        class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
+                                        <div class="position-relative">
+                                            <a href="demo-it-business-services-details.html"><img
+                                                    src="public/images/Gallery/Caratline.png" alt=""
+                                                    data-no-retina=""></a>
+                                            <a href="#"
+                                                class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Digital</a>
+                                        </div>
+                                        <div class="bg-white">
+                                            <div class="ps-65px pe-65px pt-30px pb-30px text-center">
+                                                <a href="demo-it-business-services-details.html"
+                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Digital
+                                                    commerce</a>
+                                                <p>Lorem ipsum simply dummy text of amet consectetur.</p>
+                                            </div>
+                                            <div
+                                                class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
+                                                <a href="demo-it-business-services-details.html"
+                                                    class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                                    <span>
+                                                        <span class="btn-text">Explore services</span>
+                                                        <span class="btn-icon"><i
+                                                                class="fa-solid fa-arrow-right"></i></span>
+                                                        <span class="btn-icon"><i
+                                                                class="fa-solid fa-arrow-right"></i></span>
+                                                    </span>
                                                 </a>
-                                                <div class="mt-auto d-flex w-100 align-items-center">
-                                                    <div class="col last-paragraph-no-margin">
-                                                        <a href="demo-accounting-services.html"
-                                                            class="text-white fs-24 lh-28 w-65 xl-w-75 d-block">Competitor
-                                                            research</a>
-                                                    </div>
-                                                    <a href="demo-accounting-services.html"
-                                                        class="circle-box bg-yellow w-50px h-50px rounded-circle ms-auto position-relative rounded-box">
-                                                        <i
-                                                            class="bi bi-arrow-right-short absolute-middle-center icon-very-medium lh-0px text-dark-gray"></i>
-                                                    </a>
-                                                </div>
-                                                <div
-                                                    class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9">
-                                                </div>
-                                            </figcaption>
-                                        </figure>
+                                            </div>
+                                        </div>
                                     </div>
+
                                 </div>
 
 
-                                <div class="swiper-slide">
-                                    <div class="interactive-banner-style-08">
-                                        <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
-                                            <a href="demo-accounting-services.html">
-                                                <img src="public/images/demo-accounting-img-04.jpg" alt />
-                                            </a>
-                                            <figcaption
-                                                class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-14 lg-p-10">
-                                                <a href="demo-accounting-services.html">
-                                                    <i class="line-icon-Money-Bag text-white icon-extra-large"></i>
+                                <div class="swiper-slide swiper-slide-prev" style="width: 371px; margin-right: 30px;"
+                                    role="group" aria-label="5 / 8" data-swiper-slide-index="4">
+
+                                    <div
+                                        class="services-box-style-03 last-paragraph-no-margin border-radius-4px overflow-hidden">
+                                        <div class="position-relative">
+                                            <a href="demo-it-business-services-details.html"><img
+                                                    src="public/images/Gallery/Boards.png" alt=""
+                                                    data-no-retina=""></a>
+                                            <a href="#"
+                                                class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Digital</a>
+                                        </div>
+                                        <div class="bg-white">
+                                            <div class="ps-65px pe-65px pt-30px pb-30px text-center">
+                                                <a href="demo-it-business-services-details.html"
+                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Cloud
+                                                    computing</a>
+                                                <p>Lorem ipsum simply dummy text of amet consectetur.</p>
+                                            </div>
+                                            <div
+                                                class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
+                                                <a href="demo-it-business-services-details.html"
+                                                    class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                                    <span>
+                                                        <span class="btn-text">Explore services</span>
+                                                        <span class="btn-icon"><i
+                                                                class="fa-solid fa-arrow-right"></i></span>
+                                                        <span class="btn-icon"><i
+                                                                class="fa-solid fa-arrow-right"></i></span>
+                                                    </span>
                                                 </a>
-                                                <div class="mt-auto d-flex w-100 align-items-center">
-                                                    <div class="col last-paragraph-no-margin">
-                                                        <a href="demo-accounting-services.html"
-                                                            class="text-white fs-24 lh-28 w-65 xl-w-75 d-block">Marketing
-                                                            strategy</a>
-                                                    </div>
-                                                    <a href="demo-accounting-services.html"
-                                                        class="circle-box bg-yellow w-50px h-50px rounded-circle ms-auto position-relative rounded-box">
-                                                        <i
-                                                            class="bi bi-arrow-right-short absolute-middle-center icon-very-medium lh-0px text-dark-gray"></i>
-                                                    </a>
-                                                </div>
-                                                <div
-                                                    class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9">
-                                                </div>
-                                            </figcaption>
-                                        </figure>
+                                            </div>
+                                        </div>
                                     </div>
+
                                 </div>
 
 
-                                <div class="swiper-slide">
-                                    <div class="interactive-banner-style-08">
-                                        <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
-                                            <a href="demo-accounting-services.html">
-                                                <img src="public/images/demo-accounting-img-02.jpg" alt />
-                                            </a>
-                                            <figcaption
-                                                class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-14 lg-p-10">
-                                                <a href="demo-accounting-services.html">
-                                                    <i class="line-icon-Financial text-white icon-extra-large"></i>
+                                <div class="swiper-slide swiper-slide-active" style="width: 371px; margin-right: 30px;"
+                                    role="group" aria-label="6 / 8" data-swiper-slide-index="5">
+
+                                    <div
+                                        class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
+                                        <div class="position-relative">
+                                            <a href="demo-it-business-services-details.html"><img
+                                                    src="public/images/Gallery/JP-Surana.png" alt=""
+                                                    data-no-retina=""></a>
+                                            <a href="#"
+                                                class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">analytics</a>
+                                        </div>
+                                        <div class="bg-white">
+                                            <div class="ps-65px pe-65px pt-30px pb-30px text-center">
+                                                <a href="demo-it-business-services-details.html"
+                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Data and
+                                                    analytics</a>
+                                                <p>Lorem ipsum simply dummy text of amet consectetur.</p>
+                                            </div>
+                                            <div
+                                                class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
+                                                <a href="demo-it-business-services-details.html"
+                                                    class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                                    <span>
+                                                        <span class="btn-text">Explore services</span>
+                                                        <span class="btn-icon"><i
+                                                                class="fa-solid fa-arrow-right"></i></span>
+                                                        <span class="btn-icon"><i
+                                                                class="fa-solid fa-arrow-right"></i></span>
+                                                    </span>
                                                 </a>
-                                                <div class="mt-auto d-flex w-100 align-items-center">
-                                                    <div class="col last-paragraph-no-margin">
-                                                        <a href="demo-accounting-services.html"
-                                                            class="text-white fs-24 lh-28 w-65 xl-w-75 d-block">Conversion
-                                                            strategy</a>
-                                                    </div>
-                                                    <a href="demo-accounting-services.html"
-                                                        class="circle-box bg-yellow w-50px h-50px rounded-circle ms-auto position-relative rounded-box">
-                                                        <i
-                                                            class="bi bi-arrow-right-short absolute-middle-center icon-very-medium lh-0px text-dark-gray"></i>
-                                                    </a>
-                                                </div>
-                                                <div
-                                                    class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9">
-                                                </div>
-                                            </figcaption>
-                                        </figure>
+                                            </div>
+                                        </div>
                                     </div>
+
                                 </div>
 
 
-                                <div class="swiper-slide">
-                                    <div class="interactive-banner-style-08">
-                                        <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
-                                            <a href="demo-accounting-services.html">
-                                                <img src="public/images/demo-accounting-img-01.jpg" alt />
-                                            </a>
-                                            <figcaption
-                                                class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-14 lg-p-12">
-                                                <a href="demo-accounting-services.html">
-                                                    <i class="line-icon-Medal-2 text-white icon-extra-large"></i>
+                                <div class="swiper-slide swiper-slide-next" style="width: 371px; margin-right: 30px;"
+                                    role="group" aria-label="7 / 8" data-swiper-slide-index="6">
+
+                                    <div
+                                        class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
+                                        <div class="position-relative">
+                                            <a href="demo-it-business-services-details.html"><img
+                                                    src="public/images/Gallery/Maham.png" alt=""
+                                                    data-no-retina=""></a>
+                                            <a href="#"
+                                                class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Finance</a>
+                                        </div>
+                                        <div class="bg-white">
+                                            <div class="ps-65px pe-65px pt-30px pb-30px text-center">
+                                                <a href="demo-it-business-services-details.html"
+                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Finance
+                                                    consulting</a>
+                                                <p>Lorem ipsum simply dummy text of amet consectetur.</p>
+                                            </div>
+                                            <div
+                                                class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
+                                                <a href="demo-it-business-services-details.html"
+                                                    class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                                    <span>
+                                                        <span class="btn-text">Explore services</span>
+                                                        <span class="btn-icon"><i
+                                                                class="fa-solid fa-arrow-right"></i></span>
+                                                        <span class="btn-icon"><i
+                                                                class="fa-solid fa-arrow-right"></i></span>
+                                                    </span>
                                                 </a>
-                                                <div class="mt-auto d-flex w-100 align-items-center">
-                                                    <div class="col last-paragraph-no-margin">
-                                                        <a href="demo-accounting-services.html"
-                                                            class="text-white fs-24 lh-28 w-65 xl-w-75 d-block">Targeted
-                                                            growth</a>
-                                                    </div>
-                                                    <a href="demo-accounting-services.html"
-                                                        class="circle-box bg-yellow w-50px h-50px rounded-circle ms-auto position-relative rounded-box">
-                                                        <i
-                                                            class="bi bi-arrow-right-short absolute-middle-center icon-very-medium lh-0px text-dark-gray"></i>
-                                                    </a>
-                                                </div>
-                                                <div
-                                                    class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9">
-                                                </div>
-                                            </figcaption>
-                                        </figure>
+                                            </div>
+                                        </div>
                                     </div>
+
                                 </div>
 
 
-                                <div class="swiper-slide">
-                                    <div class="interactive-banner-style-08">
-                                        <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
-                                            <a href="demo-accounting-services.html">
-                                                <img src="public/images/demo-accounting-img-02.jpg" alt />
-                                            </a>
-                                            <figcaption
-                                                class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-14 lg-p-10">
-                                                <a href="demo-accounting-services.html">
-                                                    <i class="line-icon-Financial text-white icon-extra-large"></i>
-                                                </a>
-                                                <div class="mt-auto d-flex w-100 align-items-center">
-                                                    <div class="col last-paragraph-no-margin">
-                                                        <a href="demo-accounting-services.html"
-                                                            class="text-white fs-24 lh-28 w-65 xl-w-75 d-block">Conversion
-                                                            strategy</a>
-                                                    </div>
-                                                    <a href="demo-accounting-services.html"
-                                                        class="circle-box bg-yellow w-50px h-50px rounded-circle ms-auto position-relative rounded-box">
-                                                        <i
-                                                            class="bi bi-arrow-right-short absolute-middle-center icon-very-medium lh-0px text-dark-gray"></i>
-                                                    </a>
-                                                </div>
-                                                <div
-                                                    class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9">
-                                                </div>
-                                            </figcaption>
-                                        </figure>
-                                    </div>
-                                </div>
-
-
-                                <div class="swiper-slide">
-                                    <div class="interactive-banner-style-08">
-                                        <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
-                                            <a href="demo-accounting-services.html">
-                                                <img src="public/images/demo-accounting-img-03.jpg" alt />
-                                            </a>
-                                            <figcaption
-                                                class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-14 lg-p-10">
-                                                <a href="demo-accounting-services.html">
-                                                    <i class="line-icon-Archery-2 text-white icon-extra-large"></i>
-                                                </a>
-                                                <div class="mt-auto d-flex w-100 align-items-center">
-                                                    <div class="col last-paragraph-no-margin">
-                                                        <a href="demo-accounting-services.html"
-                                                            class="text-white fs-24 lh-28 w-65 xl-w-75 d-block">Competitor
-                                                            research</a>
-                                                    </div>
-                                                    <a href="demo-accounting-services.html"
-                                                        class="circle-box bg-yellow w-50px h-50px rounded-circle ms-auto position-relative rounded-box">
-                                                        <i
-                                                            class="bi bi-arrow-right-short absolute-middle-center icon-very-medium lh-0px text-dark-gray"></i>
-                                                    </a>
-                                                </div>
-                                                <div
-                                                    class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9">
-                                                </div>
-                                            </figcaption>
-                                        </figure>
-                                    </div>
-                                </div>
-
-
-                                <div class="swiper-slide">
-                                    <div class="interactive-banner-style-08">
-                                        <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
-                                            <a href="demo-accounting-services.html">
-                                                <img src="public/images/demo-accounting-img-04.jpg" alt />
-                                            </a>
-                                            <figcaption
-                                                class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-14 lg-p-10">
-                                                <a href="demo-accounting-services.html">
-                                                    <i class="line-icon-Money-Bag text-white icon-extra-large"></i>
-                                                </a>
-                                                <div class="mt-auto d-flex w-100 align-items-center">
-                                                    <div class="col last-paragraph-no-margin">
-                                                        <a href="demo-accounting-services.html"
-                                                            class="text-white fs-24 lh-28 w-65 xl-w-75 d-block">Marketing
-                                                            strategy</a>
-                                                    </div>
-                                                    <a href="demo-accounting-services.html"
-                                                        class="circle-box bg-yellow w-50px h-50px rounded-circle ms-auto position-relative rounded-box">
-                                                        <i
-                                                            class="bi bi-arrow-right-short absolute-middle-center icon-very-medium lh-0px text-dark-gray"></i>
-                                                    </a>
-                                                </div>
-                                                <div
-                                                    class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9">
-                                                </div>
-                                            </figcaption>
-                                        </figure>
-                                    </div>
-                                </div>
-
-
-                                <div class="swiper-slide">
-                                    <div class="interactive-banner-style-08">
-                                        <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
-                                            <a href="demo-accounting-services.html">
-                                                <img src="public/images/demo-accounting-img-02.jpg" alt />
-                                            </a>
-                                            <figcaption
-                                                class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-14 lg-p-10">
-                                                <a href="demo-accounting-services.html">
-                                                    <i class="line-icon-Financial text-white icon-extra-large"></i>
-                                                </a>
-                                                <div class="mt-auto d-flex w-100 align-items-center">
-                                                    <div class="col last-paragraph-no-margin">
-                                                        <a href="demo-accounting-services.html"
-                                                            class="text-white fs-24 lh-28 w-65 xl-w-75 d-block">Conversion
-                                                            strategy</a>
-                                                    </div>
-                                                    <a href="demo-accounting-services.html"
-                                                        class="circle-box bg-yellow w-50px h-50px rounded-circle ms-auto position-relative rounded-box">
-                                                        <i
-                                                            class="bi bi-arrow-right-short absolute-middle-center icon-very-medium lh-0px text-dark-gray"></i>
-                                                    </a>
-                                                </div>
-                                                <div
-                                                    class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9">
-                                                </div>
-                                            </figcaption>
-                                        </figure>
-                                    </div>
-                                </div>
-
+                            
                             </div>
+                            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
                         </div>
                     </div>
-
-
-
                 </div>
             </div>
         </div>
@@ -463,10 +386,10 @@
             <div class="row align-items-center justify-content-center g-0">
                 <div class="col-auto d-flex align-items-center"
                     data-anime="{ &quot;translateY&quot;: [0, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                    <img src="public/images/demo-accounting-img-05.jpg" alt />
+                    <img src="public/images/ledlight.png" alt />
                     <div class="fs-19 lh-28 last-paragraph-no-margin text-white pt-15px pb-15px">
-                        <p>Save your precious time and effort spent for finding a solution. <a
-                                href="demo-accounting-contact.html"
+                        <p>Empower Your Progress, Illuminate Your Path with ZinfoTec's LED Excellence. <a
+                            href="{{ url('/contact') }}"
                                 class="text-decoration-line-bottom fw-500 text-white">Contact us now</a></p>
                     </div>
                 </div>
@@ -490,7 +413,7 @@
                     <div
                         class="bg-white h-100 border border-color-extra-medium-gray border-radius-6px text-center box-shadow-quadruple-large">
                         <div class="pt-10 pb-10">
-                            <img src="public/images/tanishq.png" alt />
+                            <img src="public/images/Clients/tanishq.png" alt />
                         </div>
                         {{-- <div class="border-top border-1 border-color-extra-medium-gray p-15px last-paragraph-no-margin">
                             <p>Project management - <span class="fw-600 text-dark-gray ls-minus-05px">275% Growth</span>
@@ -502,78 +425,183 @@
                     <div
                         class="bg-white h-100 border border-color-extra-medium-gray border-radius-6px text-center box-shadow-quadruple-large">
                         <div class="pt-10 pb-10">
-                            <img src="public/images/swiss-paradise.png"      alt />
+                            <img src="public/images/Clients/swiss-paradise.png" alt />
                         </div>
-                       
+
                     </div>
                 </div>
                 <div class="col">
                     <div
                         class="bg-white h-100 border border-color-extra-medium-gray border-radius-6px text-center box-shadow-quadruple-large">
                         <div class="pt-10 pb-10">
-                            <img src="public/images/LMS.png"alt />
+                            <img src="public/images/Clients/LMS.png"alt />
                         </div>
-                        
+
                     </div>
                 </div>
             </div>
             <div class="row position-relative clients-style-08 mb-6 sm-mb-40px"
                 data-anime="{ &quot;translateX&quot;: [0, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-               
+
                 <div class="col swiper text-center feather-shadow"
                     data-slider-options="{ &quot;slidesPerView&quot;: 2, &quot;spaceBetween&quot;:0, &quot;speed&quot;: 6000, &quot;loop&quot;: true, &quot;pagination&quot;: { &quot;el&quot;: &quot;.slider-four-slide-pagination-2&quot;, &quot;clickable&quot;: false }, &quot;allowTouchMove&quot;: false, &quot;autoplay&quot;: { &quot;delay&quot;:0, &quot;disableOnInteraction&quot;: false }, &quot;navigation&quot;: { &quot;nextEl&quot;: &quot;.slider-four-slide-next-2&quot;, &quot;prevEl&quot;: &quot;.slider-four-slide-prev-2&quot; }, &quot;keyboard&quot;: { &quot;enabled&quot;: true, &quot;onlyInViewport&quot;: true }, &quot;breakpoints&quot;: { &quot;1200&quot;: { &quot;slidesPerView&quot;: 4 }, &quot;992&quot;: { &quot;slidesPerView&quot;: 4 }, &quot;768&quot;: { &quot;slidesPerView&quot;: 3 } }, &quot;effect&quot;: &quot;slide&quot; }">
-                    
-                  
+
+
                     <div class="swiper-wrapper marquee-slide">
                         <script>
-                            var images = [
-                                {src: "tanishq-dark.png", link: ""},
-                                {src: "raymond.png", link: ""},
-                                {src: "hollwood.png", link: ""},
-                                {src: "caratlane_dark.png", link: ""},  
-                                {src: "red-chif.png", link: ""},
-                                {src: "LMS2.png", link: ""},
-                                {src: "TimesAvenue.png", link: ""},
-                                {src: "swiss-dark.png", link: ""},
-                                {src: "smart-black.png", link: ""},
-                                {src: "faluda.png", link: ""},
-                                {src: "Smita.png", link: ""},
-                                {src: "NAWAB_Tailors.png", link: ""},
-                                {src: "GetWelcancer-clinic.png", link: ""},
-                                {src: "Kumam-1.png", link: ""},
-                                {src: "kumar-nx-1.png", link: ""},
-                                {src: "sajan-sajani.png", link: ""},
-                                {src: "saffron.png", link: ""},
-                                {src: "Quadri-mental-hospital1.png", link: ""},
-                                {src: "maham-collection.png", link: ""},
-                                {src: "q-mall.png", link: ""},
-                                {src: "humsafar-travels.jpg.png", link: ""},
-                                {src: "Varroc-Logo.png", link: ""},
-                                {src: "ENDURANCE.png", link: ""},
-                                {src: "sanjeev.png", link: ""},
-                                {src: "marelli.png", link: ""},
-                                {src: "corning.jpg.png", link: ""},
-                                {src: "aurangabad-electrical.png", link: ""},
-                                {src: "Bajaj_Electricals.jpg.png", link: ""},
-                                {src: "bagla.png", link: ""},
-                                {src: "Alicon.jpg.png", link: ""},
-                                {src: "Glenmark_Pharmaceuticals.png", link: ""},
-                                {src: "flash-electronics.png", link: ""},
-                                {src: "bkt-growig-together.png", link: ""},
-                                {src: "Pitti.jpg.png", link: ""},
-                                {src: "elllora.png", link: ""}              
+                            var images = [{
+                                    src: "tanishq-dark.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "raymond.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "hollwood.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "caratlane_dark.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "red-chif.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "LMS2.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "TimesAvenue.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "swiss-dark.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "smart-black.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "faluda.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "Smita.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "NAWAB_Tailors.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "GetWelcancer-clinic.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "Kumam-1.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "kumar-nx-1.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "sajan-sajani.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "saffron.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "Quadri-mental-hospital1.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "maham-collection.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "q-mall.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "humsafar-travels.jpg.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "Varroc-Logo.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "ENDURANCE.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "sanjeev.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "marelli.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "corning.jpg.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "aurangabad-electrical.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "Bajaj_Electricals.jpg.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "bagla.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "Alicon.jpg.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "Glenmark_Pharmaceuticals.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "flash-electronics.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "bkt-growig-together.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "Pitti.jpg.png",
+                                    link: ""
+                                },
+                                {
+                                    src: "elllora.png",
+                                    link: ""
+                                }
                             ];
-                    
+
                             for (var i = 0; i < images.length; i++) {
-                                document.write('<div class="swiper-slide"><a href="' + images[i].link + '"><img src="public/images/Clients/' + images[i].src + '" class="h-40px xs-h-30px" alt /></a></div>');
+                                document.write('<div class="swiper-slide"><a href="' + images[i].link + '"><img src="public/images/Clients/' +
+                                    images[i].src + '" class="h-50px xs-h-30px" alt /></a></div>');
                             }
                         </script>
                     </div>
-                    
-                    
+
+
                 </div>
             </div>
-           {{--  <div class="row justify-content-center align-items-center"
+            {{--  <div class="row justify-content-center align-items-center"
                 data-anime="{ &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
                 <div class="col-12 text-center">
                     <div
@@ -588,7 +616,7 @@
     </section>
 
 
-    <section class=" pb-0" style="background-color: #023047 ;"   id="services">
+    <section class=" pb-0" style="background-color: #023047 ;" id="services">
         <div class="container">
             <div class="row mb-8 sm-mb-10">
                 <div class="col-12 tab-style-08">
@@ -615,26 +643,30 @@
                                             class="separator-line-1px w-50px  d-inline-block align-middle me-10px opacity-2">
                                         </div>
                                         <span
-                                            class="d-inline-block text-warning align-middle fw-500 fs-20 ls-minus-05px">Product Specification</span>
+                                            class="d-inline-block text-warning align-middle fw-500 fs-20 ls-minus-05px">Product
+                                            Specification</span>
                                     </div>
-                                    
-                                            <div class="column">
-                                            <div class="row" >We combine deep financial expertise with exclusive tools to help the maximize
-                                                value.</div>
-                                                <hr>
-                                            <div class="row">Financial services are the economic services provided by the finance
-                                                industry.</div>
-                                                <hr>
-                                            <div class="row">An activity or set of activities that can accomplish a specific
-                                                    organizational goal.    </div>
-                                                <hr>
-                                            <div class="row">We combine deep financial expertise with exclusive tools to help the maximize
-                                                        value.</div>
-                                                       
-                                            
-                                </div>
 
-                                     <br>   
+                                    <div class="column">
+                                        <div class="row">We combine deep financial expertise with exclusive tools to
+                                            help the maximize
+                                            value.</div>
+                                        <hr>
+                                        <div class="row">Financial services are the economic services provided by the
+                                            finance
+                                            industry.</div>
+                                        <hr>
+                                        <div class="row">An activity or set of activities that can accomplish a specific
+                                            organizational goal. </div>
+                                        <hr>
+                                        <div class="row">We combine deep financial expertise with exclusive tools to
+                                            help the maximize
+                                            value.</div>
+
+
+                                    </div>
+
+                                    <br>
                                     <a href="demo-accounting-services.html"
                                         class="btn btn-large btn-rounded with-rounded btn-white btn-box-shadow fw-600">Learn
                                         more<span class="bg-base-color text-white"><i
@@ -756,12 +788,12 @@
             </div>
         </div>
         <div class="tab-style-08 border-bottom border-color-extra-medium-gray bg-white box-shadow-quadruple-large">
-           
+
         </div>
     </section>
 
 
-   
+
 
 
     <section class="pt-0">
@@ -787,8 +819,9 @@
                                 </div>
                                 <div class="card-body px-0 pt-30px pb-30px xs-pb-15px last-paragraph-no-margin">
                                     <a href="demo-accounting-blog-single-creative.html"
-                                        class="card-title mb-5px fw-600 text-dark-gray d-block">Outdoor Fixed LED Video Wall Solutions</a>
-                                    
+                                        class="card-title mb-5px fw-600 text-dark-gray d-block">Outdoor Fixed LED Video
+                                        Wall Solutions</a>
+
                                 </div>
                             </div>
                         </li>
@@ -803,7 +836,7 @@
                                 <div class="card-body px-0 pt-30px pb-30px xs-pb-15px last-paragraph-no-margin">
                                     <a href="demo-accounting-blog-single-creative.html"
                                         class="card-title mb-5px fw-600 text-dark-gray d-block">Indoor LED Video Walls</a>
-                                    
+
                                 </div>
                             </div>
                         </li>
@@ -818,7 +851,7 @@
                                 <div class="card-body px-0 pt-30px pb-30px xs-pb-15px last-paragraph-no-margin">
                                     <a href="demo-accounting-blog-single-creative.html"
                                         class="card-title mb-5px fw-600 text-dark-gray d-block">LED Mobile Van Display</a>
-                                    
+
                                 </div>
                             </div>
                         </li>
@@ -832,12 +865,13 @@
                                 </div>
                                 <div class="card-body px-0 pt-30px pb-30px xs-pb-15px last-paragraph-no-margin">
                                     <a href="demo-accounting-blog-single-creative.html"
-                                        class="card-title mb-5px fw-600 text-dark-gray d-block">Customized Single Color LED Boards</a>
-                                    
+                                        class="card-title mb-5px fw-600 text-dark-gray d-block">Customized Single Color LED
+                                        Boards</a>
+
                                 </div>
                             </div>
                         </li>
-                        
+
                         <li class="grid-item">
                             <div class="card bg-transparent border-0 h-100">
                                 <div class="blog-image position-relative overflow-hidden border-radius-4px">
@@ -846,8 +880,9 @@
                                 </div>
                                 <div class="card-body px-0 pt-30px pb-30px xs-pb-15px last-paragraph-no-margin">
                                     <a href="demo-accounting-blog-single-creative.html"
-                                        class="card-title mb-5px fw-600 text-dark-gray d-block">PVC Panels & Decorative Walls</a>
-                                    
+                                        class="card-title mb-5px fw-600 text-dark-gray d-block">PVC Panels & Decorative
+                                        Walls</a>
+
                                 </div>
                             </div>
                         </li>
@@ -859,17 +894,16 @@
                                 </div>
                                 <div class="card-body px-0 pt-30px pb-30px xs-pb-15px last-paragraph-no-margin">
                                     <a href="demo-accounting-blog-single-creative.html"
-                                        class="card-title mb-5px fw-600 text-dark-gray d-block">LED Glow Letter Cut Sign Board</a>
-                                    
+                                        class="card-title mb-5px fw-600 text-dark-gray d-block">LED Glow Letter Cut Sign
+                                        Board</a>
+
                                 </div>
                             </div>
                         </li>
-                        
+
                     </ul>
                 </div>
             </div>
         </div>
     </section>
-
-    
 @endsection
