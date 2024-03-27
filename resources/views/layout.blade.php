@@ -41,7 +41,7 @@
             <div class="container-fluid">
                 <div class="row h-45px xs-h-auto align-items-center m-0 xs-pt-5px xs-pb-5px">
                     <div class="col-lg-6 col-md-7 text-center text-md-start xs-px-0">
-                        <div class="fs-15 text-dark-gray fw-500">Our accounting experts waiting for you! <a
+                        <div class="fs-15 text-dark-gray fw-500">Our experts waiting for you! <a
                                 href="{{ url('contact') }}"
                                 class="text-dark-gray text-decoration-line-bottom fw-600">Contact now</a></div>
                     </div>
@@ -56,9 +56,7 @@
                                     class="feather icon-feather-phone-call"></i>92 7271
                                 7271</a> --}}
                         </div>
-                        <div class="widget fs-15 fw-500 text-dark-gray d-none d-lg-inline-block"><i
-                                class="feather icon-feather-map-pin"></i>Basement Supreme Commerce Classes, Khokadpura,
-                            Near Paithan Gate, Aurangabad(MS)</div>
+                       
                     </div>
                 </div>
             </div>
@@ -218,23 +216,7 @@
                 </div>
 
             </div>
-            <div class="row align-items-center fs-16 fw-300">
-
-                <div class="col-md-4 last-paragraph-no-margin order-2 order-md-1 text-center text-md-start">
-                    <p>&COPY; Copyright 2024 <a href="index" target="_blank"
-                            class="text-decoration-line-bottom text-white">Zinfotec</a></p>
-                </div>
-
-
-                <div class="col-md-8 text-md-end order-1 order-md-2 text-center text-md-end sm-mb-10px">
-                    <ul class="footer-navbar sm-lh-normal">
-                        <li><a href="#" class="nav-link">Privacy policy</a></li>
-                        <li><a href="#" class="nav-link">Terms and conditions</a></li>
-                        <li><a href="#" class="nav-link">Copyright</a></li>
-                    </ul>
-                </div>
-
-            </div>
+           
         </div>
     </footer>
 

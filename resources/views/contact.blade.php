@@ -4,7 +4,7 @@
 
 
         <section class="top-space-margin page-title-big-typography cover-background magic-cursor round-cursor"
-            style="background-image: url(public/images/demo-accounting-contact-title-bg.jpg)">
+            style="background-image: url({{ url('public/images/demo-accounting-bg.jpg') }})">>
             <div class="container">
                 <div class="row extra-very-small-screen align-items-center">
                     <div class="col-lg-5 col-sm-8 position-relative page-title-extra-small"
@@ -33,7 +33,7 @@
                             <div class="col icon-with-text-style-08">
                                 <div class="feature-box feature-box-left-icon-middle overflow-hidden">
                                     <div
-                                        class="feature-box-icon feature-box-icon-rounded bg-yellow w-80px h-80px rounded-circle me-20px">
+                                        class="feature-box-icon feature-box-icon-rounded  w-80px h-80px rounded-circle me-20px" style="background: #0082cc ;">
                                         <i class="bi bi-envelope text-white icon-very-medium"></i>
                                     </div>
                                     <div class="feature-box-content last-paragraph-no-margin">
@@ -54,7 +54,7 @@
                             <div class="col xs-mb-30px"
                                 data-anime="{ &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
                                 <div class="bg-very-light-gray h-100 fs-17 lh-30 p-35px lg-p-25px border-radius-5px">
-                                    <img src="public/images/demo-accounting-contact-office.jpg" alt
+                                    <img src="public/images/logo.png" alt
                                         class="border-radius-4px mb-30px lg-mb-20px">
                                     <span class="alt-font text-dark-gray fs-19 fw-600 d-inline-block">Zinfotec - Aurangabad</span>
                                     <p class="mb-15px">Basement Supreme Commerce Classes, Khokadpura, Near Paithan Gate, Aurangabad(MS)</p>

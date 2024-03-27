@@ -395,7 +395,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>x`
 
 
     <section>
@@ -553,7 +553,7 @@
                                     link: ""
                                 },
                                 {
-                                    src: "Bajaj_Electricals.jpg.png",
+                                    src: "Bajaj_Electricals.jpg",
                                     link: ""
                                 },
                                 {
