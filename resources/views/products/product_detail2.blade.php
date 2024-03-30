@@ -10,7 +10,11 @@
             flex: 20%;
             margin-right: 5px;
             cursor: pointer;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
         
+        }
+        .big-img  {
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
         }
         .sproduct input{
             width: 70px;
@@ -32,6 +36,7 @@
             border: 5px solid #02283a;
             align-content: center;
             text-align: center;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
         }
     </style>
     
@@ -57,8 +62,7 @@
             <div class="col-lg-6 col-md-12 col-sm-12 border_set">
                 <h3 class="py-4 text-black">Product-Name</h3>
                 <h2 class="">$200</h2>                
-                <input type="number" value="1">
-                <Button class="buy-btn">Add to Cart</Button>
+                
                 <h4 class="my-5 text-black">Product Details</h4>
                 <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat nostrum quam repellendus voluptatem, nemo ab aspernatur magni harum consectetur possimus deserunt! Itaque perspiciatis adipisci assumenda repudiandae dolorum veritatis autem illo.</span>
             </div>
@@ -68,15 +72,15 @@
     <script>
         var MainImg = document.querySelector('[data-main-image]');
         var SmallImg = document.querySelectorAll('.small-img');
-        var previousSmallImg = null;
+       /*  var previousSmallImg = null; */
 
         SmallImg.forEach(function(smallImg) {
             smallImg.onclick = function() {
-                if (previousSmallImg !== null) {
+               /*  if (previousSmallImg !== null) {
                     previousSmallImg.style.display = 'block';
                 }
                 smallImg.style.display = 'none';
-                previousSmallImg = smallImg;
+                previousSmallImg = smallImg; */
                 MainImg.src = smallImg.src;
             };
         });

@@ -147,12 +147,12 @@
                 data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
                 <div class="col-lg-6 position-relative md-mb-14 sm-mb-17 xs-mb-23">
                     <div class="w-70 md-w-75 xs-w-90" data-animation-delay="50" data-shadow-animation="true">
-                        <img src="public/images/demo-accounting-company-01.jpg" alt class="border-radius-8px w-100">
+                        <img src="public/images/background/Firefly led brand boards 41500.jpg" alt class="border-radius-8px w-100">
                     </div>
                     <div class="w-55 overflow-hidden position-absolute right-15px xs-w-60 bottom-minus-20px"
                         data-shadow-animation="true" data-animation-delay="250"
                         data-bottom-top="transform: translateY(50px)" data-top-bottom="transform: translateY(-50px)">
-                        <img src="public/images/demo-accounting-company-02.jpg" alt
+                        <img src="public/images/background/Firefly led boards on shops in dark theme wallpaper 89575.jpg" alt
                             class="border-radius-8px w-100 box-shadow-quadruple-large" />
                     </div>
                 </div>

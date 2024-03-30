@@ -1,7 +1,7 @@
 @extends('layout')
 @section('content')
-   {{--  <style>
-        .gallery {
+    <style>
+        /* .gallery {
             margin: 1%;
 
             font-family: sans-serif;
@@ -95,8 +95,11 @@
 
         .btn {
             border-radius: 25px;
+        } */
+        .product_container {
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
         }
-    </style> --}}
+    </style>
 
 <section class="top-space-margin page-title-big-typography cover-background magic-cursor round-cursor"
 style="background-image: url({{ url('public/images/background/sign.jpg') }})">>
