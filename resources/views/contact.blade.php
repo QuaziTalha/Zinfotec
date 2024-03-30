@@ -4,7 +4,7 @@
 
 
         <section class="top-space-margin page-title-big-typography cover-background magic-cursor round-cursor"
-            style="background-image: url({{ url('public/images/demo-accounting-bg.jpg') }})">>
+            style="background-image: url({{ url('public/images/background/sign.jpg') }})">>
             <div class="container">
                 <div class="row extra-very-small-screen align-items-center">
                     <div class="col-lg-5 col-sm-8 position-relative page-title-extra-small"
@@ -90,8 +90,8 @@
 
         <section>
             <div class="container overlap-section overlap-section-three-fourth"
-                data-anime="{&quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 800, &quot;delay&quot;: 500, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                <div class="row row-cols-md-1 justify-content-center">
+            data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0, 1], "duration": 800, "delay": 500, "staggervalue": 150, "easing": "easeOutQuad" }'
+>            <div class="row row-cols-md-1 justify-content-center">
                     <div class="col-xl-10">
                         <div class="bg-white p-8 border-radius-6px box-shadow-double-large">
                             <div class="row">
@@ -100,8 +100,8 @@
                                         help you?</h3>
                                 </div>
                                 <div class="col-3 text-end"
-                                    data-anime="{ &quot;translateY&quot;: [30, 0], &quot;translateX&quot;: [-30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 300, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                                    <i class="bi bi-send icon-large text-dark-gray animation-zoom"></i>
+                                data-anime='{ "translateY": [30, 0], "translateX": [-30, 0], "opacity": [0, 1], "duration": 600, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'
+>                                <i class="bi bi-send icon-large text-dark-gray animation-zoom"></i>
                                 </div>
                             </div>
 

@@ -1,7 +1,7 @@
 @extends('layout')
 @section('content')
     <section class="top-space-margin page-title-big-typography cover-background magic-cursor round-cursor"
-        style="background-image: url({{ url('public/images/demo-accounting-bg.jpg') }})">>
+        style="background-image: url({{ url('public/images/background/beautiful.jpg') }})">>
         <div class="container">
             <div class="row extra-very-small-screen align-items-center">
                 <div class="col-lg-5 col-sm-8 position-relative page-title-extra-small"
@@ -9,7 +9,7 @@
                     <h1 class="mb-20px text-white text-shadow-medium"><span
                             class="w-30px h-2px bg-yellow d-inline-block align-middle position-relative top-minus-2px me-10px"></span>Our
                         company</h1>
-                    <h2 class="text-white text-shadow-medium fw-500 ls-minus-2px mb-0">About crafto accounto</h2>
+                    <h2 class="text-white text-shadow-medium fw-500 ls-minus-2px mb-0">About Zinfotec</h2>
                 </div>
             </div>
         </div>
@@ -111,7 +111,7 @@
                         </div>
                         <div class="feature-box-content">
                             <a href="demo-accounting-services-details.html"
-                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Quality:</a>
+                                class="d-inline-block fw-600 text-dark-gray mb-5px fs-20 ls-minus-05px">Quality</a>
                             <p class="mb-30px"> From manufacturing to installation, we uphold the highest standards of quality, guaranteeing reliability and durability in every product.
                             </p>
                         </div>
@@ -288,23 +288,8 @@
 
                     <div class="outside-box-right-30 position-relative">
                         <img src="public/images/demo-accounting-company-03.png" alt />
-                        <div class="bg-base-color video-icon-box video-icon-medium feature-box-icon-rounded position-absolute top-100px left-100px mt-10 ms-15 w-40px h-40px rounded-circle d-flex align-items-center justify-content-center"
-                            data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-html="true"
-                            title="<span class=tooltip-title>Crafto - New York</span><p class=m-0>401 Broadway, 24th Floor, Orchard View,  New York</p>">
-                            <span>
-                                <span class="video-icon">
-                                    <span
-                                        class="bg-base-color w-100 h-100 border-radius-100 text-center d-flex align-items-center justify-content-center">
-                                        <i class="fa-solid fa-location-dot m-0 text-white icon-small"></i>
-                                    </span>
-                                    <span class="video-icon-sonar">
-                                        <span class="video-icon-sonar-bfr bg-red"></span>
-                                        <span class="video-icon-sonar-bfr bg-yellow"></span>
-                                    </span>
-                                </span>
-                            </span>
-                        </div>
-                        <div class="bg-base-color video-icon-box video-icon-medium feature-box-icon-rounded position-absolute bottom-100px start-50 mb-10 ms-7 w-40px h-40px rounded-circle d-flex align-items-center justify-content-center"
+                       
+                        {{-- <div class="bg-base-color video-icon-box video-icon-medium feature-box-icon-rounded position-absolute bottom-100px start-50 mb-10 ms-7 w-40px h-40px rounded-circle d-flex align-items-center justify-content-center"
                             data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-html="true"
                             title="<span class=tooltip-title>Crafto - Canada</span><p class=m-0>2839 lalemant view road, Niagara falls, Canada</p>">
                             <span>
@@ -319,7 +304,8 @@
                                     </span>
                                 </span>
                             </span>
-                        </div>
+                        </div> --}}
+                        
                     </div>
 
                 </div>
@@ -353,7 +339,7 @@
                                 {src: "TimesAvenue.png", link: ""},
                                 {src: "swiss-dark.png", link: ""},
                                 {src: "smart-black.png", link: ""},
-                                {src: "fal00da.webp", link: ""},
+                                {src: "fal00da.png", link: ""},
                                 {src: "Smita.png", link: ""},
                                 {src: "NAWAB_Tailors.png", link: ""},
                                 {src: "GetWelcancer-clinic.png", link: ""},

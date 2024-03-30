@@ -25,6 +25,7 @@
     <link rel="stylesheet" href="public/css/style.min.css" />
     <link rel="stylesheet" href="public/css/responsive.min.css" />
     <link rel="stylesheet" href="public/demos/accounting/accounting.css" />
+    <script type="text/javascript" src="public/js/jquery.js"></script>
 </head>
 
 <body data-mobile-nav-style="classic" class="custom-cursor">
@@ -147,7 +148,7 @@
                     <div class="default-logo" style="padding:10% 0">
                         <a href=""> <img src="public/images/logo.png " style="width: 71%" /></a>
                     </div>
-                    <p class="w-85 xl-w-95 sm-w-100">Lorem ipsum amet adipiscing elit to eiusmod ad tempor.</p>
+                    <p class="w-85 xl-w-95 sm-w-100">Unleash the Power of LED Screens.</p>
                     <div class="elements-social social-icon-style-02 mt-20px lg-mt-20px">
                         <ul class="small-icon light">
                             <li><a class="facebook" href="https://www.facebook.com/" target="_blank"><i
@@ -236,8 +237,7 @@
     </div>
 
 
-    <script data-cfasync="false" src="public/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-    <script type="text/javascript" src="public/js/jquery.js"></script>
+ 
     <script type="text/javascript" src="public/js/vendors.min.js"></script>
     <script type="text/javascript" src="public/js/main.js"></script>
 </body>

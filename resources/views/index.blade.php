@@ -5,7 +5,7 @@
         <div class="container h-100">
             <div class="row align-items-center h-100">
                 <div class="col-xl-7 col-md-9 col-sm-9 position-relative text-white"
-                    data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;opacity&quot;: [0, 1], &quot;translateY&quot;: [30, 0], &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeInOutSine&quot; }">
+                    data-anime='{ "el": "childs", "opacity": [0, 1], "translateY": [30, 0], "staggervalue": 200, "easing": "easeInOutSine" }'>
                     <div class="fs-80 lh-75 sm-fs-65 fw-600 mb-20px text-shadow-large ls-minus-2px">Unleash the Power of LED
                         Screens</div>
                     <div>
@@ -43,8 +43,8 @@
                                 <span class="w-200px h-200px bg-main2 rounded-circle d-inline-block"
                                     data-anime="{ &quot;opacity&quot;: [0, 1], &quot;staggervalue&quot;: 0, &quot;easing&quot;: &quot;easeOutQuad&quot; }"></span>
                                 <span
-                                    class="fs-160 lg-fs-150 text-dark-gray fw-700 position-absolute left-0px w-100 top-50 ls-minus-5px md-top-40px"
-                                    data-anime="{ &quot;opacity&quot;: [0, 1], &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeOutQuad&quot; }">40</span>
+                                    class="fs-120 lg-fs-90 text-dark-gray fw-700 position-absolute left-0px w-100 top-50 ls-minus-5px md-top-40px"
+                                    data-anime="{ &quot;opacity&quot;: [0, 1], &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeOutQuad&quot; }">10+</span>
                             </div>
                         </div>
                         <div class="col-xl-7 col-lg-6 col-sm-7 ps-45px lg-ps-15px last-paragraph-no-margin text-center text-sm-start"
@@ -108,17 +108,21 @@
         </div>
     </section>
 
+
+    {{-- //Service --}}
     <section class="overflow-hidden bg-very-light-gray position-relative">
         <div class="container">
             <div class="row align-items-center mb-5 sm-mb-30px text-center text-lg-start appear anime-child anime-complete"
-                data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;:0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                <div class="col-lg-5 md-mb-30px" style="">
+                data-anime='{"el": "childs", "translateY": [30, 0], "opacity": [0, 1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad"}'>
+                <div class="col-lg-5 md-mb-30px">
                     <h3 class="text-dark-gray fw-700 ls-minus-2px mb-0">Our LED Display Services.</h3>
                 </div>
-                <div class="col-lg-4 offset-xl-1 last-paragraph-no-margin md-mb-30px" style="">
-                    <p>Elevate Your Visual Presence with Cutting-Edge Solutions, Comprehensive Support, and Customized Strategies Tailored Specifically to Maximize Your Advertising Impact </p>
+
+                <div class="col-lg-4 offset-xl-1 last-paragraph-no-margin md-mb-30px">
+                    <p>Elevate Your Visual Presence with Cutting-Edge Solutions, Comprehensive Support, and Customized
+                        Strategies Tailored Specifically to Maximize Your Advertising Impact </p>
                 </div>
-                <div class="col-xl-2 col-lg-3 d-flex justify-content-center" style="">
+                <div class="col-xl-2 col-lg-3 d-flex justify-content-center">
 
                     <div class="slider-one-slide-prev-1 icon-small text-dark-gray swiper-button-prev slider-navigation-style-04 bg-white box-shadow-large"
                         tabindex="0" role="button" aria-label="Previous slide"
@@ -130,247 +134,66 @@
                 </div>
             </div>
             <div class="row align-items-center appear anime-complete"
-                data-anime="{ &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;:0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }"
-                style="">
+                data-anime='{"opacity": [0, 1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad"}'>
                 <div class="col-12">
                     <div class="outside-box-right-20 sm-outside-box-right-0">
                         <div class="swiper magic-cursor slider-one-slide swiper-initialized swiper-horizontal swiper-backface-hidden"
-                            data-slider-options="{ &quot;slidesPerView&quot;: 1, &quot;spaceBetween&quot;: 30, &quot;loop&quot;: true, &quot;navigation&quot;: { &quot;nextEl&quot;: &quot;.slider-one-slide-next-1&quot;, &quot;prevEl&quot;: &quot;.slider-one-slide-prev-1&quot; }, &quot;autoplay&quot;: { &quot;delay&quot;: 4000, &quot;disableOnInteraction&quot;: false }, &quot;keyboard&quot;: { &quot;enabled&quot;: true, &quot;onlyInViewport&quot;: true }, &quot;breakpoints&quot;: { &quot;1200&quot;: { &quot;slidesPerView&quot;: 4 }, &quot;992&quot;: { &quot;slidesPerView&quot;: 3 }, &quot;768&quot;: { &quot;slidesPerView&quot;: 2 }, &quot;320&quot;: { &quot;slidesPerView&quot;: 1 } }, &quot;effect&quot;: &quot;slide&quot; }">
+                            data-slider-options='{"slidesPerView": 1, "spaceBetween": 30, "loop": true, "navigation": {"nextEl": ".slider-one-slide-next-1", "prevEl": ".slider-one-slide-prev-1"}, "autoplay": {"delay": 4000, "disableOnInteraction": false}, "keyboard": {"enabled": true, "onlyInViewport": true}, "breakpoints": {"1200": {"slidesPerView": 4}, "992": {"slidesPerView": 3}, "768": {"slidesPerView": 2}, "320": {"slidesPerView": 1}}, "effect": "slide"}'>
                             <div class="swiper-wrapper" id="swiper-wrapper-75a10fb2fc4819744" aria-live="off"
                                 style="transition-duration: 0ms; transform: translate3d(-1604px, 0px, 0px); transition-delay: 0ms;">
-
-
-
-
-                                <div class="swiper-slide" style="width: 371px; margin-right: 30px;" role="group"
-                                    aria-label="2 / 8" data-swiper-slide-index="1">
-
-                                    <div
-                                        class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                        <div class="position-relative">
-                                            <a href="demo-it-business-services-details.html"><img
-                                                    src="public/images/Gallery/Hollywood.png" alt=""
-                                                    data-no-retina=""></a>
-                                            <a href="#"
-                                                class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Finance</a>
-                                        </div>
-                                        <div class="bg-white">
-                                            <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Finance
-                                                    consulting</a>
-                                                <p>Lorem ipsum simply dummy text of amet consectetur.</p>
-                                            </div>
-                                            <div
-                                                class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                    <span>
-                                                        <span class="btn-text">Explore services</span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                    </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-
-
-                                <div class="swiper-slide" style="width: 371px; margin-right: 30px;" role="group"
-                                    aria-label="3 / 8" data-swiper-slide-index="2">
-
-                                    <div
-                                        class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                        <div class="position-relative">
-                                            <a href="demo-it-business-services-details.html"><img
-                                                    src="public/images/Gallery/HE-and-She.png" alt=""
-                                                    data-no-retina=""></a>
-                                            <a href="#"
-                                                class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">analytics</a>
-                                        </div>
-                                        <div class="bg-white">
-                                            <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Tech
-                                                    innovation</a>
-                                                <p>Lorem ipsum simply dummy text of amet consectetur.</p>
-                                            </div>
-                                            <div
-                                                class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                    <span>
-                                                        <span class="btn-text">Explore services</span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                    </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-
-
-                                <div class="swiper-slide" style="width: 371px; margin-right: 30px;" role="group"
-                                    aria-label="4 / 8" data-swiper-slide-index="3">
-
-                                    <div
-                                        class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                        <div class="position-relative">
-                                            <a href="demo-it-business-services-details.html"><img
-                                                    src="public/images/Gallery/Caratline.png" alt=""
-                                                    data-no-retina=""></a>
-                                            <a href="#"
-                                                class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Digital</a>
-                                        </div>
-                                        <div class="bg-white">
-                                            <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Digital
-                                                    commerce</a>
-                                                <p>Lorem ipsum simply dummy text of amet consectetur.</p>
-                                            </div>
-                                            <div
-                                                class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                    <span>
-                                                        <span class="btn-text">Explore services</span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                    </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-
-
-                                <div class="swiper-slide swiper-slide-prev" style="width: 371px; margin-right: 30px;"
-                                    role="group" aria-label="5 / 8" data-swiper-slide-index="4">
-
-                                    <div
-                                        class="services-box-style-03 last-paragraph-no-margin border-radius-4px overflow-hidden">
-                                        <div class="position-relative">
-                                            <a href="demo-it-business-services-details.html"><img
-                                                    src="public/images/Gallery/Boards.png" alt=""
-                                                    data-no-retina=""></a>
-                                            <a href="#"
-                                                class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Digital</a>
-                                        </div>
-                                        <div class="bg-white">
-                                            <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Cloud
-                                                    computing</a>
-                                                <p>Lorem ipsum simply dummy text of amet consectetur.</p>
-                                            </div>
-                                            <div
-                                                class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                    <span>
-                                                        <span class="btn-text">Explore services</span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                    </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-
-
-                                <div class="swiper-slide swiper-slide-active" style="width: 371px; margin-right: 30px;"
-                                    role="group" aria-label="6 / 8" data-swiper-slide-index="5">
-
-                                    <div
-                                        class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                        <div class="position-relative">
-                                            <a href="demo-it-business-services-details.html"><img
-                                                    src="public/images/Gallery/JP-Surana.png" alt=""
-                                                    data-no-retina=""></a>
-                                            <a href="#"
-                                                class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">analytics</a>
-                                        </div>
-                                        <div class="bg-white">
-                                            <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Data and
-                                                    analytics</a>
-                                                <p>Lorem ipsum simply dummy text of amet consectetur.</p>
-                                            </div>
-                                            <div
-                                                class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                    <span>
-                                                        <span class="btn-text">Explore services</span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                    </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-
-
-                                <div class="swiper-slide swiper-slide-next" style="width: 371px; margin-right: 30px;"
-                                    role="group" aria-label="7 / 8" data-swiper-slide-index="6">
-
-                                    <div
-                                        class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                        <div class="position-relative">
-                                            <a href="demo-it-business-services-details.html"><img
-                                                    src="public/images/Gallery/Maham.png" alt=""
-                                                    data-no-retina=""></a>
-                                            <a href="#"
-                                                class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Finance</a>
-                                        </div>
-                                        <div class="bg-white">
-                                            <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Finance
-                                                    consulting</a>
-                                                <p>Lorem ipsum simply dummy text of amet consectetur.</p>
-                                            </div>
-                                            <div
-                                                class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                    <span>
-                                                        <span class="btn-text">Explore services</span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                    </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-
-
-                            
+                                @component('component.servicecard', [
+                                    'id' => 1,
+                                    'image' => 'service01.png',
+                                    'title' => 'Quality Assurance',
+                                    'short_desc' => 'Committed to excellence, we adhere to stringent quality standards throughout the',
+                                    'long_desc' =>
+                                        ' manufacturing  process guaranteing top-notch products that deliver superior performance and reliability.',
+                                ])
+                                @endcomponent
+                                @component('component.servicecard', [
+                                    'id' => 2,
+                                    'image' => 'service02.png',
+                                    'title' => 'Training and Support',
+                                    'short_desc' => 'We provide comprehensive training sessions to empower clients with the knowledge ',
+                                    'long_desc' =>
+                                        'and skills needed to effectively utilize our LED display solutions. Additionally, our dedicated support team is available to address any queries or concerns promptly.',
+                                ])
+                                @endcomponent
+                                @component('component.servicecard', [
+                                    'id' => 3,
+                                    'image' => 'service03.png',
+                                    'title' => 'LED Display Solutions',
+                                    'short_desc' => 'We specialize in providing a comprehensive range of LED display solutions tailored to ',
+                                    'long_desc' =>
+                                        ' meet diverse needs, including outdoor fixed LED video walls, indoor LED video walls, LED mobile van displays, single-color digital LED display boards, and LED signboards.',
+                                ])
+                                @endcomponent
+                                @component('component.servicecard', [
+                                    'id' => 4,
+                                    'image' => 'service04.png',
+                                    'title' => 'Customization',
+                                    'short_desc' => 'Our team works closely with clients to understand their specific requirements and ',
+                                    'long_desc' =>
+                                        ' preferences, offering customized solutions that align perfectly with their branding and messaging goals.',
+                                ])
+                                @endcomponent
+                                @component('component.servicecard', [
+                                    'id' => 5,
+                                    'image' => 'service05.png',
+                                    'title' => 'Installation and Maintenance',
+                                    'short_desc' => 'From installation to ongoing maintenance, we ensure',
+                                    'long_desc' =>
+                                        ' hassle-free setup and operation of LED display systems, maximizing their performance and longevity.',
+                                ])
+                                @endcomponent
+                                @component('component.servicecard', [
+                                    'id' => 7,
+                                    'image' => 'service06.png',
+                                    'title' => 'Competitive Pricing',
+                                    'short_desc' => 'We offer competitive pricing without compromising on quality',
+                                    'long_desc' => ' ensuring that our clients receive excellent value for their investment.',
+                                ])
+                                @endcomponent
                             </div>
                             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
                         </div>
@@ -389,13 +212,13 @@
                     <img src="public/images/ledlight.png" alt />
                     <div class="fs-19 lh-28 last-paragraph-no-margin text-white pt-15px pb-15px">
                         <p>Empower Your Progress, Illuminate Your Path with ZinfoTec's LED Excellence. <a
-                            href="{{ url('/contact') }}"
-                                class="text-decoration-line-bottom fw-500 text-white">Contact us now</a></p>
+                                href="{{ url('/contact') }}" class="text-decoration-line-bottom fw-500 text-white">Contact
+                                us now</a></p>
                     </div>
                 </div>
             </div>
         </div>
-    </section>x`
+    </section>
 
 
     <section>
@@ -403,11 +226,12 @@
             <div class="row justify-content-center mb-6">
                 <div class="col-xl-6 col-md-8 col-sm-10 text-center"
                     data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                    <h4 class="mb-0 text-dark-gray fw-700 ls-minus-1px w-85 xl-w-100 mx-auto">Top choice for global leaders in LED display technology</h4>
+                    <h4 class="mb-0 text-dark-gray fw-700 ls-minus-1px w-85 xl-w-100 mx-auto">Top choice for global leaders
+                        in LED display technology</h4>
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-md-3 justify-content-center mb-7 sm-mb-45px"
-                data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [50, 0], &quot;rotateX&quot;:[30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+                data-anime='{ "el": "childs", "translateY": [50, 0], "rotateX":[30, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                 <div class="col sm-mb-30px">
                     <div
                         class="bg-white h-100 border border-color-extra-medium-gray border-radius-6px text-center box-shadow-quadruple-large">
@@ -440,7 +264,7 @@
                 </div>
             </div>
             <div class="row position-relative clients-style-08 mb-6 sm-mb-40px"
-                data-anime="{ &quot;translateX&quot;: [0, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+                data-anime='{ "translateX": [0, 0], "opacity": [0, 1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
 
                 <div class="col swiper text-center feather-shadow"
                     data-slider-options="{ &quot;slidesPerView&quot;: 2, &quot;spaceBetween&quot;:0, &quot;speed&quot;: 6000, &quot;loop&quot;: true, &quot;pagination&quot;: { &quot;el&quot;: &quot;.slider-four-slide-pagination-2&quot;, &quot;clickable&quot;: false }, &quot;allowTouchMove&quot;: false, &quot;autoplay&quot;: { &quot;delay&quot;:0, &quot;disableOnInteraction&quot;: false }, &quot;navigation&quot;: { &quot;nextEl&quot;: &quot;.slider-four-slide-next-2&quot;, &quot;prevEl&quot;: &quot;.slider-four-slide-prev-2&quot; }, &quot;keyboard&quot;: { &quot;enabled&quot;: true, &quot;onlyInViewport&quot;: true }, &quot;breakpoints&quot;: { &quot;1200&quot;: { &quot;slidesPerView&quot;: 4 }, &quot;992&quot;: { &quot;slidesPerView&quot;: 4 }, &quot;768&quot;: { &quot;slidesPerView&quot;: 3 } }, &quot;effect&quot;: &quot;slide&quot; }">
@@ -523,7 +347,7 @@
                                 {
                                     src: "maham-collection.png",
                                     link: ""
-                                },                                
+                                },
                                 {
                                     src: "humsafar-travels.jpg.png",
                                     link: ""
@@ -561,7 +385,7 @@
                                     link: ""
                                 },
                                 {
-                                    src: "Alicon.jpg.png",
+                                    src: "Alicon.jpg",
                                     link: ""
                                 },
                                 {
@@ -620,16 +444,15 @@
                         <div class="tab-pane fade in active show" id="tab_eight1">
                             <div class="row align-items-center justify-content-center g-lg-0">
                                 <div class="col-md-6 sm-mb-30px position-relative overflow-hidden"
-                                    data-anime="{ &quot;effect&quot;: &quot;slide&quot;, &quot;color&quot;: &quot;#005153&quot;, &quot;direction&quot;:&quot;lr&quot;, &quot;easing&quot;: &quot;easeOutQuad&quot;, &quot;delay&quot;:50}">
-                                    <img src="public/images/demo-accounting-img-06.jpg" alt
-                                        class="w-100 border-radius-6px">
-                                    <div class="bg-very-light-gray w-250px position-absolute pt-20px pb-20px ps-25px pe-25px border-radius-4px bottom-30px left-35px box-shadow-large d-flex align-items-center"
+                                    data-anime='{ "effect": "slide", "color": "#005153", "direction": "lr", "easing": "easeOutQuad", "delay": 50 }'>
+                                    <img src="public/images/background/va.png" alt class="w-100 border-radius-6px">
+                                    {{-- <div class="bg-very-light-gray w-250px position-absolute pt-20px pb-20px ps-25px pe-25px border-radius-4px bottom-30px left-35px box-shadow-large d-flex align-items-center"
                                         data-anime="{ &quot;translateY&quot;: [0, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 800, &quot;staggervalue&quot;: 500, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
                                         <h2 class="vertical-counter d-inline-flex text-dark-gray fw-700 ls-minus-2px md-ls-minus-1px mb-0 text-nowrap border-end border-1 border-color-transparent-dark-very-light pe-20px me-20px"
                                             data-to="85"></h2>
                                         <span class="text-dark-gray ls-minus-05px d-inline-block lh-22">Project
                                             completed</span>
-                                    </div>
+                                    </div> --}}
                                 </div>
                                 <div class="col-xl-4 col-lg-5 offset-lg-1 col-md-6 text-center text-md-start"
                                     data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateX&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
@@ -795,7 +618,7 @@
         <div class="container" style="padding-top:50px;">
             <div class="row justify-content-center mb-2">
                 <div class="col-xxl-5 col-lg-7 col-md-8 text-center"
-                    data-anime="{ &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+                    data-anime='{ "translateY": [50, 0], "opacity": [0, 1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                     <span>HOT COLLECTION</span>
                     <h4 class="text-dark-gray fw-700 ls-minus-1px">Browse Our Top Products</h4>
                 </div>
