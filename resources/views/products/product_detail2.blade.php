@@ -43,24 +43,24 @@
     <section class="container sproduct my-5 pt-5">
         <div class="row mt-5">
             <div class="col-lg-5 col-md-12 col-sm-12">
-                <img class="img-fluid w-100 pd-10" id="MainImg" src="public/images/Products/LR.P6.png" data-main-image alt="">
+                <img class="img-fluid w-100 pd-10" id="MainImg" src="public/images/Products/P6.png" data-main-image alt="">
 
                 <div class="small-img-group pt-1">
                     <div class="small-img-col">
-                        <img src="public/images/Products/LR.P6-[2].png" width="100%" class="small-img" alt="">
+                        <img src="public/images/Products/IndoorsP6.png" width="100%" class="small-img" alt="">
                     </div>
                     <div class="small-img-col">
-                        <img src="public/images/Products/LR.P6.png" width="100%" class="small-img" alt="">
+                        <img src="public/images/Products/IndoorsP6-[2].png" width="100%" class="small-img" alt="">
                     </div>
                     <div class="small-img-col">
-                        <img src="public/images/Products/LR.P6-[1].png" width="100%" class="small-img" alt="">
+                        <img src="public/images/Products/IndoorsP6[1].png" width="100%" class="small-img" alt="">
                     </div>
                     
                     
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 border_set">
-                <h3 class="py-4 text-black">Product-Name</h3>
+                <h3 class="py-4 text-black">P6</h3>
                 <h2 class="">$200</h2>                
                 
                 <h4 class="my-5 text-black">Product Details</h4>

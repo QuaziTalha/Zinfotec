@@ -179,7 +179,7 @@
                             </div> --}}
 
                     </div>
-                    <a href="demo-accounting-services.html"
+                    <a href="{{ url('/products') }}"
                         class="btn btn-large btn-rounded with-rounded btn-base-color btn-round-edge btn-box-shadow">Explore<span class="bg-orient-blue text-white"><i
                                 class="feather icon-feather-arrow-right icon-small"></i></span></a>
                 </div>

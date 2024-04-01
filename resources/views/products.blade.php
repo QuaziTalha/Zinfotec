@@ -132,7 +132,7 @@ style="background-image: url({{ url('public/images/background/sign.jpg') }})">>
                             <div class="shop-box mb-10px">
                                 <div class="shop-image mb-20px">
                                     <a href="{{ url('product_detail') }}">
-                                        <img src="{{ url('public/images/Products/HRL-P5.png') }}" alt=""
+                                        <img src="{{ url('public/images/Products/Outdoor_HRL-P5.png') }}" alt=""
                                             data-no-retina="">
                                         <div class="shop-overlay bg-gradient-gray-light-dark-transparent"></div>
                                     </a>
@@ -163,7 +163,7 @@ style="background-image: url({{ url('public/images/background/sign.jpg') }})">>
                                     </div>
                                 </div>
                                 <div class="shop-footer text-center">
-                                    <a href="#" class="alt-font text-dark-gray fs-19 fw-500">Traveller shirt</a>
+                                    <a href="#" class="alt-font text-dark-gray fs-19 fw-500">HRL P5</a>
                                     <div class="price lh-22 fs-16"><del>$350.00</del>$289.00</div>
                                 </div>
                             </div>
@@ -175,7 +175,7 @@ style="background-image: url({{ url('public/images/background/sign.jpg') }})">>
                             <div class="shop-box mb-10px">
                                 <div class="shop-image mb-20px">
                                     <a href="{{ url('product_detail2') }}">
-                                        <img src="{{ url('public/images/Products/LR.P6.png') }}" alt=""
+                                        <img src="{{ url('public/images/Products/P6.png') }}" alt=""
                                             data-no-retina="">
                                         <div class="shop-overlay bg-gradient-gray-light-dark-transparent"></div>
                                     </a>
@@ -206,18 +206,19 @@ style="background-image: url({{ url('public/images/background/sign.jpg') }})">>
                                     </div>
                                 </div>
                                 <div class="shop-footer text-center">
-                                    <a href="#" class="alt-font text-dark-gray fs-19 fw-500">Traveller shirt</a>
+                                    <a href="#" class="alt-font text-dark-gray fs-19 fw-500">P6</a>
                                     <div class="price lh-22 fs-16"><del>$350.00</del>$289.00</div>
                                 </div>
                             </div>
                         </li>
+                        
                         
                         <li class="grid-item"
                             style="position: absolute; left: 24.9997%; top: 0px; transition: none 0s ease 0s; transform: translate3d(0px, 0px, 0px);">
                             <div class="shop-box mb-10px">
                                 <div class="shop-image mb-20px">
                                     <a href="{{ url('product_detail3') }}">
-                                        <img src="{{ url('public/images/Products/LLRP10.png') }}" alt=""
+                                        <img src="{{ url('public/images/Products/Outdoor_LLRP10.png') }}" alt=""
                                             data-no-retina="">
                                         <div class="shop-overlay bg-gradient-gray-light-dark-transparent"></div>
                                     </a>
@@ -248,7 +249,7 @@ style="background-image: url({{ url('public/images/background/sign.jpg') }})">>
                                     </div>
                                 </div>
                                 <div class="shop-footer text-center">
-                                    <a href="#" class="alt-font text-dark-gray fs-19 fw-500">Traveller shirt</a>
+                                    <a href="#" class="alt-font text-dark-gray fs-19 fw-500">LLR P10</a>
                                     <div class="price lh-22 fs-16"><del>$350.00</del>$289.00</div>
                                 </div>
                             </div>
@@ -259,7 +260,214 @@ style="background-image: url({{ url('public/images/background/sign.jpg') }})">>
                             <div class="shop-box mb-10px">
                                 <div class="shop-image mb-20px">
                                     <a href="{{ url('product_detail4') }}">
-                                        <img src="{{ url('public/images/Products/P2.5.png') }}" alt=""
+                                        <img src="{{ url('public/images/Products/Indoor_P2.5.png') }}" alt=""
+                                            data-no-retina="">
+                                        <div class="shop-overlay bg-gradient-gray-light-dark-transparent"></div>
+                                    </a>
+                                    <div class="shop-buttons-wrap">
+                                        <a href="#"
+                                            class="alt-font btn btn-small btn-box-shadow btn-white btn-round-edge left-icon add-to-cart">
+                                            <i class="feather icon-feather-shopping-bag"></i><span
+                                                class="quick-view-text button-text">Add to cart</span>
+                                        </a>
+                                    </div>
+                                    <div class="shop-hover d-flex justify-content-center">
+                                        <ul>
+                                            <li>
+                                                <a href="#"
+                                                    class="w-40px h-40px bg-white text-dark-gray d-flex align-items-center justify-content-center rounded-circle ms-5px me-5px"
+                                                    data-bs-toggle="tooltip" data-bs-placement="left"
+                                                    aria-label="Add to wishlist" data-bs-original-title="Add to wishlist"><i
+                                                        class="feather icon-feather-heart fs-16"></i></a>
+                                            </li>
+                                            <li>
+                                                <a href="#"
+                                                    class="w-40px h-40px bg-white text-dark-gray d-flex align-items-center justify-content-center rounded-circle ms-5px me-5px"
+                                                    data-bs-toggle="tooltip" data-bs-placement="left"
+                                                    aria-label="Quick shop" data-bs-original-title="Quick shop"><i
+                                                        class="feather icon-feather-eye fs-16"></i></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="shop-footer text-center">
+                                    <a href="#" class="alt-font text-dark-gray fs-19 fw-500">P2.5</a>
+                                    <div class="price lh-22 fs-16"><del>$350.00</del>$289.00</div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="grid-item"
+                            style="position: absolute; left: 24.9997%; top: 0px; transition: none 0s ease 0s; transform: translate3d(0px, 0px, 0px);">
+                            <div class="shop-box mb-10px">
+                                <div class="shop-image mb-20px">
+                                    <a href="{{ url('meiyad') }}">
+                                        <img src="{{ url('public/images/Products/meiyad.png') }}" alt=""
+                                            data-no-retina="">
+                                        <div class="shop-overlay bg-gradient-gray-light-dark-transparent"></div>
+                                    </a>
+                                    <div class="shop-buttons-wrap">
+                                        <a href="#"
+                                            class="alt-font btn btn-small btn-box-shadow btn-white btn-round-edge left-icon add-to-cart">
+                                            <i class="feather icon-feather-shopping-bag"></i><span
+                                                class="quick-view-text button-text">Add to cart</span>
+                                        </a>
+                                    </div>
+                                    <div class="shop-hover d-flex justify-content-center">
+                                        <ul>
+                                            <li>
+                                                <a href="#"
+                                                    class="w-40px h-40px bg-white text-dark-gray d-flex align-items-center justify-content-center rounded-circle ms-5px me-5px"
+                                                    data-bs-toggle="tooltip" data-bs-placement="left"
+                                                    aria-label="Add to wishlist" data-bs-original-title="Add to wishlist"><i
+                                                        class="feather icon-feather-heart fs-16"></i></a>
+                                            </li>
+                                            <li>
+                                                <a href="#"
+                                                    class="w-40px h-40px bg-white text-dark-gray d-flex align-items-center justify-content-center rounded-circle ms-5px me-5px"
+                                                    data-bs-toggle="tooltip" data-bs-placement="left"
+                                                    aria-label="Quick shop" data-bs-original-title="Quick shop"><i
+                                                        class="feather icon-feather-eye fs-16"></i></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="shop-footer text-center">
+                                    <a href="#" class="alt-font text-dark-gray fs-19 fw-500">Meiyad</a>
+                                    <div class="price lh-22 fs-16"><del>$350.00</del>$289.00</div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="grid-item"
+                            style="position: absolute; left: 24.9997%; top: 0px; transition: none 0s ease 0s; transform: translate3d(0px, 0px, 0px);">
+                            <div class="shop-box mb-10px">
+                                <div class="shop-image mb-20px">
+                                    <a href="{{ url('Outdoor_R1011R') }}">
+                                        <img src="{{ url('public/images/Products/Outdoor_R101R[1].png') }}" alt=""
+                                            data-no-retina="">
+                                        <div class="shop-overlay bg-gradient-gray-light-dark-transparent"></div>
+                                    </a>
+                                    <div class="shop-buttons-wrap">
+                                        <a href="#"
+                                            class="alt-font btn btn-small btn-box-shadow btn-white btn-round-edge left-icon add-to-cart">
+                                            <i class="feather icon-feather-shopping-bag"></i><span
+                                                class="quick-view-text button-text">Add to cart</span>
+                                        </a>
+                                    </div>
+                                    <div class="shop-hover d-flex justify-content-center">
+                                        <ul>
+                                            <li>
+                                                <a href="#"
+                                                    class="w-40px h-40px bg-white text-dark-gray d-flex align-items-center justify-content-center rounded-circle ms-5px me-5px"
+                                                    data-bs-toggle="tooltip" data-bs-placement="left"
+                                                    aria-label="Add to wishlist" data-bs-original-title="Add to wishlist"><i
+                                                        class="feather icon-feather-heart fs-16"></i></a>
+                                            </li>
+                                            <li>
+                                                <a href="#"
+                                                    class="w-40px h-40px bg-white text-dark-gray d-flex align-items-center justify-content-center rounded-circle ms-5px me-5px"
+                                                    data-bs-toggle="tooltip" data-bs-placement="left"
+                                                    aria-label="Quick shop" data-bs-original-title="Quick shop"><i
+                                                        class="feather icon-feather-eye fs-16"></i></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="shop-footer text-center">
+                                    <a href="#" class="alt-font text-dark-gray fs-19 fw-500">R101R</a>
+                                    <div class="price lh-22 fs-16"><del>$350.00</del>$289.00</div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="grid-item"
+                            style="position: absolute; left: 24.9997%; top: 0px; transition: none 0s ease 0s; transform: translate3d(0px, 0px, 0px);">
+                            <div class="shop-box mb-10px">
+                                <div class="shop-image mb-20px">
+                                    <a href="{{ url('product_detail4') }}">
+                                        <img src="{{ url('public/images/Products/') }}" alt=""
+                                            data-no-retina="">
+                                        <div class="shop-overlay bg-gradient-gray-light-dark-transparent"></div>
+                                    </a>
+                                    <div class="shop-buttons-wrap">
+                                        <a href="#"
+                                            class="alt-font btn btn-small btn-box-shadow btn-white btn-round-edge left-icon add-to-cart">
+                                            <i class="feather icon-feather-shopping-bag"></i><span
+                                                class="quick-view-text button-text">Add to cart</span>
+                                        </a>
+                                    </div>
+                                    <div class="shop-hover d-flex justify-content-center">
+                                        <ul>
+                                            <li>
+                                                <a href="#"
+                                                    class="w-40px h-40px bg-white text-dark-gray d-flex align-items-center justify-content-center rounded-circle ms-5px me-5px"
+                                                    data-bs-toggle="tooltip" data-bs-placement="left"
+                                                    aria-label="Add to wishlist" data-bs-original-title="Add to wishlist"><i
+                                                        class="feather icon-feather-heart fs-16"></i></a>
+                                            </li>
+                                            <li>
+                                                <a href="#"
+                                                    class="w-40px h-40px bg-white text-dark-gray d-flex align-items-center justify-content-center rounded-circle ms-5px me-5px"
+                                                    data-bs-toggle="tooltip" data-bs-placement="left"
+                                                    aria-label="Quick shop" data-bs-original-title="Quick shop"><i
+                                                        class="feather icon-feather-eye fs-16"></i></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="shop-footer text-center">
+                                    <a href="#" class="alt-font text-dark-gray fs-19 fw-500">Traveller shirt</a>
+                                    <div class="price lh-22 fs-16"><del>$350.00</del>$289.00</div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="grid-item"
+                            style="position: absolute; left: 24.9997%; top: 0px; transition: none 0s ease 0s; transform: translate3d(0px, 0px, 0px);">
+                            <div class="shop-box mb-10px">
+                                <div class="shop-image mb-20px">
+                                    <a href="{{ url('product_detail4') }}">
+                                        <img src="{{ url('public/images/Products/') }}" alt=""
+                                            data-no-retina="">
+                                        <div class="shop-overlay bg-gradient-gray-light-dark-transparent"></div>
+                                    </a>
+                                    <div class="shop-buttons-wrap">
+                                        <a href="#"
+                                            class="alt-font btn btn-small btn-box-shadow btn-white btn-round-edge left-icon add-to-cart">
+                                            <i class="feather icon-feather-shopping-bag"></i><span
+                                                class="quick-view-text button-text">Add to cart</span>
+                                        </a>
+                                    </div>
+                                    <div class="shop-hover d-flex justify-content-center">
+                                        <ul>
+                                            <li>
+                                                <a href="#"
+                                                    class="w-40px h-40px bg-white text-dark-gray d-flex align-items-center justify-content-center rounded-circle ms-5px me-5px"
+                                                    data-bs-toggle="tooltip" data-bs-placement="left"
+                                                    aria-label="Add to wishlist" data-bs-original-title="Add to wishlist"><i
+                                                        class="feather icon-feather-heart fs-16"></i></a>
+                                            </li>
+                                            <li>
+                                                <a href="#"
+                                                    class="w-40px h-40px bg-white text-dark-gray d-flex align-items-center justify-content-center rounded-circle ms-5px me-5px"
+                                                    data-bs-toggle="tooltip" data-bs-placement="left"
+                                                    aria-label="Quick shop" data-bs-original-title="Quick shop"><i
+                                                        class="feather icon-feather-eye fs-16"></i></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="shop-footer text-center">
+                                    <a href="#" class="alt-font text-dark-gray fs-19 fw-500">Traveller shirt</a>
+                                    <div class="price lh-22 fs-16"><del>$350.00</del>$289.00</div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="grid-item"
+                            style="position: absolute; left: 24.9997%; top: 0px; transition: none 0s ease 0s; transform: translate3d(0px, 0px, 0px);">
+                            <div class="shop-box mb-10px">
+                                <div class="shop-image mb-20px">
+                                    <a href="{{ url('product_detail4') }}">
+                                        <img src="{{ url('public/images/Products/') }}" alt=""
                                             data-no-retina="">
                                         <div class="shop-overlay bg-gradient-gray-light-dark-transparent"></div>
                                     </a>

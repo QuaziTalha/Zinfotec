@@ -23,4 +23,5 @@ $router->get('/product_detail', function () {return view('products.product_detai
 $router->get('/product_detail2', function () {return view('products.product_detail2');});
 $router->get('/product_detail3', function () {return view('products.product_detail3');});
 $router->get('/product_detail4', function () {return view('products.product_detail4');});
-
+$router->get('/meiyad', function () {return view('products.meiyad');});
+$router->get('/Outdoor_R1011R', function () {return view('products.Outdoor_R1011R');});

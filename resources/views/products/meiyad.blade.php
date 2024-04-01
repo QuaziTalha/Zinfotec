@@ -10,8 +10,7 @@
             flex: 20%;
             margin-right: 5px;
             cursor: pointer;
-            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);    
-
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
         }
         .big-img  {
             box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
@@ -22,7 +21,7 @@
             font-size: 20px;
             margin-right: 10px;
             padding-left: 10px;
-            padding-right: 10px
+            padding-right: 10px;
         }
 
         .buy-btn {
@@ -32,8 +31,7 @@
             border: none;
             border-radius: 10%;
         }
-
-        .border_set {
+        .border_set{
             border: 5px solid #02283a;
             align-content: center;
             text-align: center;
@@ -41,32 +39,32 @@
         }
     </style>
 
-    <section class="container sproduct my-5 pt-5 ">
-        <div class="row mt-5 ">
-            <div class="col-lg-5 col-md-12 col-sm-12 ">
-                <div class="big-img ">
-                    <img class="img-fluid w-100 pd-10" id="MainImg" src="public/images/Products/Outdoor_HRL-P5.png" data-main-image
-                    alt="">
-                </div>              
+    <section class="container sproduct my-5 pt-5">
+        <div class="row mt-5">
+            <div class="col-lg-5 col-md-12 col-sm-12">
+                <img class="img-fluid w-100 pd-10" id="MainImg" src="public/images/Products/meiyad.png" alt=""
+                     data-main-image>
 
                 <div class="small-img-group pt-1">
+
                     <div class="small-img-col">
-                        <img src="public/images/Products/Outdoor_HRL-P5-[1].png" width="100%" class="small-img" alt="">
+                        <img src="public/images/Products/meiyad-[3].png" width="100%" class="small-img"
+                             alt="">
                     </div>
                     <div class="small-img-col">
-                        <img src="public/images/Products/Outdoor_HRL-P5.png" width="100%" class="small-img" alt="">
+                        <img src="public/images/Products/meiyad.png" width="100%" class="small-img"
+                             alt="">
                     </div>
                     <div class="small-img-col">
-                        <img src="public/images/Products/Outdoor_HRL-3.png" width="100%" class="small-img" alt="">
+                        <img class="small-img" width="100%" src="public/images/Products/meiyad-[2].png"
+                             alt="">
                     </div>
 
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 border_set">
-                <h3 class="py-4 text-black">HRL-P5</h3>
+                <h3 class="py-4 text-black">Meiyad</h3>
                 <h2 class="">$200</h2>
-                {{-- <input type="number" value="1">
-                    <Button class="buy-btn">Add to Cart</Button> --}}
                 <h4 class="my-5 text-black">Product Details</h4>
                 <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat nostrum quam repellendus voluptatem,
                     nemo ab aspernatur magni harum consectetur possimus deserunt! Itaque perspiciatis adipisci assumenda
@@ -78,7 +76,7 @@
     <script>
         var MainImg = document.querySelector('[data-main-image]');
         var SmallImg = document.querySelectorAll('.small-img');
-
+        var previousSmallImg = null;
 
         SmallImg.forEach(function(smallImg) {
             smallImg.onclick = function() {
@@ -86,4 +84,5 @@
             };
         });
     </script>
+
 @endsection

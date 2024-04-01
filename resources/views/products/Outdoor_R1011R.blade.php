@@ -45,25 +45,25 @@
         <div class="row mt-5 ">
             <div class="col-lg-5 col-md-12 col-sm-12 ">
                 <div class="big-img ">
-                    <img class="img-fluid w-100 pd-10" id="MainImg" src="public/images/Products/Outdoor_HRL-P5.png" data-main-image
+                    <img class="img-fluid w-100 pd-10" id="MainImg" src="public/images/Products/Outdoor_R101R[1].png" data-main-image
                     alt="">
                 </div>              
 
                 <div class="small-img-group pt-1">
                     <div class="small-img-col">
-                        <img src="public/images/Products/Outdoor_HRL-P5-[1].png" width="100%" class="small-img" alt="">
+                        <img src="public/images/Products/Outdoor_R101R-[2].png" width="100%" class="small-img" alt="">
                     </div>
                     <div class="small-img-col">
-                        <img src="public/images/Products/Outdoor_HRL-P5.png" width="100%" class="small-img" alt="">
+                        <img src="public/images/Products/Outdoor_R1011R.png" width="100%" class="small-img" alt="">
                     </div>
                     <div class="small-img-col">
-                        <img src="public/images/Products/Outdoor_HRL-3.png" width="100%" class="small-img" alt="">
+                        <img src="public/images/Products/R101R.png" width="100%" class="small-img" alt="">
                     </div>
 
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 border_set">
-                <h3 class="py-4 text-black">HRL-P5</h3>
+                <h3 class="py-4 text-black">R101R   </h3>
                 <h2 class="">$200</h2>
                 {{-- <input type="number" value="1">
                     <Button class="buy-btn">Add to Cart</Button> --}}
