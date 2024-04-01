@@ -5,13 +5,8 @@
         <div class="container h-100">
             <div class="row align-items-center h-100">
                 <div class="col-xl-7 col-md-9 col-sm-9 position-relative text-white"
-<<<<<<< Updated upstream
                     data-anime='{ "el": "childs", "opacity": [0, 1], "translateY": [30, 0], "staggervalue": 200, "easing": "easeInOutSine" }'>
                     <div class="fs-80 lh-75 sm-fs-65 fw-600 mb-20px text-shadow-large ls-minus-2px">Unleash the Power of LED
-=======
-                    data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;opacity&quot;: [0, 1], &quot;translateY&quot;: [30, 0], &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeInOutSine&quot; }">
-                    <div class="fs-60 lh-75 sm-fs-65 fw-600 mb-20px text-shadow-large ls-minus-2px">Unleash the Power of LED
->>>>>>> Stashed changes
                         Screens</div>
                     <div>
                         <span class=" fs-20 w-70 md-w-85 mb-25px fw-300 d-inline-block text-light">
@@ -47,11 +42,7 @@
                                 <span class="w-200px h-200px bg-main2 rounded-circle d-inline-block"
                                     data-anime="{ &quot;opacity&quot;: [0, 1], &quot;staggervalue&quot;: 0, &quot;easing&quot;: &quot;easeOutQuad&quot; }"></span>
                                 <span
-<<<<<<< Updated upstream
-                                    class="fs-120 lg-fs-90 text-dark-gray fw-700 position-absolute left-0px w-100 top-50 ls-minus-5px md-top-40px"
-=======
                                     class="fs-160 lg-fs-150 text-dark-gray fw-700 position-absolute left-0px ls-minus-5px md-top-40px" style="top: -15%; width: 125%; "
->>>>>>> Stashed changes
                                     data-anime="{ &quot;opacity&quot;: [0, 1], &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeOutQuad&quot; }">10+</span>
                             </div>
                         </div>
@@ -142,7 +133,6 @@
                             data-slider-options='{"slidesPerView": 1, "spaceBetween": 30, "loop": true, "navigation": {"nextEl": ".slider-one-slide-next-1", "prevEl": ".slider-one-slide-prev-1"}, "autoplay": {"delay": 4000, "disableOnInteraction": false}, "keyboard": {"enabled": true, "onlyInViewport": true}, "breakpoints": {"1200": {"slidesPerView": 4}, "992": {"slidesPerView": 3}, "768": {"slidesPerView": 2}, "320": {"slidesPerView": 1}}, "effect": "slide"}'>
                             <div class="swiper-wrapper" id="swiper-wrapper-75a10fb2fc4819744" aria-live="off"
                                 style="transition-duration: 0ms; transform: translate3d(-1604px, 0px, 0px); transition-delay: 0ms;">
-<<<<<<< Updated upstream
                                 @component('component.servicecard', [
                                     'id' => 1,
                                     'image' => 'service01.png',
@@ -196,241 +186,6 @@
                                     'long_desc' => ' ensuring that our clients receive excellent value for their investment.',
                                 ])
                                 @endcomponent
-=======
-
-
-
-
-                                <div class="swiper-slide" style="width: 371px; margin-right: 30px;" role="group"
-                                    aria-label="2 / 8" data-swiper-slide-index="1">
-
-                                    <div
-                                        class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                        <div class="position-relative">
-                                            <a href="demo-it-business-services-details.html"><img
-                                                    src="public/images/Gallery/Hollywood.png" alt=""
-                                                    data-no-retina=""></a>
-                                            <a href="#"
-                                                class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Finance</a>
-                                        </div>
-                                        <div class="bg-white">
-                                            <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Finance
-                                                    consulting</a>
-                                                <p>Lorem ipsum simply dummy text of amet consectetur.</p>
-                                            </div>
-                                            <div
-                                                class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                    <span>
-                                                        <span class="btn-text">Explore services</span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                    </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-
-
-                                <div class="swiper-slide" style="width: 371px; margin-right: 30px;" role="group"
-                                    aria-label="3 / 8" data-swiper-slide-index="2">
-
-                                    <div
-                                        class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                        <div class="position-relative">
-                                            <a href="demo-it-business-services-details.html"><img
-                                                    src="public/images/Gallery/HE-and-She.png" alt=""
-                                                    data-no-retina=""></a>
-                                            <a href="#"
-                                                class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">analytics</a>
-                                        </div>
-                                        <div class="bg-white">
-                                            <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Tech
-                                                    innovation</a>
-                                                <p>Lorem ipsum simply dummy text of amet consectetur.</p>
-                                            </div>
-                                            <div
-                                                class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                    <span>
-                                                        <span class="btn-text">Explore services</span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                    </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-
-
-                                <div class="swiper-slide" style="width: 371px; margin-right: 30px;" role="group"
-                                    aria-label="4 / 8" data-swiper-slide-index="3">
-
-                                    <div
-                                        class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                        <div class="position-relative">
-                                            <a href="demo-it-business-services-details.html"><img
-                                                    src="public/images/Gallery/Caratline.png" alt=""
-                                                    data-no-retina=""></a>
-                                            <a href="#"
-                                                class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Digital</a>
-                                        </div>
-                                        <div class="bg-white">
-                                            <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Digital
-                                                    commerce</a>
-                                                <p>Lorem ipsum simply dummy text of amet consectetur.</p>
-                                            </div>
-                                            <div
-                                                class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                    <span>
-                                                        <span class="btn-text">Explore services</span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                    </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-
-
-                                <div class="swiper-slide swiper-slide-prev" style="width: 371px; margin-right: 30px;"
-                                    role="group" aria-label="5 / 8" data-swiper-slide-index="4">
-
-                                    <div
-                                        class="services-box-style-03 last-paragraph-no-margin border-radius-4px overflow-hidden">
-                                        <div class="position-relative">
-                                            <a href="demo-it-business-services-details.html"><img
-                                                    src="public/images/Gallery/Boards.png" alt=""
-                                                    data-no-retina=""></a>
-                                            <a href="#"
-                                                class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Digital</a>
-                                        </div>
-                                        <div class="bg-white">
-                                            <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Cloud
-                                                    computing</a>
-                                                <p>Lorem ipsum simply dummy text of amet consectetur.</p>
-                                            </div>
-                                            <div
-                                                class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                    <span>
-                                                        <span class="btn-text">Explore services</span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                    </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-
-
-                                <div class="swiper-slide swiper-slide-active" style="width: 371px; margin-right: 30px;"
-                                    role="group" aria-label="6 / 8" data-swiper-slide-index="5">
-
-                                    <div
-                                        class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                        <div class="position-relative">
-                                            <a href="demo-it-business-services-details.html"><img
-                                                    src="public/images/Gallery/JP-Surana.png" alt=""
-                                                    data-no-retina=""></a>
-                                            <a href="#"
-                                                class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">analytics</a>
-                                        </div>
-                                        <div class="bg-white">
-                                            <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Data and
-                                                    analytics</a>
-                                                <p>Lorem ipsum simply dummy text of amet consectetur.</p>
-                                            </div>
-                                            <div
-                                                class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                    <span>
-                                                        <span class="btn-text">Explore services</span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                    </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-
-
-                                <div class="swiper-slide swiper-slide-next" style="width: 371px; margin-right: 30px;"
-                                    role="group" aria-label="7 / 8" data-swiper-slide-index="6">
-
-                                    <div
-                                        class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                        <div class="position-relative">
-                                            <a href="demo-it-business-services-details.html"><img
-                                                    src="public/images/Gallery/Maham.png" alt=""
-                                                    data-no-retina=""></a>
-                                            <a href="#"
-                                                class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Finance</a>
-                                        </div>
-                                        <div class="bg-white">
-                                            <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Finance
-                                                    consulting</a>
-                                                <p>Lorem ipsum simply dummy text of amet consectetur.</p>
-                                            </div>
-                                            <div
-                                                class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                <a href="demo-it-business-services-details.html"
-                                                    class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                    <span>
-                                                        <span class="btn-text">Explore services</span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                        <span class="btn-icon"><i
-                                                                class="fa-solid fa-arrow-right"></i></span>
-                                                    </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-
-
-
->>>>>>> Stashed changes
                             </div>
                             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
                         </div>

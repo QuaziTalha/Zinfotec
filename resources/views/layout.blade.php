@@ -41,11 +41,7 @@
         <div class="header-top-bar top-bar-dark bg-very-light-gray">
             <div class="container-fluid">
                 <div class="row h-45px xs-h-auto align-items-center m-0 xs-pt-5px xs-pb-5px">
-<<<<<<< Updated upstream
-                    <div class="col-lg-6 col-md-7 text-center text-md-start xs-px-0">
-=======
                     <div class="col-lg-4 col-md-7 text-center text-md-start xs-px-0">
->>>>>>> Stashed changes
                         <div class="fs-15 text-dark-gray fw-500">Our experts waiting for you! <a
                                 href="{{ url('contact') }}"
                                 class="text-dark-gray text-decoration-line-bottom fw-600">Contact now</a></div>
@@ -61,13 +57,9 @@
                                     class="feather icon-feather-phone-call"></i>92 7271
                                 7271</a> --}}
                         </div>
-<<<<<<< Updated upstream
-                       
-=======
                         <div class="widget fs-15 fw-500 text-dark-gray d-none d-lg-inline-block"><i
                                 class="feather icon-feather-map-pin"></i>Basement Supreme Commerce Classes, Khokadpura,
                              Aurangabad(MS)</div>
->>>>>>> Stashed changes
                     </div>
                 </div>
             </div>
@@ -227,7 +219,7 @@
                 </div>
 
             </div>
-           
+
         </div>
     </footer>
 
@@ -247,11 +239,7 @@
     </div>
 
 
-<<<<<<< Updated upstream
- 
-=======
-    <script type="text/javascript" src="public/js/jquery.js"></script>
->>>>>>> Stashed changes
+
     <script type="text/javascript" src="public/js/vendors.min.js"></script>
     <script type="text/javascript" src="public/js/main.js"></script>
 </body>

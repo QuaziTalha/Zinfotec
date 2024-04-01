@@ -19,13 +19,11 @@ $router->get('/products', function () {return view('products');});
 $router->get('/clients', function () {return view('clients');});
 $router->get('/contact', function () {return view('contact');});
 
-<<<<<<< Updated upstream
 $router->get('/product_detail', function () {return view('products.product_detail');});
 $router->get('/product_detail2', function () {return view('products.product_detail2');});
 $router->get('/product_detail3', function () {return view('products.product_detail3');});
 $router->get('/product_detail4', function () {return view('products.product_detail4');});
 
-=======
 
 
 $router->get('Admin/Login',["as"=>"Login", "uses"=>"AjaxController@Login"]);
@@ -52,4 +50,3 @@ $router->group(['prefix' => 'Admin', 'middleware'=> 'auth'], function () use ($r
     $router->get('/ContactsFetch',["as"=>"ContactsFetch", "uses"=>"AjaxController@ContactsFetch"]);
 
 });
->>>>>>> Stashed changes
