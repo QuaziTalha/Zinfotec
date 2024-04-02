@@ -60,7 +60,7 @@
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 border_set">
-                <h3 class="py-4 text-black">P6</h3>
+                <h3 class="py-4 text-black">Indoors P6</h3>
                 <h2 class="">$200</h2>                
                 
                 <h4 class="my-5 text-black">Product Details</h4>

@@ -15,13 +15,9 @@
 
 $router->get('/', function () {return view('index');});
 $router->get('/about', function () {return view('about');});
-$router->get('/products', function () {return view('products');});
+$router->get('/indoor-products', function () {return view('indoor-products');});
+$router->get('/outdoor-products', function () {return view('outdoor-products');});
 $router->get('/clients', function () {return view('clients');});
 $router->get('/contact', function () {return view('contact');});
 
-$router->get('/product_detail', function () {return view('products.product_detail');});
-$router->get('/product_detail2', function () {return view('products.product_detail2');});
-$router->get('/product_detail3', function () {return view('products.product_detail3');});
-$router->get('/product_detail4', function () {return view('products.product_detail4');});
-$router->get('/meiyad', function () {return view('products.meiyad');});
-$router->get('/Outdoor_R1011R', function () {return view('products.Outdoor_R1011R');});
+$router->get('/indoor_P2-5', function () {return view('products.Indoor.P2-5');});

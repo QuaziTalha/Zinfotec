@@ -230,7 +230,7 @@
                         in LED display technology</h4>
                 </div>
             </div>
-            <div class="row row-cols-1 row-cols-md-3 justify-content-center mb-7 sm-mb-45px"
+            {{-- <div class="row row-cols-1 row-cols-md-3 justify-content-center mb-7 sm-mb-45px"
                 data-anime='{ "el": "childs", "translateY": [50, 0], "rotateX":[30, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                 <div class="col sm-mb-30px">
                     <div
@@ -238,10 +238,10 @@
                         <div class="pt-10 pb-10">
                             <img src="public/images/Clients/tanishq.png" alt />
                         </div>
-                        {{-- <div class="border-top border-1 border-color-extra-medium-gray p-15px last-paragraph-no-margin">
+                        <div class="border-top border-1 border-color-extra-medium-gray p-15px last-paragraph-no-margin">
                             <p>Project management - <span class="fw-600 text-dark-gray ls-minus-05px">275% Growth</span>
                             </p>
-                        </div> --}}
+                        </div>
                     </div>
                 </div>
                 <div class="col sm-mb-30px">
@@ -262,8 +262,8 @@
 
                     </div>
                 </div>
-            </div>
-            <div class="row position-relative clients-style-08 mb-6 sm-mb-40px"
+            </div> --}}
+            {{--  {{--  <div class="row position-relative clients-style-08 mb-6 sm-mb-40px"
                 data-anime='{ "translateX": [0, 0], "opacity": [0, 1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
 
                 <div class="col swiper text-center feather-shadow"
@@ -419,8 +419,130 @@
 
 
                 </div>
+            </div> --}}
+            <div class="row position-relative clients-style-08 mb-6 sm-mb-40px "
+                data-anime='{ "translateX": [0, 0], "opacity": [0, 1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
+
+                <div class="col swiper text-center feather-shadow"
+                    data-slider-options='{"slidesPerView": 2, "spaceBetween":0, "speed": 6000, "loop": true, "pagination": {"el": ".slider-four-slide-pagination-2", "clickable": false }, "allowTouchMove": false, "autoplay": {"delay":0, "disableOnInteraction": false }, "navigation": { "nextEl": ".slider-four-slide-next-2", "prevEl": ".slider-four-slide-prev-2" }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "1200": { "slidesPerView": 4 }, "992": { "slidesPerView": 4 }, "768": { "slidesPerView": 3 } }, "effect": "slide" }'>
+
+                    <div class="swiper-wrapper marquee-slide" id="dynamic-slider-wrapper">
+                        <!-- Dynamically generated images will be placed here -->
+                    </div>
+
+                    <!-- Additional slider controls -->
+                    <div class="slider-four-slide-pagination-2"></div>
+                    <div class="slider-four-slide-next-2"></div>
+                    <div class="slider-four-slide-prev-2"></div>
+                </div>
             </div>
-            {{--  <div class="row justify-content-center align-items-center"
+
+            <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+            <script>
+                var images = [{
+                        src: "LMS_WB.png",
+                        link: ""
+                    },
+                    {
+                        src: "swiss_wb.png",
+                        link: ""
+                    },
+                    {
+                        src: "Tanish_wb.png",
+                        link: ""
+                    },
+                    {
+                        src: "Raymond.png",
+                        link: ""
+                    },
+                    {
+                        src: "TimesAvenue2.png",
+                        link: ""
+                    },
+                    {
+                        src: "hollywood-shoppee.png",
+                        link: ""
+                    },
+                    {
+                        src:"aurangabad_electricals_wb.png",
+                        link:""
+                    },
+                    {
+                        src:"hollywood-shoppee-wb.png"
+                    }
+                ];
+
+                var dynamicSliderWrapper = document.getElementById('dynamic-slider-wrapper');
+
+                images.forEach(function(image) {
+                    var slide = document.createElement('div');
+                    slide.className = 'swiper-slide pt-0 pb-0';
+
+                    // Create a wrapper div for the image
+                    var imageWrapper = document.createElement('div');
+                    imageWrapper.style.margin = '5px'; // Set margin
+                    imageWrapper.style.border = '1px solid #510400'; 
+                    imageWrapper.style.background = '#fdf6e4';// Set border
+                    imageWrapper.style.padding = '10px'; // Optional: Set padding
+
+                    // Create img element
+                    var img = document.createElement('img');
+                    img.style.width = '600px'; 
+                    img.style.height = '200px';// Set image width
+                    img.src = 'public/images/Clients/' + image.src; // Set image src
+                    img.alt = image.alt; // Set image alt text
+
+                    // Append img to the wrapper div
+                    imageWrapper.appendChild(img);
+
+                    // Append the wrapper div to the slide div
+                    slide.appendChild(imageWrapper);
+
+                    // Append the slide to the dynamicSliderWrapper
+                    dynamicSliderWrapper.appendChild(slide);
+                });
+
+                // Initialize Swiper slider after images are generated
+                var swiper = new Swiper('.swiper', {
+                    slidesPerView: 2,
+                    spaceBetween: 5,
+                    speed: 6000,
+                    loop: true,
+                    pagination: {
+                        el: '.slider-four-slide-pagination-2',
+                        clickable: false
+                    },
+                    allowTouchMove: false,
+                    autoplay: {
+                        delay: 0,
+                        disableOnInteraction: false
+                    },
+                    navigation: {
+                        nextEl: '.slider-four-slide-next-2',
+                        prevEl: '.slider-four-slide-prev-2'
+                    },
+                    keyboard: {
+                        enabled: true,
+                        onlyInViewport: true
+                    },
+                    breakpoints: {
+                        1200: {
+                            slidesPerView: 4
+                        },
+                        992: {
+                            slidesPerView: 4
+                        },
+                        768: {
+                            slidesPerView: 3
+                        }
+                    },
+                    effect: 'slide'
+                });
+            </script>
+
+        </div>
+
+        {{--  <div class="row justify-content-center align-items-center"
                 data-anime="{ &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
                 <div class="col-12 text-center">
                     <div

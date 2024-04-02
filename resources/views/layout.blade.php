@@ -85,9 +85,13 @@
                             <li class="nav-item"><a href="{{ url('/about') }}" class="nav-link">About Us</a>
                             </li>
                             <li class="nav-item dropdown dropdown-with-icon-style02">
-                                <a href="{{ url('/products') }}" class="nav-link"> Products</a>
+                                <a href="javascript::void" class="nav-link"> Products</a>
                                 <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink"
                                     role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
+                                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                        <li><a href="{{ url('/indoor-products') }}" >Indoor Products</a></li>
+                                        <li><a href="{{ url('/outdoor-products') }}">Outdoor Products</a></li>
+                                    </ul>   
 
                             </li>
                             <li class="nav-item"><a href="{{ url('/clients') }}" class="nav-link">Clients</a>
