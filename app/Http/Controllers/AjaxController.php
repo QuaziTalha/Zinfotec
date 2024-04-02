@@ -28,7 +28,7 @@ class AjaxController extends Controller
     public function Index(Request $req)
     {
         $visitor = DB::table('visitor')->insert(['ip' => $req->getClientIp()]);
-        $data = DB::table('blogs')->get();
+        $data = DB::table('clients')->get();
         return view('Index', ["data" => $data]);
     }
 

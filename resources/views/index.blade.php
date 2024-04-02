@@ -263,7 +263,7 @@
 
 
                     <div class="swiper-wrapper marquee-slide">
-                        <script>
+                        {{-- <script>
                             var images = [{
                                     src: "tanishq-dark.png",
                                     link: ""
@@ -406,7 +406,11 @@
                                 document.write('<div class="swiper-slide"><a href="' + images[i].link + '"><img src="public/images/Clients/' +
                                     images[i].src + '" class="h-50px xs-h-30px" alt /></a></div>');
                             }
-                        </script>
+                        </script> --}}
+                        @foreach ($data as $row)
+                        <div class="swiper-slide"><a href="#"><img src="{{url('public/client/'.$row->logo)}}" title="{{$row->name}}" class="h-100px xs-h-50px" alt /></a></div>
+                        @endforeach
+
                     </div>
 
 
