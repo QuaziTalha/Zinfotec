@@ -41,12 +41,12 @@
         <div class="header-top-bar top-bar-dark bg-very-light-gray">
             <div class="container-fluid">
                 <div class="row h-45px xs-h-auto align-items-center m-0 xs-pt-5px xs-pb-5px">
-                    <div class="col-lg-4 col-md-7 text-center text-md-start xs-px-0">
+                    <div class="col-lg-6 col-md-7 text-center text-md-start xs-px-0">
                         <div class="fs-15 text-dark-gray fw-500">Our experts waiting for you! <a
                                 href="{{ url('contact') }}"
                                 class="text-dark-gray text-decoration-line-bottom fw-600">Contact now</a></div>
                     </div>
-                    <div class="col-lg-8 col-md-5 text-end d-none d-md-flex">
+                    <div class="col-lg-6 col-md-5 text-end d-none d-md-flex">
                         <div class="widget fs-15 fw-500 me-35px lg-me-25px md-me-0 text-dark-gray"><a class= "mx-1"
                                 href="tel:+91 92 7262 7262"><i class="feather icon-feather-phone-call"></i>92 7262
                                 7262</a>
@@ -57,9 +57,7 @@
                                     class="feather icon-feather-phone-call"></i>92 7271
                                 7271</a> --}}
                         </div>
-                        <div class="widget fs-15 fw-500 text-dark-gray d-none d-lg-inline-block"><i
-                                class="feather icon-feather-map-pin"></i>Basement Supreme Commerce Classes, Khokadpura,
-                             Aurangabad(MS)</div>
+                       
                     </div>
                 </div>
             </div>
@@ -87,9 +85,13 @@
                             <li class="nav-item"><a href="{{ url('/about') }}" class="nav-link">About Us</a>
                             </li>
                             <li class="nav-item dropdown dropdown-with-icon-style02">
-                                <a href="{{ url('/products') }}" class="nav-link"> Products</a>
+                                <a href="javascript::void" class="nav-link"> Products</a>
                                 <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink"
                                     role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
+                                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                        <li><a href="{{ url('/indoor-products') }}" >Indoor Products</a></li>
+                                        <li><a href="{{ url('/outdoor-products') }}">Outdoor Products</a></li>
+                                    </ul>   
 
                             </li>
                             <li class="nav-item"><a href="{{ url('/clients') }}" class="nav-link">Clients</a>
@@ -101,7 +103,7 @@
                     </div>
                 </div>
                 <div class="col-auto col-lg-2 text-end d-none d-sm-flex">
-                    <div class="header-icon">
+                    <div class="header-icon">   
                         <div class="header-button">
                             <a href="{{ url('/contact') }}"
                                 class="btn btn-small btn-rounded btn-base-color btn-box-shadow">Get a Qoute</a>
@@ -167,7 +169,7 @@
 
 
                 <div class="col-6 col-lg-2 col-sm-4 xs-mb-30px order-sm-3 order-lg-2">
-
+                    
                     <ul>
                         <li><a href=" {{ url('/about') }}">About</a></li>
                         <li><a href="{{ url('/products') }}">Products</a></li>
@@ -188,7 +190,7 @@
                 </div> --}}
 
 
-                <div class="col-6 col-lg-2 col-sm-4 xs-mb-30px order-sm-5 order-lg-4">
+                <div class="col-6 col-lg-2 col-sm-4 xs-mb-30px order-sm-5 order-lg-4">                    
                     <p class="mb-5px">Need support?</p>
                     <a href="cdn-cgi/l/email-protection#096160496d6664686067276a6664"
                         class="text-white lh-16 d-block mb-15px"><span class="__cf_email__"
@@ -219,11 +221,11 @@
                 </div>
 
             </div>
-
+           
         </div>
     </footer>
 
-
+    
     <div class="sticky-wrap d-none d-lg-inline-block" data-animation-delay="100" data-shadow-animation="true">
         <span class="fs-16"><i class="bi bi-envelope icon-small me-10px"></i>Get our service — <a
                 href="{{ url('/contact') }}"
@@ -239,7 +241,7 @@
     </div>
 
 
-
+ 
     <script type="text/javascript" src="public/js/vendors.min.js"></script>
     <script type="text/javascript" src="public/js/main.js"></script>
 </body>

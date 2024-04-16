@@ -7,11 +7,11 @@
                 <div class="col-xl-7 col-md-9 col-sm-9 position-relative text-white"
                     data-anime='{ "el": "childs", "opacity": [0, 1], "translateY": [30, 0], "staggervalue": 200, "easing": "easeInOutSine" }'>
                     <div class="fs-80 lh-75 sm-fs-65 fw-600 mb-20px text-shadow-large ls-minus-2px">Unleash the Power of LED
-                        Screens</div>
+                        </div>
                     <div>
                         <span class=" fs-20 w-70 md-w-85 mb-25px fw-300 d-inline-block text-light">
-                            Attention-grabbing advertising that commands attention and leaves a lasting impression.
-                            Illuminate your brand's message with vibrant colors</span>
+                            Illuminate your brand's message with vibrant colors, seamless animations, and high-definition
+                            clarity</span>
                     </div>
                     <div class="icon-with-text-style-08">
                         <div class="feature-box feature-box-left-icon-middle">
@@ -39,18 +39,17 @@
                     <div class="row mt-10 align-items-center">
                         <div class="col-xl-5 col-lg-6 col-sm-5 xs-mb-25px text-center">
                             <div class="position-relative">
-                                <span class="w-200px h-200px bg-main2 rounded-circle d-inline-block"
-                                    data-anime="{ &quot;opacity&quot;: [0, 1], &quot;staggervalue&quot;: 0, &quot;easing&quot;: &quot;easeOutQuad&quot; }"></span>
-                                <span
-                                    class="fs-160 lg-fs-150 text-dark-gray fw-700 position-absolute left-0px ls-minus-5px md-top-40px" style="top: -15%; width: 125%; "
-                                    data-anime="{ &quot;opacity&quot;: [0, 1], &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeOutQuad&quot; }">10+</span>
+                               <span class="w-200px h-200px bg-main2 rounded-circle d-inline-block" data-anime="{ &quot;opacity&quot;: [0, 1], &quot;staggervalue&quot;: 0, &quot;easing&quot;: &quot;easeOutQuad&quot; }"></span>
+<span class="fs-160 lg-fs-150 text-dark-gray fw-700 position-absolute left-0px w-100 top-50 ls-minus-5px md-top-40px" data-anime="{ &quot;opacity&quot;: [0, 1], &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeOutQuad&quot; }">10</span>
+
                             </div>
                         </div>
                         <div class="col-xl-7 col-lg-6 col-sm-7 ps-45px lg-ps-15px last-paragraph-no-margin text-center text-sm-start"
                             data-anime="{  &quot;opacity&quot;: [0,1], &quot;delay&quot;: 100, &quot;staggervalue&quot;: 250, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
                             <h5 class="fw-600 text-dark-gray ls-minus-1px mb-15px">Years working experience.</h5>
-                            <p>With over a decade of relentless dedication and expertise, ZinfoTec Technologies PVT. LTD. has emerged as a trailblazer in the LED display industry. </p>
-                            <a href="{{url('products')}}"
+                            <p>We put a strong focus on the needs of business to figure out solutions that best fits your
+                                demand.</p>
+                            <a href="demo-accounting-process.html"
                                 class="btn btn-link btn-hover-animation-switch btn-extra-large text-base-color text-transform-none fw-600 mt-15px">
                                 <span>
                                     <span class="btn-text">Discover now</span>
@@ -86,7 +85,13 @@
                                 <span class="form-icon"><i class="bi bi-telephone-outbound"></i></span>
                                 <input type="tel" name="phone" class="form-control" placeholder="Your phone" />
                             </div>
-
+                            <div class="position-relative terms-condition-box text-start d-inline-block">
+                                <label>
+                                    <input type="checkbox" name="terms_condition" id="terms_condition" value="1"
+                                        class="terms-condition check-box align-middle required">
+                                    <span class="box fs-16">I agree to the terms of service.</span>
+                                </label>
+                            </div>
                             <div class="position-relative mt-20px">
                                 <button class="btn btn-large btn-round-edge btn-base-color btn-box-shadow submit w-100"
                                     type="submit">Get free quote</button>
@@ -222,7 +227,7 @@
                         in LED display technology</h4>
                 </div>
             </div>
-            <div class="row row-cols-1 row-cols-md-3 justify-content-center mb-7 sm-mb-45px"
+            {{-- <div class="row row-cols-1 row-cols-md-3 justify-content-center mb-7 sm-mb-45px"
                 data-anime='{ "el": "childs", "translateY": [50, 0], "rotateX":[30, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                 <div class="col sm-mb-30px">
                     <div
@@ -230,10 +235,10 @@
                         <div class="pt-10 pb-10">
                             <img src="public/images/Clients/tanishq.png" alt />
                         </div>
-                        {{-- <div class="border-top border-1 border-color-extra-medium-gray p-15px last-paragraph-no-margin">
+                        <div class="border-top border-1 border-color-extra-medium-gray p-15px last-paragraph-no-margin">
                             <p>Project management - <span class="fw-600 text-dark-gray ls-minus-05px">275% Growth</span>
                             </p>
-                        </div> --}}
+                        </div>
                     </div>
                 </div>
                 <div class="col sm-mb-30px">
@@ -254,8 +259,8 @@
 
                     </div>
                 </div>
-            </div>
-            <div class="row position-relative clients-style-08 mb-6 sm-mb-40px"
+            </div> --}}
+            {{--  {{--  <div class="row position-relative clients-style-08 mb-6 sm-mb-40px"
                 data-anime='{ "translateX": [0, 0], "opacity": [0, 1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
 
                 <div class="col swiper text-center feather-shadow"
@@ -263,7 +268,7 @@
 
 
                     <div class="swiper-wrapper marquee-slide">
-                        {{-- <script>
+                        <script>
                             var images = [{
                                     src: "tanishq-dark.png",
                                     link: ""
@@ -406,17 +411,77 @@
                                 document.write('<div class="swiper-slide"><a href="' + images[i].link + '"><img src="public/images/Clients/' +
                                     images[i].src + '" class="h-50px xs-h-30px" alt /></a></div>');
                             }
-                        </script> --}}
-                        @foreach ($data as $row)
-                        <div class="swiper-slide"><a href="#"><img src="{{url('public/client/'.$row->logo)}}" title="{{$row->name}}" class="h-100px xs-h-50px" alt /></a></div>
-                        @endforeach
-
+                        </script>
                     </div>
 
 
                 </div>
+            </div> --}}
+            <div class="row position-relative clients-style-08 mb-6 sm-mb-40px "
+                data-anime='{ "translateX": [0, 0], "opacity": [0, 1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
+
+                <div class="col swiper text-center feather-shadow"
+                    data-slider-options='{"slidesPerView": 2, "spaceBetween":0, "speed": 6000, "loop": true, "pagination": {"el": ".slider-four-slide-pagination-2", "clickable": false }, "allowTouchMove": false, "autoplay": {"delay":0, "disableOnInteraction": false }, "navigation": { "nextEl": ".slider-four-slide-next-2", "prevEl": ".slider-four-slide-prev-2" }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "1200": { "slidesPerView": 4 }, "992": { "slidesPerView": 4 }, "768": { "slidesPerView": 3 } }, "effect": "slide" }'>
+
+                    <div class="swiper-wrapper marquee-slide" id="dynamic-slider-wrapper">
+                        @foreach ($data as $row)
+
+                        <div class="swiper-slide pt-0 pb-0" {{-- style="width: 192px;" --}} role="group" aria-label="1 / 8" data-swiper-slide-index="0"><div><img src="{{url('public/client/'.$row->logo)}}"  data-no-retina=""></div></div>
+                        @endforeach
+                    </div>
+
+                    <!-- Additional slider controls -->
+                    <div class="slider-four-slide-pagination-2"></div>
+                    <div class="slider-four-slide-next-2"></div>
+                    <div class="slider-four-slide-prev-2"></div>
+                </div>
             </div>
-            {{--  <div class="row justify-content-center align-items-center"
+
+            <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+            <script>
+
+
+                // Initialize Swiper slider after images are generated
+                var swiper = new Swiper('.swiper', {
+                    slidesPerView: 2,
+                    spaceBetween: 5,
+                    speed: 6000,
+                    loop: true,
+                    pagination: {
+                        el: '.slider-four-slide-pagination-2',
+                        clickable: false
+                    },
+                    allowTouchMove: false,
+                    autoplay: {
+                        delay: 0,
+                        disableOnInteraction: false
+                    },
+                    navigation: {
+                        nextEl: '.slider-four-slide-next-2',
+                        prevEl: '.slider-four-slide-prev-2'
+                    },
+                    keyboard: {
+                        enabled: true,
+                        onlyInViewport: true
+                    },
+                    breakpoints: {
+                        1200: {
+                            slidesPerView: 4
+                        },
+                        992: {
+                            slidesPerView: 4
+                        },
+                        768: {
+                            slidesPerView: 3
+                        }
+                    },
+                    effect: 'slide'
+                });
+            </script>
+
+        </div>
+
+        {{--  <div class="row justify-content-center align-items-center"
                 data-anime="{ &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
                 <div class="col-12 text-center">
                     <div

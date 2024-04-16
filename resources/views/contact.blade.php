@@ -104,8 +104,8 @@
 >                                <i class="bi bi-send icon-large text-dark-gray animation-zoom"></i>
                                 </div>
                             </div>
-
-                            <form action="https://craftohtml.themezaa.com/email-templates/contact-form.php" method="post"
+                            
+                            <form action="database.php" method="post"
                                 class="row contact-form-style-02">
                                 <div class="col-md-6 mb-30px">
                                     <input class="input-name form-control required" type="text" name="name"
@@ -167,8 +167,8 @@
                     </div>
                 </div>
             </div>
-        </section>
-
+        </section>    
 
        
+        
 @endsection
