@@ -7,7 +7,7 @@
                 <div class="col-xl-7 col-md-9 col-sm-9 position-relative text-white"
                     data-anime='{ "el": "childs", "opacity": [0, 1], "translateY": [30, 0], "staggervalue": 200, "easing": "easeInOutSine" }'>
                     <div class="fs-80 lh-75 sm-fs-65 fw-600 mb-20px text-shadow-large ls-minus-2px">Unleash the Power of LED
-                        </div>
+                    </div>
                     <div>
                         <span class=" fs-20 w-70 md-w-85 mb-25px fw-300 d-inline-block text-light">
                             Illuminate your brand's message with vibrant colors, seamless animations, and high-definition
@@ -39,8 +39,11 @@
                     <div class="row mt-10 align-items-center">
                         <div class="col-xl-5 col-lg-6 col-sm-5 xs-mb-25px text-center">
                             <div class="position-relative">
-                               <span class="w-200px h-200px bg-main2 rounded-circle d-inline-block" data-anime="{ &quot;opacity&quot;: [0, 1], &quot;staggervalue&quot;: 0, &quot;easing&quot;: &quot;easeOutQuad&quot; }"></span>
-<span class="fs-160 lg-fs-150 text-dark-gray fw-700 position-absolute left-0px w-100 top-50 ls-minus-5px md-top-40px" data-anime="{ &quot;opacity&quot;: [0, 1], &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeOutQuad&quot; }">10</span>
+                                <span class="w-200px h-200px bg-main2 rounded-circle d-inline-block"
+                                    data-anime="{ &quot;opacity&quot;: [0, 1], &quot;staggervalue&quot;: 0, &quot;easing&quot;: &quot;easeOutQuad&quot; }"></span>
+                                <span
+                                    class="fs-160 lg-fs-150 text-dark-gray fw-700 position-absolute left-0px w-100 top-50 ls-minus-5px md-top-40px"
+                                    data-anime="{ &quot;opacity&quot;: [0, 1], &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeOutQuad&quot; }">10</span>
 
                             </div>
                         </div>
@@ -425,8 +428,10 @@
 
                     <div class="swiper-wrapper marquee-slide" id="dynamic-slider-wrapper">
                         @foreach ($data as $row)
-
-                        <div class="swiper-slide pt-0 pb-0" {{-- style="width: 192px;" --}} role="group" aria-label="1 / 8" data-swiper-slide-index="0"><div><img src="{{url('public/client/'.$row->logo)}}"  data-no-retina=""></div></div>
+                            <div class="swiper-slide pt-0 pb-0" {{-- style="width: 192px;" --}} role="group" aria-label="1 / 8"
+                                data-swiper-slide-index="0">
+                                <div><img src="{{ url('public/client/' . $row->logo) }}" data-no-retina=""></div>
+                            </div>
                         @endforeach
                     </div>
 
@@ -439,8 +444,6 @@
 
             <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
             <script>
-
-
                 // Initialize Swiper slider after images are generated
                 var swiper = new Swiper('.swiper', {
                     slidesPerView: 2,
